@@ -29,3 +29,7 @@ export const metadata = {
     creator: "@NecroIPTV",
   },
 };
+
+export default function RefundPolicyLayout({ children }) {
+  return children;
+}

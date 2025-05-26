@@ -29,3 +29,7 @@ export const metadata = {
     creator: "@NecroIPTV",
   },
 };
+
+export default function MultiDeviceLayout({ children }) {
+  return children;
+}

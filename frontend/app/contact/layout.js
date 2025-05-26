@@ -29,3 +29,7 @@ export const metadata = {
     creator: "@NecroIPTV",
   },
 };
+
+export default function ContactLayout({ children }) {
+  return children;
+}
