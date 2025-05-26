@@ -11,7 +11,6 @@ import Link from "next/link";
 import { FaCheck, FaCrown, FaInfinity, FaStar } from "react-icons/fa";
 import MultiDevicePricing from "../app/multi-device/page";
 import Testimonials from "./components/sections/Testimonials";
-import Head from "next/head";
 
 const lifetimeFeatures = [
   "One-Time Payment",
@@ -25,41 +24,6 @@ const lifetimeFeatures = [
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Necro IPTV - #1 Premium IPTV Service | 25,000+ Live Channels & 60,000+ VOD</title>
-        <meta name="description" content="Necro IPTV - The world's leading premium IPTV service with 25,000+ live TV channels and 60,000+ movies & series in HD/4K quality. Buffer-free streaming on all devices. Subscribe today!" />
-        <meta name="keywords" content="Necro IPTV, NecroIPTV, premium IPTV service, best IPTV provider, live TV channels, IPTV subscription, HD 4K streaming, buffer-free IPTV" />
-        <link rel="canonical" href="https://necroiptv.us" />
-        
-        {/* Structured Data for Homepage */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Product",
-              "name": "Necro IPTV Premium Service",
-              "description": "Premium IPTV service with 25,000+ live channels and 60,000+ VOD content in HD/4K quality",
-              "brand": {
-                "@type": "Brand",
-                "name": "Necro IPTV"
-              },
-              "offers": {
-                "@type": "Offer",
-                "price": "10.99",
-                "priceCurrency": "USD",
-                "availability": "https://schema.org/InStock",
-                "url": "https://necroiptv.us/pricing"
-              },
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "reviewCount": "1250"
-              }
-            })
-          }}
-        />
-      </Head>
       <Hero />
       <Features />
       <Platforms />
