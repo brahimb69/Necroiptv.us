@@ -1,0 +1,7772 @@
+{
+  "regions": [
+    {
+      "name": "USA",
+      "channels": [
+        {
+          "country": "US",
+          "name": "ABC"
+        },
+        {
+          "country": "US",
+          "name": "NBC"
+        },
+        {
+          "country": "US",
+          "name": "CBS"
+        },
+        {
+          "country": "US",
+          "name": "FOX"
+        },
+        {
+          "country": "US",
+          "name": "PBS"
+        },
+        {
+          "country": "US",
+          "name": "The CW"
+        },
+        {
+          "country": "US",
+          "name": "Univision"
+        },
+        {
+          "country": "US",
+          "name": "Telemundo"
+        },
+        {
+          "country": "US",
+          "name": "MyNetworkTV"
+        },
+        {
+          "country": "US",
+          "name": "A&E"
+        },
+        {
+          "country": "US",
+          "name": "AMC"
+        },
+        {
+          "country": "US",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "US",
+          "name": "BBC America"
+        },
+        {
+          "country": "US",
+          "name": "BET"
+        },
+        {
+          "country": "US",
+          "name": "Bloomberg"
+        },
+        {
+          "country": "US",
+          "name": "Bravo"
+        },
+        {
+          "country": "US",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "US",
+          "name": "CBS Sports Network"
+        },
+        {
+          "country": "US",
+          "name": "Cheddar"
+        },
+        {
+          "country": "US",
+          "name": "CMT"
+        },
+        {
+          "country": "US",
+          "name": "CNBC"
+        },
+        {
+          "country": "US",
+          "name": "CNN"
+        },
+        {
+          "country": "US",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "US",
+          "name": "Cooking Channel"
+        },
+        {
+          "country": "US",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "US",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "US",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "US",
+          "name": "Disney XD"
+        },
+        {
+          "country": "US",
+          "name": "DIY Network"
+        },
+        {
+          "country": "US",
+          "name": "E!"
+        },
+        {
+          "country": "US",
+          "name": "ESPN"
+        },
+        {
+          "country": "US",
+          "name": "ESPN2"
+        },
+        {
+          "country": "US",
+          "name": "ESPNU"
+        },
+        {
+          "country": "US",
+          "name": "ESPNews"
+        },
+        {
+          "country": "US",
+          "name": "Food Network"
+        },
+        {
+          "country": "US",
+          "name": "Fox Business"
+        },
+        {
+          "country": "US",
+          "name": "Fox News"
+        },
+        {
+          "country": "US",
+          "name": "Fox Sports 1"
+        },
+        {
+          "country": "US",
+          "name": "Fox Sports 2"
+        },
+        {
+          "country": "US",
+          "name": "Freeform"
+        },
+        {
+          "country": "US",
+          "name": "FX"
+        },
+        {
+          "country": "US",
+          "name": "FXX"
+        },
+        {
+          "country": "US",
+          "name": "FYI"
+        },
+        {
+          "country": "US",
+          "name": "Golf Channel"
+        },
+        {
+          "country": "US",
+          "name": "Hallmark Channel"
+        },
+        {
+          "country": "US",
+          "name": "HBO"
+        },
+        {
+          "country": "US",
+          "name": "HBO 2"
+        },
+        {
+          "country": "US",
+          "name": "HBO Comedy"
+        },
+        {
+          "country": "US",
+          "name": "HBO Family"
+        },
+        {
+          "country": "US",
+          "name": "HBO Latino"
+        },
+        {
+          "country": "US",
+          "name": "HBO Signature"
+        },
+        {
+          "country": "US",
+          "name": "HBO Zone"
+        },
+        {
+          "country": "US",
+          "name": "HGTV"
+        },
+        {
+          "country": "US",
+          "name": "History Channel"
+        },
+        {
+          "country": "US",
+          "name": "HLN"
+        },
+        {
+          "country": "US",
+          "name": "IFC"
+        },
+        {
+          "country": "US",
+          "name": "Lifetime"
+        },
+        {
+          "country": "US",
+          "name": "MLB Network"
+        },
+        {
+          "country": "US",
+          "name": "MSNBC"
+        },
+        {
+          "country": "US",
+          "name": "MTV"
+        },
+        {
+          "country": "US",
+          "name": "MTV2"
+        },
+        {
+          "country": "US",
+          "name": "National Geographic"
+        },
+        {
+          "country": "US",
+          "name": "Nat Geo Wild"
+        },
+        {
+          "country": "US",
+          "name": "NBC Sports Network"
+        },
+        {
+          "country": "US",
+          "name": "NFL Network"
+        },
+        {
+          "country": "US",
+          "name": "NHL Network"
+        },
+        {
+          "country": "US",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "US",
+          "name": "Nick Jr."
+        },
+        {
+          "country": "US",
+          "name": "Nicktoons"
+        },
+        {
+          "country": "US",
+          "name": "OWN"
+        },
+        {
+          "country": "US",
+          "name": "Oxygen"
+        },
+        {
+          "country": "US",
+          "name": "Paramount Network"
+        },
+        {
+          "country": "US",
+          "name": "PBS Kids"
+        },
+        {
+          "country": "US",
+          "name": "Pop"
+        },
+        {
+          "country": "US",
+          "name": "QVC"
+        },
+        {
+          "country": "US",
+          "name": "Reelz"
+        },
+        {
+          "country": "US",
+          "name": "Science Channel"
+        },
+        {
+          "country": "US",
+          "name": "Showtime"
+        },
+        {
+          "country": "US",
+          "name": "Showtime 2"
+        },
+        {
+          "country": "US",
+          "name": "Showtime Extreme"
+        },
+        {
+          "country": "US",
+          "name": "Showtime Showcase"
+        },
+        {
+          "country": "US",
+          "name": "Smithsonian Channel"
+        },
+        {
+          "country": "US",
+          "name": "Spike"
+        },
+        {
+          "country": "US",
+          "name": "Starz"
+        },
+        {
+          "country": "US",
+          "name": "Starz Cinema"
+        },
+        {
+          "country": "US",
+          "name": "Starz Comedy"
+        },
+        {
+          "country": "US",
+          "name": "Starz Edge"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Action"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Black"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Classic"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Family"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Suspense"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Westerns"
+        },
+        {
+          "country": "US",
+          "name": "Starz in Black"
+        },
+        {
+          "country": "US",
+          "name": "Starz Kids & Family"
+        },
+        {
+          "country": "US",
+          "name": "Sundance TV"
+        },
+        {
+          "country": "US",
+          "name": "Syfy"
+        },
+        {
+          "country": "US",
+          "name": "TBS"
+        },
+        {
+          "country": "US",
+          "name": "TCM"
+        },
+        {
+          "country": "US",
+          "name": "Telemundo"
+        },
+        {
+          "country": "US",
+          "name": "Tennis Channel"
+        },
+        {
+          "country": "US",
+          "name": "The Weather Channel"
+        },
+        {
+          "country": "US",
+          "name": "TLC"
+        },
+        {
+          "country": "US",
+          "name": "TNT"
+        },
+        {
+          "country": "US",
+          "name": "Travel Channel"
+        },
+        {
+          "country": "US",
+          "name": "truTV"
+        },
+        {
+          "country": "US",
+          "name": "TV Land"
+        },
+        {
+          "country": "US",
+          "name": "Univision"
+        },
+        {
+          "country": "US",
+          "name": "USA Network"
+        },
+        {
+          "country": "US",
+          "name": "VH1"
+        },
+        {
+          "country": "US",
+          "name": "Viceland"
+        }
+      ]
+    },
+    {
+      "name": "CANADA",
+      "channels": [
+        {
+          "country": "CA",
+          "name": "CBC"
+        },
+        {
+          "country": "CA",
+          "name": "CBC News Network"
+        },
+        {
+          "country": "CA",
+          "name": "CTV"
+        },
+        {
+          "country": "CA",
+          "name": "CTV 2"
+        },
+        {
+          "country": "CA",
+          "name": "CTV News Channel"
+        },
+        {
+          "country": "CA",
+          "name": "Global"
+        },
+        {
+          "country": "CA",
+          "name": "Global News"
+        },
+        {
+          "country": "CA",
+          "name": "Citytv"
+        },
+        {
+          "country": "CA",
+          "name": "TVA"
+        },
+        {
+          "country": "CA",
+          "name": "TVA Sports"
+        },
+        {
+          "country": "CA",
+          "name": "V"
+        },
+        {
+          "country": "CA",
+          "name": "Télé-Québec"
+        },
+        {
+          "country": "CA",
+          "name": "CBC Gem"
+        },
+        {
+          "country": "CA",
+          "name": "Radio-Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Noovo"
+        },
+        {
+          "country": "CA",
+          "name": "Knowledge Network"
+        },
+        {
+          "country": "CA",
+          "name": "CP24"
+        },
+        {
+          "country": "CA",
+          "name": "RDS"
+        },
+        {
+          "country": "CA",
+          "name": "RDS2"
+        },
+        {
+          "country": "CA",
+          "name": "TSN"
+        },
+        {
+          "country": "CA",
+          "name": "TSN2"
+        },
+        {
+          "country": "CA",
+          "name": "Sportsnet"
+        },
+        {
+          "country": "CA",
+          "name": "Sportsnet One"
+        },
+        {
+          "country": "CA",
+          "name": "Sportsnet 360"
+        },
+        {
+          "country": "CA",
+          "name": "Sportsnet World"
+        },
+        {
+          "country": "CA",
+          "name": "The Sports Network (TSN)"
+        },
+        {
+          "country": "CA",
+          "name": "Sportsnet Now"
+        },
+        {
+          "country": "CA",
+          "name": "Super Channel"
+        },
+        {
+          "country": "CA",
+          "name": "Super Écran"
+        },
+        {
+          "country": "CA",
+          "name": "Movie Network"
+        },
+        {
+          "country": "CA",
+          "name": "HBO Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Crave"
+        },
+        {
+          "country": "CA",
+          "name": "Crave 1"
+        },
+        {
+          "country": "CA",
+          "name": "Crave 2"
+        },
+        {
+          "country": "CA",
+          "name": "Crave 3"
+        },
+        {
+          "country": "CA",
+          "name": "Crave 4"
+        },
+        {
+          "country": "CA",
+          "name": "Starz Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Family Channel"
+        },
+        {
+          "country": "CA",
+          "name": "Family Jr."
+        },
+        {
+          "country": "CA",
+          "name": "Family CHRGD"
+        },
+        {
+          "country": "CA",
+          "name": "YTV"
+        },
+        {
+          "country": "CA",
+          "name": "Treehouse TV"
+        },
+        {
+          "country": "CA",
+          "name": "Teletoon"
+        },
+        {
+          "country": "CA",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "CA",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "CA",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "CA",
+          "name": "Disney XD"
+        },
+        {
+          "country": "CA",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "CA",
+          "name": "Boomerang"
+        },
+        {
+          "country": "CA",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "CA",
+          "name": "Discovery Science"
+        },
+        {
+          "country": "CA",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "CA",
+          "name": "National Geographic"
+        },
+        {
+          "country": "CA",
+          "name": "Nat Geo Wild"
+        },
+        {
+          "country": "CA",
+          "name": "HGTV Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Food Network Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Cooking Channel"
+        },
+        {
+          "country": "CA",
+          "name": "Slice"
+        },
+        {
+          "country": "CA",
+          "name": "W Network"
+        },
+        {
+          "country": "CA",
+          "name": "Lifetime Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Showcase"
+        },
+        {
+          "country": "CA",
+          "name": "History"
+        },
+        {
+          "country": "CA",
+          "name": "FYI"
+        },
+        {
+          "country": "CA",
+          "name": "Crime + Investigation"
+        },
+        {
+          "country": "CA",
+          "name": "A&E"
+        },
+        {
+          "country": "CA",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "CA",
+          "name": "BBC Canada"
+        },
+        {
+          "country": "CA",
+          "name": "BBC World News"
+        },
+        {
+          "country": "CA",
+          "name": "CNN"
+        },
+        {
+          "country": "CA",
+          "name": "CNBC"
+        },
+        {
+          "country": "CA",
+          "name": "Fox News"
+        },
+        {
+          "country": "CA",
+          "name": "MSNBC"
+        },
+        {
+          "country": "CA",
+          "name": "Bloomberg"
+        },
+        {
+          "country": "CA",
+          "name": "BNN Bloomberg"
+        },
+        {
+          "country": "CA",
+          "name": "CPAC"
+        },
+        {
+          "country": "CA",
+          "name": "AMC"
+        },
+        {
+          "country": "CA",
+          "name": "Bravo Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Comedy Network"
+        },
+        {
+          "country": "CA",
+          "name": "CMT Canada"
+        },
+        {
+          "country": "CA",
+          "name": "E! Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Much"
+        },
+        {
+          "country": "CA",
+          "name": "MTV Canada"
+        },
+        {
+          "country": "CA",
+          "name": "MTV2 Canada"
+        },
+        {
+          "country": "CA",
+          "name": "OLN"
+        },
+        {
+          "country": "CA",
+          "name": "Paramount Network Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Peachtree TV"
+        },
+        {
+          "country": "CA",
+          "name": "Silver Screen Classics"
+        },
+        {
+          "country": "CA",
+          "name": "TBS"
+        },
+        {
+          "country": "CA",
+          "name": "Turner Classic Movies (TCM)"
+        },
+        {
+          "country": "CA",
+          "name": "VisionTV"
+        },
+        {
+          "country": "CA",
+          "name": "Zoomer TV"
+        },
+        {
+          "country": "CA",
+          "name": "IFC Canada"
+        },
+        {
+          "country": "CA",
+          "name": "DIY Network Canada"
+        },
+        {
+          "country": "CA",
+          "name": "Telelatino"
+        },
+        {
+          "country": "CA",
+          "name": "BBC Kids"
+        },
+        {
+          "country": "CA",
+          "name": "Hollywood Suite"
+        },
+        {
+          "country": "CA",
+          "name": "Cottage Life"
+        }
+      ]
+    },
+    {
+      "name": "UNITED KINGDOM",
+      "channels": [
+        {
+          "country": "UK",
+          "name": "BBC One"
+        },
+        {
+          "country": "UK",
+          "name": "BBC Two"
+        },
+        {
+          "country": "UK",
+          "name": "BBC Three"
+        },
+        {
+          "country": "UK",
+          "name": "BBC Four"
+        },
+        {
+          "country": "UK",
+          "name": "BBC News"
+        },
+        {
+          "country": "UK",
+          "name": "BBC Parliament"
+        },
+        {
+          "country": "UK",
+          "name": "BBC Alba"
+        },
+        {
+          "country": "UK",
+          "name": "CBBC"
+        },
+        {
+          "country": "UK",
+          "name": "CBeebies"
+        },
+        {
+          "country": "UK",
+          "name": "ITV"
+        },
+        {
+          "country": "UK",
+          "name": "ITV2"
+        },
+        {
+          "country": "UK",
+          "name": "ITV3"
+        },
+        {
+          "country": "UK",
+          "name": "ITV4"
+        },
+        {
+          "country": "UK",
+          "name": "ITVBe"
+        },
+        {
+          "country": "UK",
+          "name": "ITV Encore"
+        },
+        {
+          "country": "UK",
+          "name": "Channel 4"
+        },
+        {
+          "country": "UK",
+          "name": "E4"
+        },
+        {
+          "country": "UK",
+          "name": "More4"
+        },
+        {
+          "country": "UK",
+          "name": "Film4"
+        },
+        {
+          "country": "UK",
+          "name": "4seven"
+        },
+        {
+          "country": "UK",
+          "name": "Channel 5"
+        },
+        {
+          "country": "UK",
+          "name": "5USA"
+        },
+        {
+          "country": "UK",
+          "name": "5Star"
+        },
+        {
+          "country": "UK",
+          "name": "5Select"
+        },
+        {
+          "country": "UK",
+          "name": "My5"
+        },
+        {
+          "country": "UK",
+          "name": "Sky One"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Two"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Arts"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Atlantic"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Witness"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Crime"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Comedy"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Documentaries"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Nature"
+        },
+        {
+          "country": "UK",
+          "name": "Sky History"
+        },
+        {
+          "country": "UK",
+          "name": "Sky History 2"
+        },
+        {
+          "country": "UK",
+          "name": "Sky News"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Main Event"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Premier League"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Football"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Cricket"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Golf"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports F1"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports NFL"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Arena"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Mix"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports Racing"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Sports News"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Premiere"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Hits"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Greats"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Disney"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Family"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Action"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Comedy"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Thriller"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Drama"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Sci-Fi & Horror"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Select"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Classics"
+        },
+        {
+          "country": "UK",
+          "name": "Sky Cinema Animation"
+        },
+        {
+          "country": "UK",
+          "name": "Now TV"
+        },
+        {
+          "country": "UK",
+          "name": "BT Sport 1"
+        },
+        {
+          "country": "UK",
+          "name": "BT Sport 2"
+        },
+        {
+          "country": "UK",
+          "name": "BT Sport 3"
+        },
+        {
+          "country": "UK",
+          "name": "BT Sport ESPN"
+        },
+        {
+          "country": "UK",
+          "name": "BT Sport Ultimate"
+        },
+        {
+          "country": "UK",
+          "name": "BT Sport Extra"
+        },
+        {
+          "country": "UK",
+          "name": "BBC Red Button"
+        },
+        {
+          "country": "UK",
+          "name": "TalkSport TV"
+        },
+        {
+          "country": "UK",
+          "name": "Premier Sports 1"
+        },
+        {
+          "country": "UK",
+          "name": "Premier Sports 2"
+        },
+        {
+          "country": "UK",
+          "name": "FreeSports"
+        },
+        {
+          "country": "UK",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "UK",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "UK",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "UK",
+          "name": "Discovery Science"
+        },
+        {
+          "country": "UK",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "UK",
+          "name": "National Geographic"
+        },
+        {
+          "country": "UK",
+          "name": "Nat Geo Wild"
+        },
+        {
+          "country": "UK",
+          "name": "History"
+        },
+        {
+          "country": "UK",
+          "name": "Crime+Investigation"
+        },
+        {
+          "country": "UK",
+          "name": "A&E"
+        },
+        {
+          "country": "UK",
+          "name": "Lifetime"
+        },
+        {
+          "country": "UK",
+          "name": "Quest"
+        },
+        {
+          "country": "UK",
+          "name": "Quest Red"
+        },
+        {
+          "country": "UK",
+          "name": "HGTV"
+        },
+        {
+          "country": "UK",
+          "name": "Food Network UK"
+        },
+        {
+          "country": "UK",
+          "name": "Travel Channel UK"
+        },
+        {
+          "country": "UK",
+          "name": "TLC"
+        },
+        {
+          "country": "UK",
+          "name": "ID"
+        },
+        {
+          "country": "UK",
+          "name": "Dave"
+        },
+        {
+          "country": "UK",
+          "name": "Drama"
+        },
+        {
+          "country": "UK",
+          "name": "Alibi"
+        },
+        {
+          "country": "UK",
+          "name": "Yesterday"
+        },
+        {
+          "country": "UK",
+          "name": "Gold"
+        },
+        {
+          "country": "UK",
+          "name": "W"
+        },
+        {
+          "country": "UK",
+          "name": "Eden"
+        },
+        {
+          "country": "UK",
+          "name": "Home"
+        },
+        {
+          "country": "UK",
+          "name": "Really"
+        },
+        {
+          "country": "UK",
+          "name": "Comedy Central UK"
+        },
+        {
+          "country": "UK",
+          "name": "MTV UK"
+        },
+        {
+          "country": "UK",
+          "name": "MTV Music"
+        },
+        {
+          "country": "UK",
+          "name": "MTV Hits"
+        },
+        {
+          "country": "UK",
+          "name": "MTV Base"
+        },
+        {
+          "country": "UK",
+          "name": "MTV Dance"
+        },
+        {
+          "country": "UK",
+          "name": "MTV Rocks"
+        },
+        {
+          "country": "UK",
+          "name": "MTV Classic"
+        },
+        {
+          "country": "UK",
+          "name": "VH1"
+        },
+        {
+          "country": "UK",
+          "name": "Kiss TV"
+        },
+        {
+          "country": "UK",
+          "name": "Magic TV"
+        },
+        {
+          "country": "UK",
+          "name": "The Box"
+        },
+        {
+          "country": "UK",
+          "name": "Box Hits"
+        },
+        {
+          "country": "UK",
+          "name": "Box Upfront"
+        },
+        {
+          "country": "UK",
+          "name": "Kerrang!"
+        },
+        {
+          "country": "UK",
+          "name": "Smash Hits"
+        },
+        {
+          "country": "UK",
+          "name": "Scuzz"
+        },
+        {
+          "country": "UK",
+          "name": "Film4"
+        },
+        {
+          "country": "UK",
+          "name": "Horror Channel"
+        },
+        {
+          "country": "UK",
+          "name": "True Movies"
+        },
+        {
+          "country": "UK",
+          "name": "True Entertainment"
+        },
+        {
+          "country": "UK",
+          "name": "True Drama"
+        },
+        {
+          "country": "UK",
+          "name": "True Crime"
+        },
+        {
+          "country": "UK",
+          "name": "True Movies 2"
+        },
+        {
+          "country": "UK",
+          "name": "True Entertainment +1"
+        },
+        {
+          "country": "UK",
+          "name": "True Crime +1"
+        },
+        {
+          "country": "UK",
+          "name": "Sony Channel"
+        },
+        {
+          "country": "UK",
+          "name": "Sony Movies"
+        },
+        {
+          "country": "UK",
+          "name": "Sony Movies Action"
+        },
+        {
+          "country": "UK",
+          "name": "Sony Movies Classic"
+        },
+        {
+          "country": "UK",
+          "name": "TCM Movies"
+        },
+        {
+          "country": "UK",
+          "name": "TCM Movies +1"
+        },
+        {
+          "country": "UK",
+          "name": "Talking Pictures TV"
+        },
+        {
+          "country": "UK",
+          "name": "Film4"
+        },
+        {
+          "country": "UK",
+          "name": "More4"
+        },
+        {
+          "country": "UK",
+          "name": "4Music"
+        },
+        {
+          "country": "UK",
+          "name": "4seven"
+        },
+        {
+          "country": "UK",
+          "name": "5Spike"
+        },
+        {
+          "country": "UK",
+          "name": "Blaze"
+        },
+        {
+          "country": "UK",
+          "name": "Challenge"
+        },
+        {
+          "country": "UK",
+          "name": "CBS Drama"
+        },
+        {
+          "country": "UK",
+          "name": "CBS Justice"
+        },
+        {
+          "country": "UK",
+          "name": "CBS Reality"
+        },
+        {
+          "country": "UK",
+          "name": "CBS Action"
+        },
+        {
+          "country": "UK",
+          "name": "Pick"
+        },
+        {
+          "country": "UK",
+          "name": "Pick +1"
+        },
+        {
+          "country": "UK",
+          "name": "Quest"
+        },
+        {
+          "country": "UK",
+          "name": "Quest Red"
+        },
+        {
+          "country": "UK",
+          "name": "Real Lives"
+        },
+        {
+          "country": "UK",
+          "name": "Universal TV"
+        },
+        {
+          "country": "UK",
+          "name": "Watch"
+        },
+        {
+          "country": "UK",
+          "name": "Yesterday"
+        },
+        {
+          "country": "UK",
+          "name": "Zee TV"
+        },
+        {
+          "country": "UK",
+          "name": "Zing"
+        },
+        {
+          "country": "UK",
+          "name": "Colors"
+        },
+        {
+          "country": "UK",
+          "name": "Colors Rishtey"
+        },
+        {
+          "country": "UK",
+          "name": "Colors Cineplex"
+        },
+        {
+          "country": "UK",
+          "name": "B4U Movies"
+        },
+        {
+          "country": "UK",
+          "name": "B4U Music"
+        },
+        {
+          "country": "UK",
+          "name": "Star Gold"
+        },
+        {
+          "country": "UK",
+          "name": "Star Plus"
+        },
+        {
+          "country": "UK",
+          "name": "Star Bharat"
+        },
+        {
+          "country": "UK",
+          "name": "Sony TV"
+        },
+        {
+          "country": "UK",
+          "name": "Sony SAB"
+        },
+        {
+          "country": "UK",
+          "name": "Sony MAX"
+        },
+        {
+          "country": "UK",
+          "name": "Utsav Gold"
+        },
+        {
+          "country": "UK",
+          "name": "Utsav Plus"
+        },
+        {
+          "country": "UK",
+          "name": "Utsav Bharat"
+        },
+        {
+          "country": "UK",
+          "name": "PTC Punjabi"
+        },
+        {
+          "country": "UK",
+          "name": "PTC News"
+        },
+        {
+          "country": "UK",
+          "name": "NDTV 24×7"
+        },
+        {
+          "country": "UK",
+          "name": "Aaj Tak"
+        },
+        {
+          "country": "UK",
+          "name": "News18 India"
+        },
+        {
+          "country": "UK",
+          "name": "Republic Bharat"
+        },
+        {
+          "country": "UK",
+          "name": "Times Now"
+        },
+        {
+          "country": "UK",
+          "name": "WION"
+        },
+        {
+          "country": "UK",
+          "name": "Al Jazeera"
+        },
+        {
+          "country": "UK",
+          "name": "RT UK"
+        },
+        {
+          "country": "UK",
+          "name": "France 24"
+        },
+        {
+          "country": "UK",
+          "name": "CNN International"
+        },
+        {
+          "country": "UK",
+          "name": "Bloomberg Television"
+        },
+        {
+          "country": "UK",
+          "name": "CNBC Europe"
+        },
+        {
+          "country": "UK",
+          "name": "NHK World-Japan"
+        },
+        {
+          "country": "UK",
+          "name": "CGTN"
+        },
+        {
+          "country": "UK",
+          "name": "Sky News"
+        },
+        {
+          "country": "UK",
+          "name": "BBC World News"
+        },
+        {
+          "country": "UK",
+          "name": "Euronews"
+        },
+        {
+          "country": "UK",
+          "name": "ITV News"
+        },
+        {
+          "country": "UK",
+          "name": "Channel 4 News"
+        },
+        {
+          "country": "UK",
+          "name": "5 News"
+        },
+        {
+          "country": "UK",
+          "name": "GB News"
+        },
+        {
+          "country": "UK",
+          "name": "S4C"
+        },
+        {
+          "country": "UK",
+          "name": "STV"
+        }
+      ]
+    },
+    {
+      "name": "AUSTRALIA",
+      "channels": [
+        {
+          "country": "AU",
+          "name": "ABC"
+        },
+        {
+          "country": "AU",
+          "name": "ABC TV Plus"
+        },
+        {
+          "country": "AU",
+          "name": "ABC Me"
+        },
+        {
+          "country": "AU",
+          "name": "ABC News"
+        },
+        {
+          "country": "AU",
+          "name": "SBS"
+        },
+        {
+          "country": "AU",
+          "name": "SBS Viceland"
+        },
+        {
+          "country": "AU",
+          "name": "SBS World Movies"
+        },
+        {
+          "country": "AU",
+          "name": "SBS Food"
+        },
+        {
+          "country": "AU",
+          "name": "SBS World News"
+        },
+        {
+          "country": "AU",
+          "name": "Seven Network"
+        },
+        {
+          "country": "AU",
+          "name": "7TWO"
+        },
+        {
+          "country": "AU",
+          "name": "7mate"
+        },
+        {
+          "country": "AU",
+          "name": "7flix"
+        },
+        {
+          "country": "AU",
+          "name": "Racing.com"
+        },
+        {
+          "country": "AU",
+          "name": "Nine Network"
+        },
+        {
+          "country": "AU",
+          "name": "9Gem"
+        },
+        {
+          "country": "AU",
+          "name": "9Go!"
+        },
+        {
+          "country": "AU",
+          "name": "9Life"
+        },
+        {
+          "country": "AU",
+          "name": "9Rush"
+        },
+        {
+          "country": "AU",
+          "name": "10"
+        },
+        {
+          "country": "AU",
+          "name": "10 Bold"
+        },
+        {
+          "country": "AU",
+          "name": "10 Peach"
+        },
+        {
+          "country": "AU",
+          "name": "10 Shake"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News Australia"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News Weather"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News Extra"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News UK"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports News"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports 1"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports 2"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports 3"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports 4"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports 5"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports 6"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Cricket"
+        },
+        {
+          "country": "AU",
+          "name": "Fox League"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Footy"
+        },
+        {
+          "country": "AU",
+          "name": "Fox Sports Ultra HD"
+        },
+        {
+          "country": "AU",
+          "name": "ESPN"
+        },
+        {
+          "country": "AU",
+          "name": "ESPN2"
+        },
+        {
+          "country": "AU",
+          "name": "beIN Sports 1"
+        },
+        {
+          "country": "AU",
+          "name": "beIN Sports 2"
+        },
+        {
+          "country": "AU",
+          "name": "beIN Sports 3"
+        },
+        {
+          "country": "AU",
+          "name": "Kayo Sports"
+        },
+        {
+          "country": "AU",
+          "name": "Optus Sport"
+        },
+        {
+          "country": "AU",
+          "name": "Racing.com"
+        },
+        {
+          "country": "AU",
+          "name": "Racing.com 2"
+        },
+        {
+          "country": "AU",
+          "name": "Horse & Country"
+        },
+        {
+          "country": "AU",
+          "name": "Sky Racing 1"
+        },
+        {
+          "country": "AU",
+          "name": "Sky Racing 2"
+        },
+        {
+          "country": "AU",
+          "name": "Sky Racing Active"
+        },
+        {
+          "country": "AU",
+          "name": "BBC First"
+        },
+        {
+          "country": "AU",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "AU",
+          "name": "BBC UKTV"
+        },
+        {
+          "country": "AU",
+          "name": "BBC World News"
+        },
+        {
+          "country": "AU",
+          "name": "CNN International"
+        },
+        {
+          "country": "AU",
+          "name": "CNBC"
+        },
+        {
+          "country": "AU",
+          "name": "Bloomberg Television"
+        },
+        {
+          "country": "AU",
+          "name": "Al Jazeera"
+        },
+        {
+          "country": "AU",
+          "name": "Euronews"
+        },
+        {
+          "country": "AU",
+          "name": "Channel NewsAsia"
+        },
+        {
+          "country": "AU",
+          "name": "CGTN"
+        },
+        {
+          "country": "AU",
+          "name": "NHK World-Japan"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News Business"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News Weather"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Premiere"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Hits"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Family"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Action"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Comedy"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Greats"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Thriller"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Drama"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Romance"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Disney"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Kids"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Masterpiece"
+        },
+        {
+          "country": "AU",
+          "name": "Foxtel Movies Ultra HD"
+        },
+        {
+          "country": "AU",
+          "name": "Showcase"
+        },
+        {
+          "country": "AU",
+          "name": "Universal TV"
+        },
+        {
+          "country": "AU",
+          "name": "Syfy"
+        },
+        {
+          "country": "AU",
+          "name": "Fox8"
+        },
+        {
+          "country": "AU",
+          "name": "FOX Classics"
+        },
+        {
+          "country": "AU",
+          "name": "13th Street"
+        },
+        {
+          "country": "AU",
+          "name": "Arena"
+        },
+        {
+          "country": "AU",
+          "name": "Lifestyle"
+        },
+        {
+          "country": "AU",
+          "name": "Lifestyle Food"
+        },
+        {
+          "country": "AU",
+          "name": "Lifestyle Home"
+        },
+        {
+          "country": "AU",
+          "name": "Lifestyle YOU"
+        },
+        {
+          "country": "AU",
+          "name": "A&E"
+        },
+        {
+          "country": "AU",
+          "name": "History"
+        },
+        {
+          "country": "AU",
+          "name": "Crime + Investigation"
+        },
+        {
+          "country": "AU",
+          "name": "National Geographic"
+        },
+        {
+          "country": "AU",
+          "name": "Nat Geo Wild"
+        },
+        {
+          "country": "AU",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "AU",
+          "name": "Discovery Science"
+        },
+        {
+          "country": "AU",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "AU",
+          "name": "TLC"
+        },
+        {
+          "country": "AU",
+          "name": "Investigation Discovery"
+        },
+        {
+          "country": "AU",
+          "name": "Travel Channel"
+        },
+        {
+          "country": "AU",
+          "name": "HGTV"
+        },
+        {
+          "country": "AU",
+          "name": "Food Network"
+        },
+        {
+          "country": "AU",
+          "name": "MTV"
+        },
+        {
+          "country": "AU",
+          "name": "MTV Classic"
+        },
+        {
+          "country": "AU",
+          "name": "MTV Music"
+        },
+        {
+          "country": "AU",
+          "name": "Nick Music"
+        },
+        {
+          "country": "AU",
+          "name": "VH1"
+        },
+        {
+          "country": "AU",
+          "name": "CMT"
+        },
+        {
+          "country": "AU",
+          "name": "V"
+        },
+        {
+          "country": "AU",
+          "name": "MAX"
+        },
+        {
+          "country": "AU",
+          "name": "[V] Hits"
+        },
+        {
+          "country": "AU",
+          "name": "Nick Jr."
+        },
+        {
+          "country": "AU",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "AU",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "AU",
+          "name": "Boomerang"
+        },
+        {
+          "country": "AU",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "AU",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "AU",
+          "name": "Disney XD"
+        },
+        {
+          "country": "AU",
+          "name": "CBeebies"
+        },
+        {
+          "country": "AU",
+          "name": "BabyTV"
+        },
+        {
+          "country": "AU",
+          "name": "Discovery Kids"
+        },
+        {
+          "country": "AU",
+          "name": "NBC Universal News"
+        },
+        {
+          "country": "AU",
+          "name": "Fox News"
+        },
+        {
+          "country": "AU",
+          "name": "MSNBC"
+        },
+        {
+          "country": "AU",
+          "name": "Sky News UK"
+        }
+      ]
+    },
+    {
+      "name": "BRAZIL",
+      "channels": [
+        {
+          "country": "BR",
+          "name": "Globo"
+        },
+        {
+          "country": "BR",
+          "name": "SBT (Sistema Brasileiro de Televisão)"
+        },
+        {
+          "country": "BR",
+          "name": "Record TV"
+        },
+        {
+          "country": "BR",
+          "name": "Band (Rede Bandeirantes)"
+        },
+        {
+          "country": "BR",
+          "name": "RedeTV!"
+        },
+        {
+          "country": "BR",
+          "name": "Cultura (TV Cultura)"
+        },
+        {
+          "country": "BR",
+          "name": "Gazeta"
+        },
+        {
+          "country": "BR",
+          "name": "Rede Brasil (RBTV)"
+        },
+        {
+          "country": "BR",
+          "name": "CNT (Central Nacional de Televisão)"
+        },
+        {
+          "country": "BR",
+          "name": "TV Aparecida"
+        },
+        {
+          "country": "BR",
+          "name": "Futura"
+        },
+        {
+          "country": "BR",
+          "name": "RIT (Rede Internacional de Televisão)"
+        },
+        {
+          "country": "BR",
+          "name": "Record News"
+        },
+        {
+          "country": "BR",
+          "name": "GloboNews"
+        },
+        {
+          "country": "BR",
+          "name": "SporTV"
+        },
+        {
+          "country": "BR",
+          "name": "ESPN Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Fox Sports Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "BandSports"
+        },
+        {
+          "country": "BR",
+          "name": "Premiere FC"
+        },
+        {
+          "country": "BR",
+          "name": "Combate"
+        },
+        {
+          "country": "BR",
+          "name": "Discovery Channel Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Nat Geo Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Animal Planet Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "TLC Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Discovery Kids Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Cartoon Network Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Nickelodeon Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Disney Channel Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Gloob"
+        },
+        {
+          "country": "BR",
+          "name": "Universal TV"
+        },
+        {
+          "country": "BR",
+          "name": "AXN Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Warner Channel Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "HBO Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Telecine"
+        },
+        {
+          "country": "BR",
+          "name": "TNT Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Space Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Cinemax Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "FX Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Syfy Brasil"
+        },
+        {
+          "country": "BR",
+          "name": "Megapix"
+        }
+      ]
+    },
+    {
+      "name": "COLOMBIA",
+      "channels": [
+        {
+          "country": "CO",
+          "name": "Caracol Televisión"
+        },
+        {
+          "country": "CO",
+          "name": "RCN Televisión"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 1"
+        },
+        {
+          "country": "CO",
+          "name": "Canal Trece"
+        },
+        {
+          "country": "CO",
+          "name": "Canal Capital"
+        },
+        {
+          "country": "CO",
+          "name": "Señal Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Teleantioquia"
+        },
+        {
+          "country": "CO",
+          "name": "Telepacífico"
+        },
+        {
+          "country": "CO",
+          "name": "Telecaribe"
+        },
+        {
+          "country": "CO",
+          "name": "Telecafé"
+        },
+        {
+          "country": "CO",
+          "name": "Teleislas"
+        },
+        {
+          "country": "CO",
+          "name": "NTN24"
+        },
+        {
+          "country": "CO",
+          "name": "Cablenoticias"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 13"
+        },
+        {
+          "country": "CO",
+          "name": "Canal Institucional"
+        },
+        {
+          "country": "CO",
+          "name": "Citytv"
+        },
+        {
+          "country": "CO",
+          "name": "Win Sports"
+        },
+        {
+          "country": "CO",
+          "name": "Win Sports+"
+        },
+        {
+          "country": "CO",
+          "name": "ESPN Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Fox Sports Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Claro Sports Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Canal RCN HD2"
+        },
+        {
+          "country": "CO",
+          "name": "Canal RCN HD3"
+        },
+        {
+          "country": "CO",
+          "name": "Caracol Internacional"
+        },
+        {
+          "country": "CO",
+          "name": "Nuestra Tele Internacional"
+        },
+        {
+          "country": "CO",
+          "name": "Discovery Channel Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "National Geographic Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "History Channel Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "A&E Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "TLC Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Discovery Kids Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Cartoon Network Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Nickelodeon Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Disney Channel Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Disney Junior Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Disney XD Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Boomerang Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Nick Jr. Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Baby TV Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "NatGeo Kids Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Space Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "TNT Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "AXN Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Warner Channel Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Fox Channel Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "FX Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Sony Channel Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Universal TV Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Cinemax Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO 2 Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO Plus Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO Family Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO Signature Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO Mundi Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "HBO Pop Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Max Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Max Prime Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Max Up Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Cinecanal Colombia"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 23"
+        },
+        {
+          "country": "CO",
+          "name": "Canal El Tiempo"
+        },
+        {
+          "country": "CO",
+          "name": "Red+"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 26"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 14"
+        },
+        {
+          "country": "CO",
+          "name": "Zoom"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 12 Medellín"
+        },
+        {
+          "country": "CO",
+          "name": "Canal U"
+        },
+        {
+          "country": "CO",
+          "name": "Telemedellín"
+        },
+        {
+          "country": "CO",
+          "name": "Canal 10 Cartagena"
+        },
+        {
+          "country": "CO",
+          "name": "Canal Televid"
+        }
+      ]
+    },
+    {
+      "name": "MEXICO",
+      "channels": [
+        {
+          "country": "MX",
+          "name": "Televisa"
+        },
+        {
+          "country": "MX",
+          "name": "Las Estrellas"
+        },
+        {
+          "country": "MX",
+          "name": "Canal 5"
+        },
+        {
+          "country": "MX",
+          "name": "Canal 9 (Nu9ve)"
+        },
+        {
+          "country": "MX",
+          "name": "Foro TV"
+        },
+        {
+          "country": "MX",
+          "name": "TDN (Televisa Deportes Network)"
+        },
+        {
+          "country": "MX",
+          "name": "Univision TDN"
+        },
+        {
+          "country": "MX",
+          "name": "Univision"
+        },
+        {
+          "country": "MX",
+          "name": "Univision Deportes"
+        },
+        {
+          "country": "MX",
+          "name": "Univision Tlnovelas"
+        },
+        {
+          "country": "MX",
+          "name": "Canal de las Estrellas Internacional"
+        },
+        {
+          "country": "MX",
+          "name": "Tlnovelas"
+        },
+        {
+          "country": "MX",
+          "name": "Telemundo"
+        },
+        {
+          "country": "MX",
+          "name": "Azteca Uno"
+        },
+        {
+          "country": "MX",
+          "name": "Azteca 7"
+        },
+        {
+          "country": "MX",
+          "name": "adn40"
+        },
+        {
+          "country": "MX",
+          "name": "a+"
+        },
+        {
+          "country": "MX",
+          "name": "TV Azteca Internacional"
+        },
+        {
+          "country": "MX",
+          "name": "TV Azteca Noticias"
+        },
+        {
+          "country": "MX",
+          "name": "TV Azteca Deportes"
+        },
+        {
+          "country": "MX",
+          "name": "Proyecto 40 (ADN 40)"
+        },
+        {
+          "country": "MX",
+          "name": "Multimedios Televisión"
+        },
+        {
+          "country": "MX",
+          "name": "Milenio Televisión"
+        },
+        {
+          "country": "MX",
+          "name": "Canal 6"
+        },
+        {
+          "country": "MX",
+          "name": "Canal 44"
+        },
+        {
+          "country": "MX",
+          "name": "TeleFórmula"
+        },
+        {
+          "country": "MX",
+          "name": "Radio Fórmula"
+        },
+        {
+          "country": "MX",
+          "name": "Imagen Televisión"
+        },
+        {
+          "country": "MX",
+          "name": "Excélsior TV"
+        },
+        {
+          "country": "MX",
+          "name": "Canal Once"
+        },
+        {
+          "country": "MX",
+          "name": "Canal 22"
+        },
+        {
+          "country": "MX",
+          "name": "Canal 11"
+        },
+        {
+          "country": "MX",
+          "name": "TV UNAM"
+        },
+        {
+          "country": "MX",
+          "name": "Ingenio TV"
+        },
+        {
+          "country": "MX",
+          "name": "Canal del Congreso"
+        },
+        {
+          "country": "MX",
+          "name": "Canal Judicial"
+        },
+        {
+          "country": "MX",
+          "name": "TVC Deportes"
+        },
+        {
+          "country": "MX",
+          "name": "TVC"
+        },
+        {
+          "country": "MX",
+          "name": "Telehit"
+        },
+        {
+          "country": "MX",
+          "name": "Bandamax"
+        },
+        {
+          "country": "MX",
+          "name": "Ritmoson"
+        },
+        {
+          "country": "MX",
+          "name": "Tiin"
+        },
+        {
+          "country": "MX",
+          "name": "De Película"
+        },
+        {
+          "country": "MX",
+          "name": "De Película Clásico"
+        },
+        {
+          "country": "MX",
+          "name": "Golden"
+        },
+        {
+          "country": "MX",
+          "name": "Golden Edge"
+        },
+        {
+          "country": "MX",
+          "name": "Golden Plus"
+        },
+        {
+          "country": "MX",
+          "name": "Cinelatino"
+        },
+        {
+          "country": "MX",
+          "name": "Cine Mexicano"
+        },
+        {
+          "country": "MX",
+          "name": "Cine Canal"
+        },
+        {
+          "country": "MX",
+          "name": "Cine Nostalgia"
+        },
+        {
+          "country": "MX",
+          "name": "Studio Universal"
+        },
+        {
+          "country": "MX",
+          "name": "Universal TV"
+        },
+        {
+          "country": "MX",
+          "name": "AXN"
+        },
+        {
+          "country": "MX",
+          "name": "Sony Channel"
+        },
+        {
+          "country": "MX",
+          "name": "Warner Channel"
+        },
+        {
+          "country": "MX",
+          "name": "FOX"
+        },
+        {
+          "country": "MX",
+          "name": "FX"
+        },
+        {
+          "country": "MX",
+          "name": "HBO"
+        },
+        {
+          "country": "MX",
+          "name": "HBO 2"
+        },
+        {
+          "country": "MX",
+          "name": "HBO Plus"
+        },
+        {
+          "country": "MX",
+          "name": "HBO Family"
+        },
+        {
+          "country": "MX",
+          "name": "HBO Signature"
+        },
+        {
+          "country": "MX",
+          "name": "Max"
+        },
+        {
+          "country": "MX",
+          "name": "Max Prime"
+        },
+        {
+          "country": "MX",
+          "name": "Cinemax"
+        },
+        {
+          "country": "MX",
+          "name": "Space"
+        },
+        {
+          "country": "MX",
+          "name": "TNT"
+        },
+        {
+          "country": "MX",
+          "name": "Paramount Channel"
+        },
+        {
+          "country": "MX",
+          "name": "A&E"
+        },
+        {
+          "country": "MX",
+          "name": "History Channel"
+        },
+        {
+          "country": "MX",
+          "name": "National Geographic"
+        },
+        {
+          "country": "MX",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "MX",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "MX",
+          "name": "TLC"
+        },
+        {
+          "country": "MX",
+          "name": "Discovery Kids"
+        },
+        {
+          "country": "MX",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "MX",
+          "name": "Nick Jr."
+        },
+        {
+          "country": "MX",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "MX",
+          "name": "Boomerang"
+        },
+        {
+          "country": "MX",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "MX",
+          "name": "Disney XD"
+        },
+        {
+          "country": "MX",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "MX",
+          "name": "Baby TV"
+        },
+        {
+          "country": "MX",
+          "name": "NatGeo Kids"
+        },
+        {
+          "country": "MX",
+          "name": "Fox Sports"
+        },
+        {
+          "country": "MX",
+          "name": "Fox Sports 2"
+        },
+        {
+          "country": "MX",
+          "name": "Fox Sports 3"
+        },
+        {
+          "country": "MX",
+          "name": "ESPN"
+        },
+        {
+          "country": "MX",
+          "name": "ESPN 2"
+        },
+        {
+          "country": "MX",
+          "name": "ESPN 3"
+        },
+        {
+          "country": "MX",
+          "name": "Claro Sports"
+        },
+        {
+          "country": "MX",
+          "name": "Univision Deportes"
+        },
+        {
+          "country": "MX",
+          "name": "TUDN"
+        },
+        {
+          "country": "MX",
+          "name": "beIN Sports"
+        },
+        {
+          "country": "MX",
+          "name": "Afizzionados"
+        },
+        {
+          "country": "MX",
+          "name": "MVS TV"
+        }
+      ]
+    },
+    {
+      "name": "ARGENTINA",
+      "channels": [
+        {
+          "country": "AR",
+          "name": "El Trece"
+        },
+        {
+          "country": "AR",
+          "name": "Telefe"
+        },
+        {
+          "country": "AR",
+          "name": "Canal 9"
+        },
+        {
+          "country": "AR",
+          "name": "América TV"
+        },
+        {
+          "country": "AR",
+          "name": "TV Pública"
+        },
+        {
+          "country": "AR",
+          "name": "Net TV"
+        },
+        {
+          "country": "AR",
+          "name": "Canal 26"
+        },
+        {
+          "country": "AR",
+          "name": "C5N"
+        },
+        {
+          "country": "AR",
+          "name": "TN (Todo Noticias)"
+        },
+        {
+          "country": "AR",
+          "name": "Crónica TV"
+        },
+        {
+          "country": "AR",
+          "name": "A24"
+        },
+        {
+          "country": "AR",
+          "name": "IP (Información Periodística)"
+        },
+        {
+          "country": "AR",
+          "name": "América 24"
+        },
+        {
+          "country": "AR",
+          "name": "Canal de la Ciudad"
+        },
+        {
+          "country": "AR",
+          "name": "Canal 21"
+        },
+        {
+          "country": "AR",
+          "name": "Televisión Digital Abierta (TDA)"
+        },
+        {
+          "country": "AR",
+          "name": "CN23"
+        },
+        {
+          "country": "AR",
+          "name": "Encuentro"
+        },
+        {
+          "country": "AR",
+          "name": "Paka Paka"
+        },
+        {
+          "country": "AR",
+          "name": "DeporTV"
+        },
+        {
+          "country": "AR",
+          "name": "Tecnópolis TV"
+        },
+        {
+          "country": "AR",
+          "name": "INCAA TV"
+        },
+        {
+          "country": "AR",
+          "name": "Canal (á)"
+        },
+        {
+          "country": "AR",
+          "name": "Quiero Música en mi Idioma"
+        },
+        {
+          "country": "AR",
+          "name": "MuchMusic"
+        },
+        {
+          "country": "AR",
+          "name": "MTV Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Nickelodeon Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Disney Channel Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Disney Junior Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Disney XD Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Cartoon Network Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Boomerang Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Discovery Channel Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Discovery Kids Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Discovery Home & Health Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Animal Planet Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "National Geographic Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "History Channel Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "A&E Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "TLC Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Fox Channel Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "FX Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Fox Sports Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "ESPN Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "ESPN 2 Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "ESPN 3 Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Fox Sports 2"
+        },
+        {
+          "country": "AR",
+          "name": "Fox Sports 3"
+        },
+        {
+          "country": "AR",
+          "name": "TyC Sports"
+        },
+        {
+          "country": "AR",
+          "name": "TyC Sports 2"
+        },
+        {
+          "country": "AR",
+          "name": "DirecTV Sports"
+        },
+        {
+          "country": "AR",
+          "name": "El Garage TV"
+        },
+        {
+          "country": "AR",
+          "name": "El Gourmet"
+        },
+        {
+          "country": "AR",
+          "name": "Fashion TV Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "H2 (History 2)"
+        },
+        {
+          "country": "AR",
+          "name": "Syfy Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Universal TV Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Studio Universal Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Warner Channel Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Sony Channel Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "AXN Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "AMC Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Film & Arts"
+        },
+        {
+          "country": "AR",
+          "name": "TNT Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Space Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Cinemax Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "HBO Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "HBO 2 Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "HBO Plus Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "HBO Family Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "HBO Signature Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Max Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Max Prime Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Max Up Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Cinecanal Latin America"
+        },
+        {
+          "country": "AR",
+          "name": "Fox Premium"
+        }
+      ]
+    },
+    {
+      "name": "CHILE",
+      "channels": [
+        {
+          "country": "CL",
+          "name": "TVN (Televisión Nacional de Chile)"
+        },
+        {
+          "country": "CL",
+          "name": "Canal 13"
+        },
+        {
+          "country": "CL",
+          "name": "Mega"
+        },
+        {
+          "country": "CL",
+          "name": "Chilevisión"
+        },
+        {
+          "country": "CL",
+          "name": "La Red"
+        },
+        {
+          "country": "CL",
+          "name": "TV+"
+        },
+        {
+          "country": "CL",
+          "name": "Telecanal"
+        },
+        {
+          "country": "CL",
+          "name": "3TV"
+        },
+        {
+          "country": "CL",
+          "name": "CNN Chile"
+        },
+        {
+          "country": "CL",
+          "name": "Canal 24 Horas"
+        },
+        {
+          "country": "CL",
+          "name": "T13 En Vivo"
+        },
+        {
+          "country": "CL",
+          "name": "Chilevisión Noticias"
+        },
+        {
+          "country": "CL",
+          "name": "Mega Plus"
+        },
+        {
+          "country": "CL",
+          "name": "Vía X"
+        },
+        {
+          "country": "CL",
+          "name": "Zona Latina"
+        },
+        {
+          "country": "CL",
+          "name": "UCV TV"
+        },
+        {
+          "country": "CL",
+          "name": "ARTV"
+        },
+        {
+          "country": "CL",
+          "name": "Rec TV"
+        },
+        {
+          "country": "CL",
+          "name": "TVR"
+        },
+        {
+          "country": "CL",
+          "name": "Canal 22"
+        },
+        {
+          "country": "CL",
+          "name": "Canal del Fútbol (CDF)"
+        },
+        {
+          "country": "CL",
+          "name": "CDF HD"
+        },
+        {
+          "country": "CL",
+          "name": "CDF Premium"
+        },
+        {
+          "country": "CL",
+          "name": "TNT Sports Chile"
+        },
+        {
+          "country": "CL",
+          "name": "ESPN Chile"
+        },
+        {
+          "country": "CL",
+          "name": "Fox Sports Chile"
+        },
+        {
+          "country": "CL",
+          "name": "Fox Sports 1"
+        },
+        {
+          "country": "CL",
+          "name": "Fox Sports 2"
+        },
+        {
+          "country": "CL",
+          "name": "Fox Sports 3"
+        },
+        {
+          "country": "CL",
+          "name": "Vive Deportes"
+        },
+        {
+          "country": "CL",
+          "name": "Teletrak TV"
+        },
+        {
+          "country": "CL",
+          "name": "Canal de la Cámara de Diputados"
+        },
+        {
+          "country": "CL",
+          "name": "Canal del Senado"
+        },
+        {
+          "country": "CL",
+          "name": "Canal 13C"
+        },
+        {
+          "country": "CL",
+          "name": "Mega HD"
+        },
+        {
+          "country": "CL",
+          "name": "TV Educa Chile"
+        },
+        {
+          "country": "CL",
+          "name": "STGO TV"
+        },
+        {
+          "country": "CL",
+          "name": "Radio Cooperativa TV"
+        },
+        {
+          "country": "CL",
+          "name": "Televisión Regional de Chile (TVR)"
+        },
+        {
+          "country": "CL",
+          "name": "13i"
+        }
+      ]
+    },
+    {
+      "name": "CARIBBEAN",
+      "channels": [
+        {
+          "country": "JM",
+          "name": "TVJ"
+        },
+        {
+          "country": "JM",
+          "name": "CVMTV"
+        },
+        {
+          "country": "JM",
+          "name": "Hype TV"
+        },
+        {
+          "country": "JM",
+          "name": "PBCJ"
+        },
+        {
+          "country": "JM",
+          "name": "Love TV"
+        },
+        {
+          "country": "JM",
+          "name": "SportsMax"
+        },
+        {
+          "country": "TT",
+          "name": "CNC3"
+        },
+        {
+          "country": "TT",
+          "name": "TTT"
+        },
+        {
+          "country": "TT",
+          "name": "CCN TV6"
+        },
+        {
+          "country": "TT",
+          "name": "Gayelle"
+        },
+        {
+          "country": "TT",
+          "name": "WIN TV"
+        },
+        {
+          "country": "TT",
+          "name": "SportsMax"
+        },
+        {
+          "country": "TT",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "BB",
+          "name": "CBC TV 8"
+        },
+        {
+          "country": "BB",
+          "name": "CaribVision"
+        },
+        {
+          "country": "BB",
+          "name": "CBC Sports"
+        },
+        {
+          "country": "BB",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "BS",
+          "name": "ZNS-TV"
+        },
+        {
+          "country": "BS",
+          "name": "REV TV"
+        },
+        {
+          "country": "BS",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "HT",
+          "name": "TNH"
+        },
+        {
+          "country": "HT",
+          "name": "Télé 4"
+        },
+        {
+          "country": "HT",
+          "name": "Télé Ginen"
+        },
+        {
+          "country": "HT",
+          "name": "Télé Métropole"
+        },
+        {
+          "country": "HT",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "DO",
+          "name": "Telemicro"
+        },
+        {
+          "country": "DO",
+          "name": "Color Visión"
+        },
+        {
+          "country": "DO",
+          "name": "Antena 7"
+        },
+        {
+          "country": "DO",
+          "name": "Telecentro"
+        },
+        {
+          "country": "DO",
+          "name": "Telesistema 11"
+        },
+        {
+          "country": "DO",
+          "name": "CDN 37"
+        },
+        {
+          "country": "DO",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "CU",
+          "name": "Cubavisión"
+        },
+        {
+          "country": "CU",
+          "name": "Canal Educativo"
+        },
+        {
+          "country": "CU",
+          "name": "Tele Rebelde"
+        },
+        {
+          "country": "CU",
+          "name": "Canal Habana"
+        },
+        {
+          "country": "CU",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "PR",
+          "name": "WAPA-TV"
+        },
+        {
+          "country": "PR",
+          "name": "Telemundo PR"
+        },
+        {
+          "country": "PR",
+          "name": "WIPR-TV"
+        },
+        {
+          "country": "PR",
+          "name": "Univisión PR"
+        },
+        {
+          "country": "PR",
+          "name": "Mega TV"
+        },
+        {
+          "country": "PR",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "AW",
+          "name": "ATV"
+        },
+        {
+          "country": "AW",
+          "name": "TeleAruba"
+        },
+        {
+          "country": "AW",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "GD",
+          "name": "GBN TV"
+        },
+        {
+          "country": "GD",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "LC",
+          "name": "HTS"
+        },
+        {
+          "country": "LC",
+          "name": "DBS TV"
+        },
+        {
+          "country": "LC",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "KN",
+          "name": "ZIZ TV"
+        },
+        {
+          "country": "KN",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "VC",
+          "name": "SVG TV"
+        },
+        {
+          "country": "VC",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "AG",
+          "name": "ABS TV"
+        },
+        {
+          "country": "AG",
+          "name": "Flow Sports"
+        },
+        {
+          "country": "Regional",
+          "name": "CaribVision"
+        },
+        {
+          "country": "Regional",
+          "name": "SportsMax"
+        }
+      ]
+    },
+    {
+      "name": "ECUADOR",
+      "channels": [
+        {
+          "country": "EC",
+          "name": "Ecuavisa"
+        },
+        {
+          "country": "EC",
+          "name": "TC Televisión"
+        },
+        {
+          "country": "EC",
+          "name": "Teleamazonas"
+        },
+        {
+          "country": "EC",
+          "name": "RTS (RedTeleSistema)"
+        },
+        {
+          "country": "EC",
+          "name": "Gamavisión"
+        },
+        {
+          "country": "EC",
+          "name": "Canal Uno"
+        },
+        {
+          "country": "EC",
+          "name": "Telerama"
+        },
+        {
+          "country": "EC",
+          "name": "Oromar Televisión"
+        },
+        {
+          "country": "EC",
+          "name": "TVC (Televisión Centro)"
+        },
+        {
+          "country": "EC",
+          "name": "Unsion Televisión"
+        },
+        {
+          "country": "EC",
+          "name": "RTU (Radio y Televisión Unidas)"
+        },
+        {
+          "country": "EC",
+          "name": "Canal del Fútbol (CDF)"
+        },
+        {
+          "country": "EC",
+          "name": "Gama TV"
+        },
+        {
+          "country": "EC",
+          "name": "Televicentro (TVC)"
+        },
+        {
+          "country": "EC",
+          "name": "CN Plus"
+        },
+        {
+          "country": "EC",
+          "name": "Canal 1"
+        },
+        {
+          "country": "EC",
+          "name": "EL Comercio TV"
+        },
+        {
+          "country": "EC",
+          "name": "TVC Deportes"
+        },
+        {
+          "country": "EC",
+          "name": "Ecuador TV (ECTV)"
+        },
+        {
+          "country": "EC",
+          "name": "Canal 7"
+        },
+        {
+          "country": "EC",
+          "name": "Latele"
+        },
+        {
+          "country": "EC",
+          "name": "CableNoticias"
+        },
+        {
+          "country": "EC",
+          "name": "Expreso TV"
+        },
+        {
+          "country": "EC",
+          "name": "TeleSUR"
+        },
+        {
+          "country": "EC",
+          "name": "TV Familia"
+        },
+        {
+          "country": "EC",
+          "name": "Claro Sports"
+        },
+        {
+          "country": "EC",
+          "name": "DirecTV Sports"
+        },
+        {
+          "country": "EC",
+          "name": "ESPN Ecuador"
+        },
+        {
+          "country": "EC",
+          "name": "Fox Sports Ecuador"
+        },
+        {
+          "country": "EC",
+          "name": "Fox Sports 2 Ecuador"
+        }
+      ]
+    },
+    {
+      "name": "EL SALVADOR",
+      "channels": [
+        {
+          "country": "SV",
+          "name": "Canal 2"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 4"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 6"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 8"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 10"
+        },
+        {
+          "country": "SV",
+          "name": "TCS (Telecorporación Salvadoreña)"
+        },
+        {
+          "country": "SV",
+          "name": "TVX (Televisión de El Salvador)"
+        },
+        {
+          "country": "SV",
+          "name": "Gentevé"
+        },
+        {
+          "country": "SV",
+          "name": "TVO Canal 23"
+        },
+        {
+          "country": "SV",
+          "name": "Megavisión"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 12"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 21"
+        },
+        {
+          "country": "SV",
+          "name": "Canal 33"
+        },
+        {
+          "country": "SV",
+          "name": "VTV (Viva Televisión)"
+        }
+      ]
+    },
+    {
+      "name": "PANAMA",
+      "channels": [
+        {
+          "country": "PA",
+          "name": "TVN (Televisora Nacional)"
+        },
+        {
+          "country": "PA",
+          "name": "RPC TV (Canal 4)"
+        },
+        {
+          "country": "PA",
+          "name": "Telemetro (Canal 13)"
+        },
+        {
+          "country": "PA",
+          "name": "SERTV (Sistema Estatal de Radio y Televisión)"
+        },
+        {
+          "country": "PA",
+          "name": "FETV (Fundación para la Educación en la Televisión)"
+        },
+        {
+          "country": "PA",
+          "name": "NEXtv"
+        },
+        {
+          "country": "PA",
+          "name": "OYE TV"
+        },
+        {
+          "country": "PA",
+          "name": "ECO TV"
+        },
+        {
+          "country": "PA",
+          "name": "Mas 23"
+        },
+        {
+          "country": "PA",
+          "name": "Canal 21"
+        },
+        {
+          "country": "PA",
+          "name": "Hosanna Visión"
+        },
+        {
+          "country": "PA",
+          "name": "TV Max"
+        },
+        {
+          "country": "PA",
+          "name": "Cable Onda Sports"
+        },
+        {
+          "country": "PA",
+          "name": "TVN 2"
+        },
+        {
+          "country": "PA",
+          "name": "SERTV Canal 11"
+        },
+        {
+          "country": "PA",
+          "name": "SERTV Canal 12"
+        },
+        {
+          "country": "PA",
+          "name": "SERTV Canal 14"
+        },
+        {
+          "country": "PA",
+          "name": "Cable Onda Canal 3"
+        },
+        {
+          "country": "PA",
+          "name": "Cable Onda Canal 4"
+        },
+        {
+          "country": "PA",
+          "name": "Fox Sports Panama"
+        },
+        {
+          "country": "PA",
+          "name": "ESPN Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Discovery Channel Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Nat Geo Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Animal Planet Panama"
+        },
+        {
+          "country": "PA",
+          "name": "TLC Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Discovery Kids Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Cartoon Network Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Nickelodeon Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Disney Channel Panama"
+        },
+        {
+          "country": "PA",
+          "name": "HBO Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Fox Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Cinecanal Panama"
+        },
+        {
+          "country": "PA",
+          "name": "TNT Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Space Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Cinemax Panama"
+        },
+        {
+          "country": "PA",
+          "name": "FX Panama"
+        },
+        {
+          "country": "PA",
+          "name": "Syfy Panama"
+        },
+        {
+          "country": "PA",
+          "name": "AMC Panama"
+        },
+        {
+          "country": "PA",
+          "name": "AXN Panama"
+        }
+      ]
+    },
+    {
+      "name": "NORWAY",
+      "channels": [
+        {
+          "country": "US",
+          "name": "ABC"
+        },
+        {
+          "country": "US",
+          "name": "NBC"
+        },
+        {
+          "country": "US",
+          "name": "CBS"
+        },
+        {
+          "country": "US",
+          "name": "FOX"
+        },
+        {
+          "country": "US",
+          "name": "PBS"
+        },
+        {
+          "country": "US",
+          "name": "The CW"
+        },
+        {
+          "country": "US",
+          "name": "Univision"
+        },
+        {
+          "country": "US",
+          "name": "Telemundo"
+        },
+        {
+          "country": "US",
+          "name": "MyNetworkTV"
+        },
+        {
+          "country": "US",
+          "name": "A&E"
+        },
+        {
+          "country": "US",
+          "name": "AMC"
+        },
+        {
+          "country": "US",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "US",
+          "name": "BBC America"
+        },
+        {
+          "country": "US",
+          "name": "BET"
+        },
+        {
+          "country": "US",
+          "name": "Bloomberg"
+        },
+        {
+          "country": "US",
+          "name": "Bravo"
+        },
+        {
+          "country": "US",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "US",
+          "name": "CBS Sports Network"
+        },
+        {
+          "country": "US",
+          "name": "Cheddar"
+        },
+        {
+          "country": "US",
+          "name": "CMT"
+        },
+        {
+          "country": "US",
+          "name": "CNBC"
+        },
+        {
+          "country": "US",
+          "name": "CNN"
+        },
+        {
+          "country": "US",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "US",
+          "name": "Cooking Channel"
+        },
+        {
+          "country": "US",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "US",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "US",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "US",
+          "name": "Disney XD"
+        },
+        {
+          "country": "US",
+          "name": "DIY Network"
+        },
+        {
+          "country": "US",
+          "name": "E!"
+        },
+        {
+          "country": "US",
+          "name": "ESPN"
+        },
+        {
+          "country": "US",
+          "name": "ESPN2"
+        },
+        {
+          "country": "US",
+          "name": "ESPNU"
+        },
+        {
+          "country": "US",
+          "name": "ESPNews"
+        },
+        {
+          "country": "US",
+          "name": "Food Network"
+        },
+        {
+          "country": "US",
+          "name": "Fox Business"
+        },
+        {
+          "country": "US",
+          "name": "Fox News"
+        },
+        {
+          "country": "US",
+          "name": "Fox Sports 1"
+        },
+        {
+          "country": "US",
+          "name": "Fox Sports 2"
+        },
+        {
+          "country": "US",
+          "name": "Freeform"
+        },
+        {
+          "country": "US",
+          "name": "FX"
+        },
+        {
+          "country": "US",
+          "name": "FXX"
+        },
+        {
+          "country": "US",
+          "name": "FYI"
+        },
+        {
+          "country": "US",
+          "name": "Golf Channel"
+        },
+        {
+          "country": "US",
+          "name": "Hallmark Channel"
+        },
+        {
+          "country": "US",
+          "name": "HBO"
+        },
+        {
+          "country": "US",
+          "name": "HBO 2"
+        },
+        {
+          "country": "US",
+          "name": "HBO Comedy"
+        },
+        {
+          "country": "US",
+          "name": "HBO Family"
+        },
+        {
+          "country": "US",
+          "name": "HBO Latino"
+        },
+        {
+          "country": "US",
+          "name": "HBO Signature"
+        },
+        {
+          "country": "US",
+          "name": "HBO Zone"
+        },
+        {
+          "country": "US",
+          "name": "HGTV"
+        },
+        {
+          "country": "US",
+          "name": "History Channel"
+        },
+        {
+          "country": "US",
+          "name": "HLN"
+        },
+        {
+          "country": "US",
+          "name": "IFC"
+        },
+        {
+          "country": "US",
+          "name": "Lifetime"
+        },
+        {
+          "country": "US",
+          "name": "MLB Network"
+        },
+        {
+          "country": "US",
+          "name": "MSNBC"
+        },
+        {
+          "country": "US",
+          "name": "MTV"
+        },
+        {
+          "country": "US",
+          "name": "MTV2"
+        },
+        {
+          "country": "US",
+          "name": "National Geographic"
+        },
+        {
+          "country": "US",
+          "name": "Nat Geo Wild"
+        },
+        {
+          "country": "US",
+          "name": "NBC Sports Network"
+        },
+        {
+          "country": "US",
+          "name": "NFL Network"
+        },
+        {
+          "country": "US",
+          "name": "NHL Network"
+        },
+        {
+          "country": "US",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "US",
+          "name": "Nick Jr."
+        },
+        {
+          "country": "US",
+          "name": "Nicktoons"
+        },
+        {
+          "country": "US",
+          "name": "OWN"
+        },
+        {
+          "country": "US",
+          "name": "Oxygen"
+        },
+        {
+          "country": "US",
+          "name": "Paramount Network"
+        },
+        {
+          "country": "US",
+          "name": "PBS Kids"
+        },
+        {
+          "country": "US",
+          "name": "Pop"
+        },
+        {
+          "country": "US",
+          "name": "QVC"
+        },
+        {
+          "country": "US",
+          "name": "Reelz"
+        },
+        {
+          "country": "US",
+          "name": "Science Channel"
+        },
+        {
+          "country": "US",
+          "name": "Showtime"
+        },
+        {
+          "country": "US",
+          "name": "Showtime 2"
+        },
+        {
+          "country": "US",
+          "name": "Showtime Extreme"
+        },
+        {
+          "country": "US",
+          "name": "Showtime Showcase"
+        },
+        {
+          "country": "US",
+          "name": "Smithsonian Channel"
+        },
+        {
+          "country": "US",
+          "name": "Spike"
+        },
+        {
+          "country": "US",
+          "name": "Starz"
+        },
+        {
+          "country": "US",
+          "name": "Starz Cinema"
+        },
+        {
+          "country": "US",
+          "name": "Starz Comedy"
+        },
+        {
+          "country": "US",
+          "name": "Starz Edge"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Action"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Black"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Classic"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Family"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Suspense"
+        },
+        {
+          "country": "US",
+          "name": "Starz Encore Westerns"
+        },
+        {
+          "country": "US",
+          "name": "Starz in Black"
+        },
+        {
+          "country": "US",
+          "name": "Starz Kids & Family"
+        },
+        {
+          "country": "US",
+          "name": "Sundance TV"
+        },
+        {
+          "country": "US",
+          "name": "Syfy"
+        },
+        {
+          "country": "US",
+          "name": "TBS"
+        },
+        {
+          "country": "US",
+          "name": "TCM"
+        },
+        {
+          "country": "US",
+          "name": "Telemundo"
+        },
+        {
+          "country": "US",
+          "name": "Tennis Channel"
+        },
+        {
+          "country": "US",
+          "name": "The Weather Channel"
+        },
+        {
+          "country": "US",
+          "name": "TLC"
+        },
+        {
+          "country": "US",
+          "name": "TNT"
+        },
+        {
+          "country": "US",
+          "name": "Travel Channel"
+        },
+        {
+          "country": "US",
+          "name": "truTV"
+        },
+        {
+          "country": "US",
+          "name": "TV Land"
+        },
+        {
+          "country": "US",
+          "name": "Univision"
+        },
+        {
+          "country": "US",
+          "name": "USA Network"
+        },
+        {
+          "country": "US",
+          "name": "VH1"
+        },
+        {
+          "country": "US",
+          "name": "Viceland"
+        }
+      ]
+    },
+    {
+      "name": "DENMARK",
+      "channels": [
+        {
+          "country": "DK",
+          "name": "DR1"
+        },
+        {
+          "country": "DK",
+          "name": "DR2"
+        },
+        {
+          "country": "DK",
+          "name": "DR3"
+        },
+        {
+          "country": "DK",
+          "name": "DR Ramasjang"
+        },
+        {
+          "country": "DK",
+          "name": "DR Ultra"
+        },
+        {
+          "country": "DK",
+          "name": "TV2"
+        },
+        {
+          "country": "DK",
+          "name": "TV2 Zulu"
+        },
+        {
+          "country": "DK",
+          "name": "TV2 Charlie"
+        },
+        {
+          "country": "DK",
+          "name": "TV2 News"
+        },
+        {
+          "country": "DK",
+          "name": "TV2 Sport"
+        },
+        {
+          "country": "DK",
+          "name": "TV2 Fri"
+        },
+        {
+          "country": "DK",
+          "name": "TV3"
+        },
+        {
+          "country": "DK",
+          "name": "TV3+"
+        },
+        {
+          "country": "DK",
+          "name": "TV3 Puls"
+        },
+        {
+          "country": "DK",
+          "name": "Kanal 4"
+        },
+        {
+          "country": "DK",
+          "name": "Kanal 5"
+        },
+        {
+          "country": "DK",
+          "name": "6’eren"
+        },
+        {
+          "country": "DK",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "DK",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "DK",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "DK",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "DK",
+          "name": "National Geographic"
+        },
+        {
+          "country": "DK",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "DK",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "DK",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "DK",
+          "name": "C More First"
+        },
+        {
+          "country": "DK",
+          "name": "C More Hits"
+        },
+        {
+          "country": "DK",
+          "name": "C More Series"
+        },
+        {
+          "country": "DK",
+          "name": "C More Stars"
+        },
+        {
+          "country": "DK",
+          "name": "Viasat Film"
+        },
+        {
+          "country": "DK",
+          "name": "Viasat Series"
+        },
+        {
+          "country": "DK",
+          "name": "Viasat History"
+        },
+        {
+          "country": "DK",
+          "name": "Viasat Nature"
+        },
+        {
+          "country": "DK",
+          "name": "Viasat Explorer"
+        },
+        {
+          "country": "DK",
+          "name": "Viasport 1"
+        },
+        {
+          "country": "DK",
+          "name": "Viasport 2"
+        },
+        {
+          "country": "DK",
+          "name": "Viasport 3"
+        },
+        {
+          "country": "DK",
+          "name": "HBO Nordic"
+        },
+        {
+          "country": "DK",
+          "name": "BBC Brit"
+        },
+        {
+          "country": "DK",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "DK",
+          "name": "BBC World News"
+        },
+        {
+          "country": "DK",
+          "name": "Sky News"
+        },
+        {
+          "country": "DK",
+          "name": "CNN International"
+        },
+        {
+          "country": "DK",
+          "name": "MTV"
+        },
+        {
+          "country": "DK",
+          "name": "VH1"
+        },
+        {
+          "country": "DK",
+          "name": "TLC"
+        }
+      ]
+    },
+    {
+      "name": "SWEDEN",
+      "channels": [
+        {
+          "country": "SE",
+          "name": "SVT1"
+        },
+        {
+          "country": "SE",
+          "name": "SVT2"
+        },
+        {
+          "country": "SE",
+          "name": "SVT Barn"
+        },
+        {
+          "country": "SE",
+          "name": "SVT24"
+        },
+        {
+          "country": "SE",
+          "name": "Kunskapskanalen"
+        },
+        {
+          "country": "SE",
+          "name": "TV3"
+        },
+        {
+          "country": "SE",
+          "name": "TV4"
+        },
+        {
+          "country": "SE",
+          "name": "TV6"
+        },
+        {
+          "country": "SE",
+          "name": "TV8"
+        },
+        {
+          "country": "SE",
+          "name": "TV10"
+        },
+        {
+          "country": "SE",
+          "name": "Sjuan"
+        },
+        {
+          "country": "SE",
+          "name": "TV12"
+        },
+        {
+          "country": "SE",
+          "name": "Kanal 5"
+        },
+        {
+          "country": "SE",
+          "name": "Kanal 9"
+        },
+        {
+          "country": "SE",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "SE",
+          "name": "TLC"
+        },
+        {
+          "country": "SE",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "SE",
+          "name": "National Geographic"
+        },
+        {
+          "country": "SE",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "SE",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "SE",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "SE",
+          "name": "C More First"
+        },
+        {
+          "country": "SE",
+          "name": "C More Hits"
+        },
+        {
+          "country": "SE",
+          "name": "C More Series"
+        },
+        {
+          "country": "SE",
+          "name": "C More Stars"
+        },
+        {
+          "country": "SE",
+          "name": "Viasat Film"
+        },
+        {
+          "country": "SE",
+          "name": "Viasat Series"
+        },
+        {
+          "country": "SE",
+          "name": "Viasat History"
+        },
+        {
+          "country": "SE",
+          "name": "Viasat Nature"
+        },
+        {
+          "country": "SE",
+          "name": "Viasat Explorer"
+        },
+        {
+          "country": "SE",
+          "name": "Viasport 1"
+        },
+        {
+          "country": "SE",
+          "name": "Viasport 2"
+        },
+        {
+          "country": "SE",
+          "name": "Viasport 3"
+        },
+        {
+          "country": "SE",
+          "name": "HBO Nordic"
+        },
+        {
+          "country": "SE",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "SE",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "SE",
+          "name": "BBC Brit"
+        },
+        {
+          "country": "SE",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "SE",
+          "name": "BBC World News"
+        },
+        {
+          "country": "SE",
+          "name": "Sky News"
+        },
+        {
+          "country": "SE",
+          "name": "CNN International"
+        },
+        {
+          "country": "SE",
+          "name": "MTV"
+        },
+        {
+          "country": "SE",
+          "name": "VH1"
+        }
+      ]
+    },
+    {
+      "name": "FINLAND",
+      "channels": [
+        {
+          "country": "FI",
+          "name": "Yle TV1"
+        },
+        {
+          "country": "FI",
+          "name": "Yle TV2"
+        },
+        {
+          "country": "FI",
+          "name": "Yle Teema & Fem"
+        },
+        {
+          "country": "FI",
+          "name": "MTV3"
+        },
+        {
+          "country": "FI",
+          "name": "Sub"
+        },
+        {
+          "country": "FI",
+          "name": "AVA"
+        },
+        {
+          "country": "FI",
+          "name": "Nelonen"
+        },
+        {
+          "country": "FI",
+          "name": "Jim"
+        },
+        {
+          "country": "FI",
+          "name": "Liv"
+        },
+        {
+          "country": "FI",
+          "name": "Hero"
+        },
+        {
+          "country": "FI",
+          "name": "AlfaTV"
+        },
+        {
+          "country": "FI",
+          "name": "TV5"
+        },
+        {
+          "country": "FI",
+          "name": "Kutonen"
+        },
+        {
+          "country": "FI",
+          "name": "Frii"
+        },
+        {
+          "country": "FI",
+          "name": "TLC"
+        },
+        {
+          "country": "FI",
+          "name": "National Geographic"
+        },
+        {
+          "country": "FI",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "FI",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "FI",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "FI",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "FI",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "FI",
+          "name": "C More First"
+        },
+        {
+          "country": "FI",
+          "name": "C More Hits"
+        },
+        {
+          "country": "FI",
+          "name": "C More Series"
+        },
+        {
+          "country": "FI",
+          "name": "C More Stars"
+        },
+        {
+          "country": "FI",
+          "name": "Viasat Film"
+        },
+        {
+          "country": "FI",
+          "name": "Viasat Series"
+        },
+        {
+          "country": "FI",
+          "name": "Viasat History"
+        },
+        {
+          "country": "FI",
+          "name": "Viasat Nature"
+        },
+        {
+          "country": "FI",
+          "name": "Viasat Explorer"
+        },
+        {
+          "country": "FI",
+          "name": "Viasport 1"
+        },
+        {
+          "country": "FI",
+          "name": "Viasport 2"
+        },
+        {
+          "country": "FI",
+          "name": "Viasport 3"
+        },
+        {
+          "country": "FI",
+          "name": "HBO Nordic"
+        },
+        {
+          "country": "FI",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "FI",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "FI",
+          "name": "BBC Brit"
+        },
+        {
+          "country": "FI",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "FI",
+          "name": "BBC World News"
+        },
+        {
+          "country": "FI",
+          "name": "Sky News"
+        },
+        {
+          "country": "FI",
+          "name": "CNN International"
+        },
+        {
+          "country": "FI",
+          "name": "MTV"
+        },
+        {
+          "country": "FI",
+          "name": "VH1"
+        }
+      ]
+    },
+    {
+      "name": "ICELAND",
+      "channels": [
+        {
+          "country": "IS",
+          "name": "RÚV"
+        },
+        {
+          "country": "IS",
+          "name": "RÚV 2"
+        },
+        {
+          "country": "IS",
+          "name": "Stöð 2"
+        },
+        {
+          "country": "IS",
+          "name": "Stöð 2 Sport"
+        },
+        {
+          "country": "IS",
+          "name": "Stöð 2 Bíó"
+        },
+        {
+          "country": "IS",
+          "name": "Stöð 2 Krakkar"
+        },
+        {
+          "country": "IS",
+          "name": "Stöð 2 Gull"
+        },
+        {
+          "country": "IS",
+          "name": "Stöð 2 eSport"
+        },
+        {
+          "country": "IS",
+          "name": "Sjónvarp Símans"
+        },
+        {
+          "country": "IS",
+          "name": "Sjónvarp Símans Sport"
+        },
+        {
+          "country": "IS",
+          "name": "Sjónvarp Símans Krakkar"
+        },
+        {
+          "country": "IS",
+          "name": "Sjónvarp Símans Bíó"
+        },
+        {
+          "country": "IS",
+          "name": "Sýn"
+        },
+        {
+          "country": "IS",
+          "name": "SkjárEinn"
+        },
+        {
+          "country": "IS",
+          "name": "Hringbraut"
+        },
+        {
+          "country": "IS",
+          "name": "N4"
+        },
+        {
+          "country": "IS",
+          "name": "RÚV+ (RÚV Extra)"
+        },
+        {
+          "country": "IS",
+          "name": "ÍNN"
+        },
+        {
+          "country": "IS",
+          "name": "BBC Brit"
+        },
+        {
+          "country": "IS",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "IS",
+          "name": "National Geographic"
+        },
+        {
+          "country": "IS",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "IS",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "IS",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "IS",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "IS",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "IS",
+          "name": "C More First"
+        },
+        {
+          "country": "IS",
+          "name": "C More Hits"
+        },
+        {
+          "country": "IS",
+          "name": "C More Series"
+        },
+        {
+          "country": "IS",
+          "name": "C More Stars"
+        },
+        {
+          "country": "IS",
+          "name": "Viasat Film"
+        },
+        {
+          "country": "IS",
+          "name": "Viasat Series"
+        },
+        {
+          "country": "IS",
+          "name": "Viasat History"
+        },
+        {
+          "country": "IS",
+          "name": "Viasat Nature"
+        },
+        {
+          "country": "IS",
+          "name": "Viasat Explorer"
+        },
+        {
+          "country": "IS",
+          "name": "Viasport 1"
+        },
+        {
+          "country": "IS",
+          "name": "Viasport 2"
+        },
+        {
+          "country": "IS",
+          "name": "Viasport 3"
+        },
+        {
+          "country": "IS",
+          "name": "HBO Nordic"
+        },
+        {
+          "country": "IS",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "IS",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "IS",
+          "name": "Sky News"
+        },
+        {
+          "country": "IS",
+          "name": "CNN International"
+        },
+        {
+          "country": "IS",
+          "name": "MTV"
+        }
+      ]
+    },
+    {
+      "name": "NETHERLANDS",
+      "channels": [
+        {
+          "country": "NL",
+          "name": "NPO 1"
+        },
+        {
+          "country": "NL",
+          "name": "NPO 2"
+        },
+        {
+          "country": "NL",
+          "name": "NPO 3"
+        },
+        {
+          "country": "NL",
+          "name": "RTL 4"
+        },
+        {
+          "country": "NL",
+          "name": "RTL 5"
+        },
+        {
+          "country": "NL",
+          "name": "RTL 7"
+        },
+        {
+          "country": "NL",
+          "name": "RTL 8"
+        },
+        {
+          "country": "NL",
+          "name": "SBS6"
+        },
+        {
+          "country": "NL",
+          "name": "Net5"
+        },
+        {
+          "country": "NL",
+          "name": "Veronica"
+        },
+        {
+          "country": "NL",
+          "name": "RTL Z"
+        },
+        {
+          "country": "NL",
+          "name": "RTL Crime"
+        },
+        {
+          "country": "NL",
+          "name": "RTL Lounge"
+        },
+        {
+          "country": "NL",
+          "name": "RTL Telekids"
+        },
+        {
+          "country": "NL",
+          "name": "SBS9"
+        },
+        {
+          "country": "NL",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "NL",
+          "name": "TLC"
+        },
+        {
+          "country": "NL",
+          "name": "National Geographic"
+        },
+        {
+          "country": "NL",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "NL",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "NL",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "NL",
+          "name": "Fox"
+        },
+        {
+          "country": "NL",
+          "name": "Ziggo Sport"
+        },
+        {
+          "country": "NL",
+          "name": "Ziggo Sport Totaal"
+        },
+        {
+          "country": "NL",
+          "name": "ESPN"
+        },
+        {
+          "country": "NL",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "NL",
+          "name": "Disney XD"
+        },
+        {
+          "country": "NL",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "NL",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "NL",
+          "name": "MTV"
+        },
+        {
+          "country": "NL",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "NL",
+          "name": "Spike"
+        },
+        {
+          "country": "NL",
+          "name": "Fox Sports Eredivisie"
+        },
+        {
+          "country": "NL",
+          "name": "Fox Sports International"
+        },
+        {
+          "country": "NL",
+          "name": "HBO Nederland"
+        },
+        {
+          "country": "NL",
+          "name": "Film1 Premiere"
+        },
+        {
+          "country": "NL",
+          "name": "Film1 Action"
+        },
+        {
+          "country": "NL",
+          "name": "Film1 Family"
+        },
+        {
+          "country": "NL",
+          "name": "Film1 Drama"
+        },
+        {
+          "country": "NL",
+          "name": "Film1 Sundance"
+        },
+        {
+          "country": "NL",
+          "name": "BBC First"
+        },
+        {
+          "country": "NL",
+          "name": "BBC Entertainment"
+        },
+        {
+          "country": "NL",
+          "name": "BBC World News"
+        }
+      ]
+    },
+    {
+      "name": "SWITZERLAND",
+      "channels": [
+        {
+          "country": "CH",
+          "name": "SRF 1"
+        },
+        {
+          "country": "CH",
+          "name": "SRF zwei"
+        },
+        {
+          "country": "CH",
+          "name": "SRF info"
+        },
+        {
+          "country": "CH",
+          "name": "RTS Un"
+        },
+        {
+          "country": "CH",
+          "name": "RTS Deux"
+        },
+        {
+          "country": "CH",
+          "name": "RSI La 1"
+        },
+        {
+          "country": "CH",
+          "name": "RSI La 2"
+        },
+        {
+          "country": "CH",
+          "name": "3+"
+        },
+        {
+          "country": "CH",
+          "name": "4+"
+        },
+        {
+          "country": "CH",
+          "name": "5+"
+        },
+        {
+          "country": "CH",
+          "name": "TeleZüri"
+        },
+        {
+          "country": "CH",
+          "name": "TeleBärn"
+        },
+        {
+          "country": "CH",
+          "name": "Tele 1"
+        },
+        {
+          "country": "CH",
+          "name": "TV24"
+        },
+        {
+          "country": "CH",
+          "name": "TV25"
+        },
+        {
+          "country": "CH",
+          "name": "S1"
+        },
+        {
+          "country": "CH",
+          "name": "Star TV"
+        },
+        {
+          "country": "CH",
+          "name": "RTL"
+        },
+        {
+          "country": "CH",
+          "name": "ProSieben"
+        },
+        {
+          "country": "CH",
+          "name": "Sat.1"
+        },
+        {
+          "country": "CH",
+          "name": "Vox"
+        },
+        {
+          "country": "CH",
+          "name": "RTL II"
+        },
+        {
+          "country": "CH",
+          "name": "Super RTL"
+        },
+        {
+          "country": "CH",
+          "name": "SRF zwei"
+        },
+        {
+          "country": "CH",
+          "name": "RTS Un"
+        },
+        {
+          "country": "CH",
+          "name": "RTS Deux"
+        },
+        {
+          "country": "CH",
+          "name": "Canal+"
+        },
+        {
+          "country": "CH",
+          "name": "Canal+ Cinéma"
+        },
+        {
+          "country": "CH",
+          "name": "Canal+ Sport"
+        },
+        {
+          "country": "CH",
+          "name": "Canal+ Séries"
+        },
+        {
+          "country": "CH",
+          "name": "Canal+ Family"
+        },
+        {
+          "country": "CH",
+          "name": "Teleclub Cinema"
+        },
+        {
+          "country": "CH",
+          "name": "Teleclub Star"
+        },
+        {
+          "country": "CH",
+          "name": "Teleclub Sport 1"
+        },
+        {
+          "country": "CH",
+          "name": "Teleclub Sport 2"
+        },
+        {
+          "country": "CH",
+          "name": "Teleclub Sport 3"
+        },
+        {
+          "country": "CH",
+          "name": "Blue Sport"
+        },
+        {
+          "country": "CH",
+          "name": "Blue Cinema"
+        },
+        {
+          "country": "CH",
+          "name": "Blue Zoom"
+        },
+        {
+          "country": "CH",
+          "name": "Sky Sports"
+        },
+        {
+          "country": "CH",
+          "name": "Sky Cinema"
+        },
+        {
+          "country": "CH",
+          "name": "Sky Atlantic"
+        }
+      ]
+    },
+    {
+      "name": "SPAIN",
+      "channels": []
+    },
+    {
+      "name": "FRANCE",
+      "channels": [
+        {
+          "country": "FR",
+          "name": "TF1"
+        },
+        {
+          "country": "FR",
+          "name": "France 2"
+        },
+        {
+          "country": "FR",
+          "name": "France 3"
+        },
+        {
+          "country": "FR",
+          "name": "Canal+"
+        },
+        {
+          "country": "FR",
+          "name": "France 5"
+        },
+        {
+          "country": "FR",
+          "name": "M6"
+        },
+        {
+          "country": "FR",
+          "name": "Arte"
+        },
+        {
+          "country": "FR",
+          "name": "C8"
+        },
+        {
+          "country": "FR",
+          "name": "W9"
+        },
+        {
+          "country": "FR",
+          "name": "TMC"
+        },
+        {
+          "country": "FR",
+          "name": "TFX"
+        },
+        {
+          "country": "FR",
+          "name": "NRJ 12"
+        },
+        {
+          "country": "FR",
+          "name": "La Chaîne L’Équipe"
+        },
+        {
+          "country": "FR",
+          "name": "6ter"
+        },
+        {
+          "country": "FR",
+          "name": "RMC Story"
+        },
+        {
+          "country": "FR",
+          "name": "RMC Découverte"
+        },
+        {
+          "country": "FR",
+          "name": "Chérie 25"
+        },
+        {
+          "country": "FR",
+          "name": "LCI"
+        },
+        {
+          "country": "FR",
+          "name": "France 4"
+        },
+        {
+          "country": "FR",
+          "name": "France Ô"
+        },
+        {
+          "country": "FR",
+          "name": "Canal+ Cinéma"
+        },
+        {
+          "country": "FR",
+          "name": "Canal+ Sport"
+        },
+        {
+          "country": "FR",
+          "name": "Canal+ Séries"
+        },
+        {
+          "country": "FR",
+          "name": "Canal+ Family"
+        },
+        {
+          "country": "FR",
+          "name": "Canal+ Décalé"
+        },
+        {
+          "country": "FR",
+          "name": "Ciné+ Premier"
+        },
+        {
+          "country": "FR",
+          "name": "Ciné+ Frisson"
+        },
+        {
+          "country": "FR",
+          "name": "Ciné+ Émotion"
+        },
+        {
+          "country": "FR",
+          "name": "Ciné+ Famiz"
+        },
+        {
+          "country": "FR",
+          "name": "Ciné+ Classic"
+        },
+        {
+          "country": "FR",
+          "name": "Ciné+ Club"
+        },
+        {
+          "country": "FR",
+          "name": "OCS Max"
+        },
+        {
+          "country": "FR",
+          "name": "OCS City"
+        },
+        {
+          "country": "FR",
+          "name": "OCS Choc"
+        },
+        {
+          "country": "FR",
+          "name": "OCS Géants"
+        },
+        {
+          "country": "FR",
+          "name": "beIN Sports 1"
+        },
+        {
+          "country": "FR",
+          "name": "beIN Sports 2"
+        },
+        {
+          "country": "FR",
+          "name": "beIN Sports 3"
+        },
+        {
+          "country": "FR",
+          "name": "RMC Sport 1"
+        },
+        {
+          "country": "FR",
+          "name": "RMC Sport 2"
+        },
+        {
+          "country": "FR",
+          "name": "RMC Sport 3"
+        },
+        {
+          "country": "FR",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "FR",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "FR",
+          "name": "National Geographic"
+        },
+        {
+          "country": "FR",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "FR",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "FR",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "FR",
+          "name": "MTV"
+        },
+        {
+          "country": "FR",
+          "name": "VH1"
+        },
+        {
+          "country": "FR",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "FR",
+          "name": "Paris Première"
+        },
+        {
+          "country": "FR",
+          "name": "Téva"
+        },
+        {
+          "country": "FR",
+          "name": "Planète+"
+        },
+        {
+          "country": "FR",
+          "name": "Planète+ A&E"
+        },
+        {
+          "country": "FR",
+          "name": "Planète+ CI"
+        },
+        {
+          "country": "FR",
+          "name": "Science & Vie TV"
+        },
+        {
+          "country": "FR",
+          "name": "Histoire TV"
+        },
+        {
+          "country": "FR",
+          "name": "Ushuaïa TV"
+        },
+        {
+          "country": "FR",
+          "name": "LCI"
+        },
+        {
+          "country": "FR",
+          "name": "BFM TV"
+        },
+        {
+          "country": "FR",
+          "name": "CNEWS"
+        },
+        {
+          "country": "FR",
+          "name": "Franceinfo"
+        },
+        {
+          "country": "FR",
+          "name": "TV5 Monde"
+        },
+        {
+          "country": "FR",
+          "name": "BFMTV"
+        }
+      ]
+    },
+    {
+      "name": "BEGLGIUM",
+      "channels": [
+        {
+          "country": "BE",
+          "name": "Één"
+        },
+        {
+          "country": "BE",
+          "name": "Canvas"
+        },
+        {
+          "country": "BE",
+          "name": "Ketnet"
+        },
+        {
+          "country": "BE",
+          "name": "VTM"
+        },
+        {
+          "country": "BE",
+          "name": "Q2"
+        },
+        {
+          "country": "BE",
+          "name": "VTM Kids"
+        },
+        {
+          "country": "BE",
+          "name": "VTM Kids Jr."
+        },
+        {
+          "country": "BE",
+          "name": "VTM 4"
+        },
+        {
+          "country": "BE",
+          "name": "VTM 3"
+        },
+        {
+          "country": "BE",
+          "name": "Play4"
+        },
+        {
+          "country": "BE",
+          "name": "Play5"
+        },
+        {
+          "country": "BE",
+          "name": "Play6"
+        },
+        {
+          "country": "BE",
+          "name": "Play7"
+        },
+        {
+          "country": "BE",
+          "name": "La Une"
+        },
+        {
+          "country": "BE",
+          "name": "La Deux"
+        },
+        {
+          "country": "BE",
+          "name": "La Trois"
+        },
+        {
+          "country": "BE",
+          "name": "RTL-TVI"
+        },
+        {
+          "country": "BE",
+          "name": "Club RTL"
+        },
+        {
+          "country": "BE",
+          "name": "Plug RTL"
+        },
+        {
+          "country": "BE",
+          "name": "Tipik"
+        },
+        {
+          "country": "BE",
+          "name": "AB3"
+        },
+        {
+          "country": "BE",
+          "name": "AB4"
+        },
+        {
+          "country": "BE",
+          "name": "LN24"
+        },
+        {
+          "country": "BE",
+          "name": "RTL Sport"
+        },
+        {
+          "country": "BE",
+          "name": "Eleven Sports 1"
+        },
+        {
+          "country": "BE",
+          "name": "Eleven Sports 2"
+        },
+        {
+          "country": "BE",
+          "name": "Eleven Sports 3"
+        },
+        {
+          "country": "BE",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "BE",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "BE",
+          "name": "National Geographic"
+        },
+        {
+          "country": "BE",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "BE",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "BE",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "BE",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "BE",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "BE",
+          "name": "MTV"
+        },
+        {
+          "country": "BE",
+          "name": "VH1"
+        },
+        {
+          "country": "BE",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "BE",
+          "name": "Be 1"
+        },
+        {
+          "country": "BE",
+          "name": "Be 1+1"
+        },
+        {
+          "country": "BE",
+          "name": "Be Ciné"
+        },
+        {
+          "country": "BE",
+          "name": "Be Séries"
+        },
+        {
+          "country": "BE",
+          "name": "Canal+ (France)"
+        },
+        {
+          "country": "BE",
+          "name": "Canal+ Cinéma (France)"
+        },
+        {
+          "country": "BE",
+          "name": "Canal+ Sport (France)"
+        },
+        {
+          "country": "BE",
+          "name": "Canal+ Séries (France)"
+        },
+        {
+          "country": "BE",
+          "name": "Canal+ Family (France)"
+        },
+        {
+          "country": "BE",
+          "name": "Canal+ Décalé (France)"
+        },
+        {
+          "country": "BE",
+          "name": "HBO (France)"
+        },
+        {
+          "country": "BE",
+          "name": "BBC First"
+        },
+        {
+          "country": "BE",
+          "name": "BBC Entertainment"
+        },
+        {
+          "country": "BE",
+          "name": "BBC World News"
+        },
+        {
+          "country": "BE",
+          "name": "CNN International"
+        },
+        {
+          "country": "BE",
+          "name": "Sky News"
+        },
+        {
+          "country": "BE",
+          "name": "RTBF Auvio"
+        }
+      ]
+    },
+    {
+      "name": "ITALY",
+      "channels": [
+        {
+          "country": "IT",
+          "name": "Rai 1"
+        },
+        {
+          "country": "IT",
+          "name": "Rai 2"
+        },
+        {
+          "country": "IT",
+          "name": "Rai 3"
+        },
+        {
+          "country": "IT",
+          "name": "Rai 4"
+        },
+        {
+          "country": "IT",
+          "name": "Rai 5"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Movie"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Premium"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Gulp"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Yoyo"
+        },
+        {
+          "country": "IT",
+          "name": "Rai News 24"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Sport"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Storia"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Scuola"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Italia"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Radio 1"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Radio 2"
+        },
+        {
+          "country": "IT",
+          "name": "Rai Radio 3"
+        },
+        {
+          "country": "IT",
+          "name": "Canale 5"
+        },
+        {
+          "country": "IT",
+          "name": "Italia 1"
+        },
+        {
+          "country": "IT",
+          "name": "Rete 4"
+        },
+        {
+          "country": "IT",
+          "name": "La5"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Extra"
+        },
+        {
+          "country": "IT",
+          "name": "Italia 2"
+        },
+        {
+          "country": "IT",
+          "name": "Iris"
+        },
+        {
+          "country": "IT",
+          "name": "Top Crime"
+        },
+        {
+          "country": "IT",
+          "name": "Focus"
+        },
+        {
+          "country": "IT",
+          "name": "20 Mediaset"
+        },
+        {
+          "country": "IT",
+          "name": "TGCom24"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Uno"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Atlantic"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Arte"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema 1"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema Hits"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema Family"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema Max"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema Passion"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema Comedy"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Cinema Classics"
+        },
+        {
+          "country": "IT",
+          "name": "Sky TG24"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Sport 24"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Sport 1"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Sport 2"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Sport 3"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Sport F1"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Sport MotoGP"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Calcio 1"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Calcio 2"
+        },
+        {
+          "country": "IT",
+          "name": "Sky Calcio 3"
+        },
+        {
+          "country": "IT",
+          "name": "DAZN"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Premium Sport"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Premium Cinema"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Premium Stories"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Premium Energy"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Premium Joy"
+        },
+        {
+          "country": "IT",
+          "name": "Mediaset Premium Action"
+        },
+        {
+          "country": "IT",
+          "name": "Cielo"
+        },
+        {
+          "country": "IT",
+          "name": "TV8"
+        },
+        {
+          "country": "IT",
+          "name": "Nove"
+        },
+        {
+          "country": "IT",
+          "name": "Real Time"
+        },
+        {
+          "country": "IT",
+          "name": "DMAX"
+        },
+        {
+          "country": "IT",
+          "name": "Giallo"
+        },
+        {
+          "country": "IT",
+          "name": "Motor Trend"
+        },
+        {
+          "country": "IT",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "IT",
+          "name": "National Geographic"
+        },
+        {
+          "country": "IT",
+          "name": "History Channel"
+        },
+        {
+          "country": "IT",
+          "name": "Crime + Investigation"
+        },
+        {
+          "country": "IT",
+          "name": "Fox"
+        },
+        {
+          "country": "IT",
+          "name": "Fox Life"
+        },
+        {
+          "country": "IT",
+          "name": "Fox Crime"
+        },
+        {
+          "country": "IT",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "IT",
+          "name": "Disney XD"
+        },
+        {
+          "country": "IT",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "IT",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "IT",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "IT",
+          "name": "Boing"
+        },
+        {
+          "country": "IT",
+          "name": "K2"
+        },
+        {
+          "country": "IT",
+          "name": "Super!"
+        },
+        {
+          "country": "IT",
+          "name": "MTV"
+        },
+        {
+          "country": "IT",
+          "name": "VH1"
+        },
+        {
+          "country": "IT",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "IT",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "IT",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "IT",
+          "name": "CNN International"
+        },
+        {
+          "country": "IT",
+          "name": "BBC World News"
+        },
+        {
+          "country": "IT",
+          "name": "Sky News"
+        },
+        {
+          "country": "IT",
+          "name": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "name": "CROATIA",
+      "channels": [
+        {
+          "country": "HR",
+          "name": "HRT 1"
+        },
+        {
+          "country": "HR",
+          "name": "HRT 2"
+        },
+        {
+          "country": "HR",
+          "name": "HRT 3"
+        },
+        {
+          "country": "HR",
+          "name": "HRT 4"
+        },
+        {
+          "country": "HR",
+          "name": "Nova TV"
+        },
+        {
+          "country": "HR",
+          "name": "Doma TV"
+        },
+        {
+          "country": "HR",
+          "name": "RTL"
+        },
+        {
+          "country": "HR",
+          "name": "RTL 2"
+        },
+        {
+          "country": "HR",
+          "name": "RTL Kockica"
+        },
+        {
+          "country": "HR",
+          "name": "RTL Crime"
+        },
+        {
+          "country": "HR",
+          "name": "RTL Living"
+        },
+        {
+          "country": "HR",
+          "name": "RTL Passion"
+        },
+        {
+          "country": "HR",
+          "name": "RTL Adria"
+        },
+        {
+          "country": "HR",
+          "name": "CMC"
+        },
+        {
+          "country": "HR",
+          "name": "Z1"
+        },
+        {
+          "country": "HR",
+          "name": "Mreža TV"
+        },
+        {
+          "country": "HR",
+          "name": "Jabuka TV"
+        },
+        {
+          "country": "HR",
+          "name": "Diadora TV"
+        },
+        {
+          "country": "HR",
+          "name": "SPTV (Sportska televizija)"
+        },
+        {
+          "country": "HR",
+          "name": "Laudato TV"
+        },
+        {
+          "country": "HR",
+          "name": "TV Istra"
+        },
+        {
+          "country": "HR",
+          "name": "NeT TV"
+        },
+        {
+          "country": "HR",
+          "name": "Kapital Network"
+        },
+        {
+          "country": "HR",
+          "name": "Al Jazeera Balkans"
+        },
+        {
+          "country": "HR",
+          "name": "N1"
+        },
+        {
+          "country": "HR",
+          "name": "Nova Sport"
+        },
+        {
+          "country": "HR",
+          "name": "Sport Klub 1"
+        },
+        {
+          "country": "HR",
+          "name": "Sport Klub 2"
+        },
+        {
+          "country": "HR",
+          "name": "Sport Klub 3"
+        },
+        {
+          "country": "HR",
+          "name": "Arena Sport 1"
+        },
+        {
+          "country": "HR",
+          "name": "Arena Sport 2"
+        },
+        {
+          "country": "HR",
+          "name": "Arena Sport 3"
+        },
+        {
+          "country": "HR",
+          "name": "Arena Sport 4"
+        },
+        {
+          "country": "HR",
+          "name": "Arena Sport 5"
+        },
+        {
+          "country": "HR",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "HR",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "HR",
+          "name": "HBO Adria"
+        },
+        {
+          "country": "HR",
+          "name": "HBO 2 Adria"
+        },
+        {
+          "country": "HR",
+          "name": "HBO 3 Adria"
+        },
+        {
+          "country": "HR",
+          "name": "Cinemax"
+        },
+        {
+          "country": "HR",
+          "name": "Cinemax 2"
+        },
+        {
+          "country": "HR",
+          "name": "Fox"
+        },
+        {
+          "country": "HR",
+          "name": "Fox Life"
+        },
+        {
+          "country": "HR",
+          "name": "Fox Crime"
+        },
+        {
+          "country": "HR",
+          "name": "Fox Movies"
+        },
+        {
+          "country": "HR",
+          "name": "National Geographic"
+        },
+        {
+          "country": "HR",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "HR",
+          "name": "TLC"
+        },
+        {
+          "country": "HR",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "HR",
+          "name": "History Channel"
+        },
+        {
+          "country": "HR",
+          "name": "Crime + Investigation"
+        },
+        {
+          "country": "HR",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "HR",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "HR",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "HR",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "HR",
+          "name": "Boomerang"
+        },
+        {
+          "country": "HR",
+          "name": "MTV"
+        },
+        {
+          "country": "HR",
+          "name": "VH1"
+        },
+        {
+          "country": "HR",
+          "name": "Comedy Central Extra"
+        },
+        {
+          "country": "HR",
+          "name": "CNN International"
+        },
+        {
+          "country": "HR",
+          "name": "BBC World News"
+        },
+        {
+          "country": "HR",
+          "name": "Sky News"
+        },
+        {
+          "country": "HR",
+          "name": "Bloomberg"
+        }
+      ]
+    },
+    {
+      "name": "UKRANIA",
+      "channels": [
+        {
+          "country": "UA",
+          "name": "UA: Перший (UA: Pershyi)"
+        },
+        {
+          "country": "UA",
+          "name": "UA: Культура (UA: Kultura)"
+        },
+        {
+          "country": "UA",
+          "name": "1+1"
+        },
+        {
+          "country": "UA",
+          "name": "2+2"
+        },
+        {
+          "country": "UA",
+          "name": "ICTV"
+        },
+        {
+          "country": "UA",
+          "name": "Inter"
+        },
+        {
+          "country": "UA",
+          "name": "STB"
+        },
+        {
+          "country": "UA",
+          "name": "Novyi Kanal"
+        },
+        {
+          "country": "UA",
+          "name": "M1"
+        },
+        {
+          "country": "UA",
+          "name": "M2"
+        },
+        {
+          "country": "UA",
+          "name": "TET"
+        },
+        {
+          "country": "UA",
+          "name": "PlusPlus"
+        },
+        {
+          "country": "UA",
+          "name": "Ukraina"
+        },
+        {
+          "country": "UA",
+          "name": "NLO TV"
+        },
+        {
+          "country": "UA",
+          "name": "NTN"
+        },
+        {
+          "country": "UA",
+          "name": "Mega"
+        },
+        {
+          "country": "UA",
+          "name": "K1"
+        },
+        {
+          "country": "UA",
+          "name": "K2"
+        },
+        {
+          "country": "UA",
+          "name": "Zoom"
+        },
+        {
+          "country": "UA",
+          "name": "Indigo TV"
+        },
+        {
+          "country": "UA",
+          "name": "5 канал (5 Kanal)"
+        },
+        {
+          "country": "UA",
+          "name": "24 канал (24 Kanal)"
+        },
+        {
+          "country": "UA",
+          "name": "Espresso TV"
+        },
+        {
+          "country": "UA",
+          "name": "NewsOne"
+        },
+        {
+          "country": "UA",
+          "name": "ZIK"
+        },
+        {
+          "country": "UA",
+          "name": "112 Україна (112 Ukraina)"
+        },
+        {
+          "country": "UA",
+          "name": "Прямий (Pryamyi)"
+        },
+        {
+          "country": "UA",
+          "name": "ATR"
+        },
+        {
+          "country": "UA",
+          "name": "Rada"
+        },
+        {
+          "country": "UA",
+          "name": "Oboz TV"
+        },
+        {
+          "country": "UA",
+          "name": "XSPORT"
+        },
+        {
+          "country": "UA",
+          "name": "Football 1"
+        },
+        {
+          "country": "UA",
+          "name": "Football 2"
+        },
+        {
+          "country": "UA",
+          "name": "Football 3"
+        },
+        {
+          "country": "UA",
+          "name": "Setanta Sports"
+        },
+        {
+          "country": "UA",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "UA",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "UA",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "UA",
+          "name": "National Geographic"
+        },
+        {
+          "country": "UA",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "UA",
+          "name": "TLC"
+        },
+        {
+          "country": "UA",
+          "name": "History Channel"
+        },
+        {
+          "country": "UA",
+          "name": "Fox"
+        },
+        {
+          "country": "UA",
+          "name": "Fox Life"
+        },
+        {
+          "country": "UA",
+          "name": "Fox Crime"
+        },
+        {
+          "country": "UA",
+          "name": "HBO"
+        },
+        {
+          "country": "UA",
+          "name": "Cinemax"
+        },
+        {
+          "country": "UA",
+          "name": "AMC"
+        },
+        {
+          "country": "UA",
+          "name": "BBC World News"
+        },
+        {
+          "country": "UA",
+          "name": "CNN International"
+        },
+        {
+          "country": "UA",
+          "name": "Sky News"
+        },
+        {
+          "country": "UA",
+          "name": "Euronews"
+        },
+        {
+          "country": "UA",
+          "name": "MTV"
+        },
+        {
+          "country": "UA",
+          "name": "VH1"
+        },
+        {
+          "country": "UA",
+          "name": "Sony Channel"
+        },
+        {
+          "country": "UA",
+          "name": "Sony Turbo"
+        }
+      ]
+    },
+    {
+      "name": "POLAND",
+      "channels": [
+        {
+          "country": "PL",
+          "name": "TVP1"
+        },
+        {
+          "country": "PL",
+          "name": "TVP2"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Info"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Sport"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Kultura"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Historia"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Seriale"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Polonia"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Rozrywka"
+        },
+        {
+          "country": "PL",
+          "name": "TVP ABC"
+        },
+        {
+          "country": "PL",
+          "name": "TVP3"
+        },
+        {
+          "country": "PL",
+          "name": "TVN"
+        },
+        {
+          "country": "PL",
+          "name": "TVN 7"
+        },
+        {
+          "country": "PL",
+          "name": "TVN24"
+        },
+        {
+          "country": "PL",
+          "name": "TVN24 BiS"
+        },
+        {
+          "country": "PL",
+          "name": "TVN Turbo"
+        },
+        {
+          "country": "PL",
+          "name": "TVN Style"
+        },
+        {
+          "country": "PL",
+          "name": "TTV"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat 2"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat News"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat Sport"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat Sport Extra"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat Sport News"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat Play"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat Cafe"
+        },
+        {
+          "country": "PL",
+          "name": "Polsat Film"
+        },
+        {
+          "country": "PL",
+          "name": "Super Polsat"
+        },
+        {
+          "country": "PL",
+          "name": "Puls"
+        },
+        {
+          "country": "PL",
+          "name": "Puls 2"
+        },
+        {
+          "country": "PL",
+          "name": "TV4"
+        },
+        {
+          "country": "PL",
+          "name": "TV6"
+        },
+        {
+          "country": "PL",
+          "name": "Eska TV"
+        },
+        {
+          "country": "PL",
+          "name": "Polo TV"
+        },
+        {
+          "country": "PL",
+          "name": "4fun.tv"
+        },
+        {
+          "country": "PL",
+          "name": "Stopklatka TV"
+        },
+        {
+          "country": "PL",
+          "name": "Kino Polska"
+        },
+        {
+          "country": "PL",
+          "name": "Kino Polska Muzyka"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Premium"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Film"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Sport"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Sport 2"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Family"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Seriale"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Dokument"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ Now"
+        },
+        {
+          "country": "PL",
+          "name": "Canal+ 4K Ultra HD"
+        },
+        {
+          "country": "PL",
+          "name": "HBO"
+        },
+        {
+          "country": "PL",
+          "name": "HBO 2"
+        },
+        {
+          "country": "PL",
+          "name": "HBO 3"
+        },
+        {
+          "country": "PL",
+          "name": "Cinemax"
+        },
+        {
+          "country": "PL",
+          "name": "Cinemax 2"
+        },
+        {
+          "country": "PL",
+          "name": "Fox"
+        },
+        {
+          "country": "PL",
+          "name": "Fox Comedy"
+        },
+        {
+          "country": "PL",
+          "name": "National Geographic"
+        },
+        {
+          "country": "PL",
+          "name": "Nat Geo Wild"
+        },
+        {
+          "country": "PL",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "PL",
+          "name": "Discovery Science"
+        },
+        {
+          "country": "PL",
+          "name": "TLC"
+        },
+        {
+          "country": "PL",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "PL",
+          "name": "History Channel"
+        },
+        {
+          "country": "PL",
+          "name": "Crime+Investigation"
+        },
+        {
+          "country": "PL",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "PL",
+          "name": "BBC Lifestyle"
+        },
+        {
+          "country": "PL",
+          "name": "BBC First"
+        },
+        {
+          "country": "PL",
+          "name": "BBC Brit"
+        },
+        {
+          "country": "PL",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "PL",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "PL",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "PL",
+          "name": "Nick Jr."
+        },
+        {
+          "country": "PL",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "PL",
+          "name": "Boomerang"
+        },
+        {
+          "country": "PL",
+          "name": "MTV"
+        },
+        {
+          "country": "PL",
+          "name": "VH1"
+        },
+        {
+          "country": "PL",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "PL",
+          "name": "AXN"
+        },
+        {
+          "country": "PL",
+          "name": "AXN Black"
+        },
+        {
+          "country": "PL",
+          "name": "AXN White"
+        },
+        {
+          "country": "PL",
+          "name": "AXN Spin"
+        },
+        {
+          "country": "PL",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "PL",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "PL",
+          "name": "Eleven Sports 1"
+        },
+        {
+          "country": "PL",
+          "name": "Eleven Sports 2"
+        },
+        {
+          "country": "PL",
+          "name": "Eleven Sports 3"
+        },
+        {
+          "country": "PL",
+          "name": "TVP Wilno"
+        },
+        {
+          "country": "PL",
+          "name": "CNN International"
+        },
+        {
+          "country": "PL",
+          "name": "Sky News"
+        }
+      ]
+    },
+    {
+      "name": "ESTONIA",
+      "channels": [
+        {
+          "country": "EE",
+          "name": "ETV"
+        },
+        {
+          "country": "EE",
+          "name": "ETV2"
+        },
+        {
+          "country": "EE",
+          "name": "ETV+"
+        },
+        {
+          "country": "EE",
+          "name": "Kanal 2"
+        },
+        {
+          "country": "EE",
+          "name": "Kanal 11"
+        },
+        {
+          "country": "EE",
+          "name": "Kanal 12"
+        },
+        {
+          "country": "EE",
+          "name": "TV3"
+        },
+        {
+          "country": "EE",
+          "name": "TV6"
+        },
+        {
+          "country": "EE",
+          "name": "TV3+"
+        },
+        {
+          "country": "EE",
+          "name": "TV3 Sport"
+        },
+        {
+          "country": "EE",
+          "name": "TV3 Sport 2"
+        },
+        {
+          "country": "EE",
+          "name": "TV3 Film"
+        },
+        {
+          "country": "EE",
+          "name": "Fox"
+        },
+        {
+          "country": "EE",
+          "name": "Fox Life"
+        },
+        {
+          "country": "EE",
+          "name": "National Geographic"
+        },
+        {
+          "country": "EE",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "EE",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "EE",
+          "name": "TLC"
+        },
+        {
+          "country": "EE",
+          "name": "History Channel"
+        },
+        {
+          "country": "EE",
+          "name": "Crime+Investigation"
+        },
+        {
+          "country": "EE",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "EE",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "EE",
+          "name": "Sony Channel"
+        },
+        {
+          "country": "EE",
+          "name": "Sony Turbo"
+        },
+        {
+          "country": "EE",
+          "name": "Sony Sci-Fi"
+        },
+        {
+          "country": "EE",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "EE",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "EE",
+          "name": "Boomerang"
+        },
+        {
+          "country": "EE",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "EE",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "EE",
+          "name": "MTV"
+        },
+        {
+          "country": "EE",
+          "name": "VH1"
+        },
+        {
+          "country": "EE",
+          "name": "Comedy Central"
+        },
+        {
+          "country": "EE",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "EE",
+          "name": "BBC Lifestyle"
+        },
+        {
+          "country": "EE",
+          "name": "BBC First"
+        },
+        {
+          "country": "EE",
+          "name": "BBC Brit"
+        },
+        {
+          "country": "EE",
+          "name": "CNN International"
+        },
+        {
+          "country": "EE",
+          "name": "Sky News"
+        },
+        {
+          "country": "EE",
+          "name": "Euronews"
+        },
+        {
+          "country": "EE",
+          "name": "Filmzone"
+        },
+        {
+          "country": "EE",
+          "name": "Filmzone+"
+        },
+        {
+          "country": "EE",
+          "name": "Kidzone"
+        }
+      ]
+    },
+    {
+      "name": "TURKEY",
+      "channels": [
+        {
+          "country": "TR",
+          "name": "TRT 1"
+        },
+        {
+          "country": "TR",
+          "name": "TRT 2"
+        },
+        {
+          "country": "TR",
+          "name": "TRT 3 Spor"
+        },
+        {
+          "country": "TR",
+          "name": "TRT 4"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Haber"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Çocuk"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Belgesel"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Müzik"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Avaz"
+        },
+        {
+          "country": "TR",
+          "name": "TRT World"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Türk"
+        },
+        {
+          "country": "TR",
+          "name": "Kanal D"
+        },
+        {
+          "country": "TR",
+          "name": "Show TV"
+        },
+        {
+          "country": "TR",
+          "name": "Star TV"
+        },
+        {
+          "country": "TR",
+          "name": "ATV"
+        },
+        {
+          "country": "TR",
+          "name": "Fox"
+        },
+        {
+          "country": "TR",
+          "name": "TV8"
+        },
+        {
+          "country": "TR",
+          "name": "Kanal 7"
+        },
+        {
+          "country": "TR",
+          "name": "Beyaz TV"
+        },
+        {
+          "country": "TR",
+          "name": "Halk TV"
+        },
+        {
+          "country": "TR",
+          "name": "Tele1"
+        },
+        {
+          "country": "TR",
+          "name": "TVNET"
+        },
+        {
+          "country": "TR",
+          "name": "24 TV"
+        },
+        {
+          "country": "TR",
+          "name": "A Haber"
+        },
+        {
+          "country": "TR",
+          "name": "CNN Türk"
+        },
+        {
+          "country": "TR",
+          "name": "Habertürk"
+        },
+        {
+          "country": "TR",
+          "name": "NTV"
+        },
+        {
+          "country": "TR",
+          "name": "TGRT Haber"
+        },
+        {
+          "country": "TR",
+          "name": "Bloomberg HT"
+        },
+        {
+          "country": "TR",
+          "name": "CNBC-e"
+        },
+        {
+          "country": "TR",
+          "name": "Eurosport 1"
+        },
+        {
+          "country": "TR",
+          "name": "Eurosport 2"
+        },
+        {
+          "country": "TR",
+          "name": "beIN Sports 1"
+        },
+        {
+          "country": "TR",
+          "name": "beIN Sports 2"
+        },
+        {
+          "country": "TR",
+          "name": "beIN Sports 3"
+        },
+        {
+          "country": "TR",
+          "name": "beIN Sports 4"
+        },
+        {
+          "country": "TR",
+          "name": "S Sport"
+        },
+        {
+          "country": "TR",
+          "name": "S Sport 2"
+        },
+        {
+          "country": "TR",
+          "name": "Tivibu Spor 1"
+        },
+        {
+          "country": "TR",
+          "name": "Tivibu Spor 2"
+        },
+        {
+          "country": "TR",
+          "name": "Tivibu Spor 3"
+        },
+        {
+          "country": "TR",
+          "name": "Tivibu Spor 4"
+        },
+        {
+          "country": "TR",
+          "name": "GS TV"
+        },
+        {
+          "country": "TR",
+          "name": "FB TV"
+        },
+        {
+          "country": "TR",
+          "name": "BJK TV"
+        },
+        {
+          "country": "TR",
+          "name": "Tivibu Spor"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Spor"
+        },
+        {
+          "country": "TR",
+          "name": "TRT Spor 2"
+        },
+        {
+          "country": "TR",
+          "name": "A Spor"
+        },
+        {
+          "country": "TR",
+          "name": "D-Smart"
+        },
+        {
+          "country": "TR",
+          "name": "Digiturk"
+        },
+        {
+          "country": "TR",
+          "name": "Kral TV"
+        },
+        {
+          "country": "TR",
+          "name": "PowerTürk TV"
+        },
+        {
+          "country": "TR",
+          "name": "Number One TV"
+        },
+        {
+          "country": "TR",
+          "name": "Dream Türk"
+        },
+        {
+          "country": "TR",
+          "name": "MTV Türkiye"
+        },
+        {
+          "country": "TR",
+          "name": "National Geographic"
+        },
+        {
+          "country": "TR",
+          "name": "National Geographic Wild"
+        },
+        {
+          "country": "TR",
+          "name": "Discovery Channel"
+        },
+        {
+          "country": "TR",
+          "name": "TLC Türkiye"
+        },
+        {
+          "country": "TR",
+          "name": "Animal Planet"
+        },
+        {
+          "country": "TR",
+          "name": "History Channel Türkiye"
+        },
+        {
+          "country": "TR",
+          "name": "Fox Life"
+        },
+        {
+          "country": "TR",
+          "name": "Fox Crime"
+        },
+        {
+          "country": "TR",
+          "name": "FX"
+        },
+        {
+          "country": "TR",
+          "name": "Disney Channel"
+        },
+        {
+          "country": "TR",
+          "name": "Cartoon Network"
+        },
+        {
+          "country": "TR",
+          "name": "Nickelodeon"
+        },
+        {
+          "country": "TR",
+          "name": "Nick Jr."
+        },
+        {
+          "country": "TR",
+          "name": "Boomerang"
+        },
+        {
+          "country": "TR",
+          "name": "MinikaGO"
+        },
+        {
+          "country": "TR",
+          "name": "MinikaÇOCUK"
+        },
+        {
+          "country": "TR",
+          "name": "Baby TV"
+        },
+        {
+          "country": "TR",
+          "name": "Disney Junior"
+        },
+        {
+          "country": "TR",
+          "name": "Disney XD"
+        },
+        {
+          "country": "TR",
+          "name": "CNBC-e"
+        },
+        {
+          "country": "TR",
+          "name": "BBC Earth"
+        },
+        {
+          "country": "TR",
+          "name": "BBC First"
+        },
+        {
+          "country": "TR",
+          "name": "BBC World News"
+        },
+        {
+          "country": "TR",
+          "name": "CNN International"
+        },
+        {
+          "country": "TR",
+          "name": "Sky News"
+        },
+        {
+          "country": "TR",
+          "name": "Al Jazeera English"
+        },
+        {
+          "country": "TR",
+          "name": "France 24"
+        },
+        {
+          "country": "TR",
+          "name": "Deutsche Welle"
+        },
+        {
+          "country": "TR",
+          "name": "Euronews"
+        }
+      ]
+    }
+  ]
+}

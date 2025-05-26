@@ -1,0 +1,15 @@
+{
+  "git": {
+    "deploymentEnabled": {
+      "main": false
+    }
+  },
+  "buildCommand": "cd frontend && npm run build",
+  "outputDirectory": "frontend/.next",
+  "framework": "nextjs",
+  "functions": {
+    "frontend/app/**": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
