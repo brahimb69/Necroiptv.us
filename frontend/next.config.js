@@ -2,10 +2,10 @@
 const nextConfig = {
   async redirects() {
     return [
-      // Redirect old blog URLs to new structure
+      // Redirect old blog URLs to new structure with 301 permanent redirect
       {
-        source: '/blog/:slug',
-        destination: '/:slug',
+        source: '/blog/:slug*',
+        destination: '/:slug*',
         permanent: true,
       },
     ];

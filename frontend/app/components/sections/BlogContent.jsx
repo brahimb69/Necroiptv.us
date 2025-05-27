@@ -13,16 +13,32 @@ const BlogContent = ({ blogs = [] }) => {
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [searchQuery, setSearchQuery] = useState("");
 
+  console.log("BlogContent: Received blogs:", { 
+    blogsType: typeof blogs, 
+    isArray: Array.isArray(blogs), 
+    length: blogs?.length 
+  });
+
+  // Ensure blogs is an array
+  const safeBlogsList = Array.isArray(blogs) ? blogs : [];
+
   // Filter posts based on category and search query
-  const filteredPosts = blogs.filter((post) => {
+  const filteredPosts = safeBlogsList.filter((post) => {
+    if (!post) return false;
+    
     const matchesCategory =
-      selectedCategory === "all" || post.categories.includes(selectedCategory);
+      selectedCategory === "all" || 
+      (post.categories && post.categories.includes(selectedCategory));
+    
+    const searchLower = searchQuery.toLowerCase();
     const matchesSearch =
-      post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      post.excerpt.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      post.tags.some((tag) =>
-        tag.toLowerCase().includes(searchQuery.toLowerCase())
-      );
+      !searchQuery ||
+      (post.title && post.title.toLowerCase().includes(searchLower)) ||
+      (post.excerpt && post.excerpt.toLowerCase().includes(searchLower)) ||
+      (post.tags && post.tags.some((tag) =>
+        tag.toLowerCase().includes(searchLower)
+      ));
+    
     return matchesCategory && matchesSearch;
   });
 
@@ -33,10 +49,12 @@ const BlogContent = ({ blogs = [] }) => {
   const currentPosts = filteredPosts.slice(startIndex, endIndex);
 
   // Get unique categories and their frequencies
-  const categoryFrequencies = blogs.reduce((acc, post) => {
-    post.categories.forEach((category) => {
-      acc[category] = (acc[category] || 0) + 1;
-    });
+  const categoryFrequencies = safeBlogsList.reduce((acc, post) => {
+    if (post && post.categories && Array.isArray(post.categories)) {
+      post.categories.forEach((category) => {
+        acc[category] = (acc[category] || 0) + 1;
+      });
+    }
     return acc;
   }, {});
 
@@ -69,7 +87,7 @@ const BlogContent = ({ blogs = [] }) => {
     },
   };
 
-  if (!blogs || blogs.length === 0) {
+  if (!safeBlogsList || safeBlogsList.length === 0) {
     return (
       <div className="min-h-screen bg-background dark:bg-background-dark">
         <div className="container py-16">

@@ -7,8 +7,10 @@ export const dynamic = "force-dynamic";
 
 // Generate metadata for the page
 export async function generateMetadata({ params }) {
+  const { slug } = await params;
+  
   try {
-    const response = await BlogService.getBlogBySlug(await params.slug);
+    const response = await BlogService.getBlogBySlug(slug);
     const post = response.data;
 
     if (!post) {
@@ -24,7 +26,7 @@ export async function generateMetadata({ params }) {
       keywords: `${post.title}, Necro IPTV blog, IPTV guides, streaming tips, ${post.tags?.join(', ') || 'IPTV news'}`,
       authors: [{ name: post.author?.name || "Necro IPTV Team" }],
       alternates: {
-        canonical: `https://necroiptv.us/${await params.slug}`,
+        canonical: `https://necroiptv.us/${slug}`,
       },
       openGraph: {
         title: `${post.title} | Necro IPTV Blog`,
@@ -33,7 +35,7 @@ export async function generateMetadata({ params }) {
         publishedTime: post.createdAt,
         authors: [post.author?.name || "Necro IPTV Team"],
         tags: post.tags || [],
-        url: `https://necroiptv.us/${await params.slug}`,
+        url: `https://necroiptv.us/${slug}`,
         siteName: "Necro IPTV",
         images: [
           {
@@ -64,21 +66,27 @@ export async function generateMetadata({ params }) {
 // Define static pages to avoid conflicts
 const staticPages = [
   'pricing',
-  'channel-list',
+  'channel-list', 
   'multi-device',
   'contact',
   'blog',
-  'refund-policy'
+  'refund-policy',
+  'sitemap_index.xml',
+  'page-sitemap.xml',
+  'post-sitemap.xml',
+  'robots.txt'
 ];
 
 export default async function DynamicPage({ params }) {
+  const { slug } = await params;
+  
   // If the slug matches a static page, redirect to avoid conflicts
-  if (staticPages.includes(await params.slug)) {
-    redirect(`/${await params.slug}`);
+  if (staticPages.includes(slug)) {
+    redirect(`/${slug}`);
   }
 
   try {
-    const response = await BlogService.getBlogBySlug(await params.slug);
+    const response = await BlogService.getBlogBySlug(slug);
     const post = response.data;
 
     if (!post) {
@@ -107,7 +115,7 @@ export default async function DynamicPage({ params }) {
       "dateModified": post.updatedAt || post.createdAt,
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": `https://necroiptv.us/${await params.slug}`
+        "@id": `https://necroiptv.us/${slug}`
       },
       "image": post.featuredImage || "https://necroiptv.us/images/necro-iptv-blog-default.jpg"
     };

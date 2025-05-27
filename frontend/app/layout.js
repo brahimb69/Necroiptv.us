@@ -192,6 +192,21 @@ export default function RootLayout({ children }) {
           src="//code.jivosite.com/widget/DEK6K0YbNM"
           strategy="lazyOnload"
         />
+        {/*Start of Tawk.to Script*/}
+        <Script strategy="lazyOnload">
+        {`
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/683446f31a4542191bbb104d/1is65826e';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        `}
+        </Script>
+        {/*End of Tawk.to Script*/}
       </body>
     </html>
   );

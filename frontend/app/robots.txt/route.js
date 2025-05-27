@@ -27,8 +27,8 @@ Disallow: /api/
 Disallow: /_next/
 Disallow: /private/
 
-# Block old blog structure to prevent duplicate content
-Disallow: /blog/*/
+# Block old blog structure to prevent duplicate content and crawling issues
+Disallow: /blog/
 
 # Allow search engines to access CSS and JS files
 Allow: /css/
