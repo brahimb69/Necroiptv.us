@@ -27,8 +27,8 @@ Disallow: /api/
 Disallow: /_next/
 Disallow: /private/
 
-# Block old blog structure to prevent duplicate content and crawling issues
-Disallow: /blog/
+# Allow blog structure for proper indexing
+# Blog posts are now at root level (necroiptv.us/slug)
 
 # Allow search engines to access CSS and JS files
 Allow: /css/

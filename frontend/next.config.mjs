@@ -1,5 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  async redirects() {
+    return [
+      // Redirect old blog URLs to new structure with 301 permanent redirect
+      {
+        source: '/blog/:slug*',
+        destination: '/:slug*',
+        permanent: true,
+      },
+    ];
+  },
   images: {
     domains: ["necroiptv.us", "blog.necroiptv.us"],
     remotePatterns: [

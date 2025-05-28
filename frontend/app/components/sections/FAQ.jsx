@@ -38,7 +38,7 @@ const FAQ = () => {
     },
     {
       question: "Does Necro IPTV offer customer support?",
-      answer: "Yes, Necro IPTV provides 24/7 customer support through multiple channels including live chat, email (admin@necroiptv.us), and phone (+1 873-300-0545). Our dedicated support team assists with setup, technical issues, billing questions, and general inquiries."
+      answer: "Yes, Necro IPTV provides 24/7 customer support through email (admin@necroiptv.us), and phone (+1 873-300-0545). Our dedicated support team assists with setup, technical issues, billing questions, and general inquiries."
     },
     {
       question: "Can I use Necro IPTV on multiple devices simultaneously?",
