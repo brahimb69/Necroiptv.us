@@ -87,6 +87,12 @@ export default async function DynamicPage({ params }) {
 
   try {
     const response = await BlogService.getBlogBySlug(slug);
+    
+    // Handle explicit 404 from service
+    if (!response.success && response.status === 404) {
+      notFound();
+    }
+    
     const post = response.data;
 
     if (!post) {

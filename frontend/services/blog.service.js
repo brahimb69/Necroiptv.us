@@ -212,12 +212,18 @@ export const BlogService = {
   // Get single blog by slug
   getBlogBySlug: async (slug) => {
     try {
+      // Add timeout and better error handling
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 5000); // 5 second timeout
+      
       // Ensure _embed=true is used for consistency
-      const response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?_embed=true&slug=${slug}`);
+      const response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?_embed=true&slug=${slug}`, {
+        signal: controller.signal
+      });
+      
+      clearTimeout(timeoutId);
       
       if (response.data && response.data.length > 0) {
-        // Redundant log removed, keeping the one in transformWordPressPost for now
-        
         const blog = transformWordPressPost(response.data[0]);
         return { success: true, data: blog };
       } else {
@@ -227,8 +233,14 @@ export const BlogService = {
       console.error("Error fetching blog by slug:", error);
       // Fallback to default blogs in case of error
       const defaultBlogs = getDefaultBlogs();
-      const defaultBlog = defaultBlogs.find(blog => blog.slug === slug) || defaultBlogs[0];
-      return { success: true, data: defaultBlog };
+      const defaultBlog = defaultBlogs.find(blog => blog.slug === slug);
+      
+      if (defaultBlog) {
+        return { success: true, data: defaultBlog };
+      } else {
+        // Return a 404-like response instead of fallback to avoid indexing issues
+        return { success: false, error: "Blog post not found", status: 404 };
+      }
     }
   },
 
