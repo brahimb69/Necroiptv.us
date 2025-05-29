@@ -6,6 +6,7 @@ import HowItWorks from "./components/sections/HowItWorks";
 import MultiDeviceSection from "./components/sections/MultiDeviceSection";
 import Platforms from "./components/sections/Platforms";
 import FAQ from "./components/sections/FAQ";
+import CustomerReviews from "./components/sections/CustomerReviews";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { FaCheck, FaCrown, FaInfinity, FaStar } from "react-icons/fa";
@@ -122,6 +123,7 @@ export default function Home() {
         <div className="relative z-10">
           <Testimonials />
           <FAQ />
+          <CustomerReviews />
           <HowItWorks />
         </div>
       </div>
