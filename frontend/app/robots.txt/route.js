@@ -15,8 +15,14 @@ Allow: /contact
 Allow: /blog
 Allow: /refund-policy
 
-# Allow blog articles at root level (necroiptv.us/slug)
-Allow: /*
+# Allow blog structure for proper indexing
+# Blog posts are now at /blog/slug path (necroiptv.us/blog/slug)
+Allow: /blog/*
+
+# Prioritize important pages for crawling
+Allow: /blog/
+Allow: /pricing/
+Allow: /channel-list/
 
 # Crawl-delay for respectful crawling
 Crawl-delay: 1
@@ -26,23 +32,26 @@ Disallow: /admin/
 Disallow: /api/
 Disallow: /_next/
 Disallow: /private/
+Disallow: /.well-known/
 
-# Allow blog structure for proper indexing
-# Blog posts are now at root level (necroiptv.us/slug)
-
-# Allow search engines to access CSS and JS files
+# Allow search engines to access CSS, JS, and media files
 Allow: /css/
 Allow: /js/
 Allow: /images/
+Allow: /favicon.ico
 Allow: /*.css$
 Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
 
-# Sitemaps
+# Sitemaps - Multiple references for better discovery
 Sitemap: ${baseUrl}/sitemap_index.xml
 Sitemap: ${baseUrl}/page-sitemap.xml
 Sitemap: ${baseUrl}/post-sitemap.xml
 
-# Clean URLs
+# Clean URLs - Help search engines understand canonical domain
 Host: ${baseUrl.replace('https://', '')}
 `;
 

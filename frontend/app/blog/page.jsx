@@ -267,7 +267,7 @@ export default function BlogPage() {
                       </div>
                       
                       <Link 
-                        href={`/${filteredPosts[0].slug}`}
+                        href={`/blog/${filteredPosts[0].slug}`}
                         className="inline-flex items-center gap-2 text-primary dark:text-primary-hover font-semibold hover:gap-3 transition-all duration-300 group/link"
                       >
                         Read Full Article
@@ -332,7 +332,7 @@ export default function BlogPage() {
                     </div>
                     
                     <Link 
-                      href={`/${post.slug}`}
+                      href={`/blog/${post.slug}`}
                       className="inline-flex items-center gap-2 text-primary dark:text-primary-hover font-medium text-sm hover:gap-3 transition-all duration-300 group/link"
                     >
                       Read More

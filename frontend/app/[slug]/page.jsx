@@ -1,6 +1,5 @@
 import BlogService, { getDefaultBlogs } from "@/services/blog.service";
 import { notFound, redirect } from "next/navigation";
-import BlogPostContent from "../components/sections/BlogPostContent";
 
 // This is needed for Next.js to know this is a dynamic page
 export const dynamic = "force-dynamic";
@@ -86,57 +85,21 @@ export default async function DynamicPage({ params }) {
   }
 
   try {
+    // Check if this slug is a blog post
     const response = await BlogService.getBlogBySlug(slug);
+    
+    // If it's a valid blog post, redirect to /blog/slug
+    if (response.success && response.data) {
+      redirect(`/blog/${slug}`);
+    }
     
     // Handle explicit 404 from service
     if (!response.success && response.status === 404) {
       notFound();
     }
-    
-    const post = response.data;
 
-    if (!post) {
-      notFound();
-    }
-
-    // Add structured data for the blog post
-    const structuredData = {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": post.title,
-      "description": post.excerpt,
-      "author": {
-        "@type": "Person",
-        "name": post.author?.name || "Necro IPTV Team"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Necro IPTV",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://necroiptv.us/images/logo-new.webp"
-        }
-      },
-      "datePublished": post.createdAt,
-      "dateModified": post.updatedAt || post.createdAt,
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": `https://necroiptv.us/${slug}`
-      },
-      "image": post.featuredImage || "https://necroiptv.us/images/necro-iptv-blog-default.jpg"
-    };
-
-    return (
-      <>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(structuredData)
-          }}
-        />
-        <BlogPostContent post={post} />
-      </>
-    );
+    // If we get here, it's not a blog post and not found
+    notFound();
   } catch (error) {
     console.error("Error fetching blog post:", error);
     notFound();

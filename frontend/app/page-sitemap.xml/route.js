@@ -6,7 +6,6 @@ export async function GET() {
   // Define static pages with SEO priorities and frequencies
   const staticPages = [
     { url: "", changefreq: "daily", priority: "1.0" }, // home page
-    { url: "adult-vod-iptv", changefreq: "weekly", priority: "0.8" }, // Example static page
     { url: "pricing", changefreq: "weekly", priority: "0.9" },
     { url: "channel-list", changefreq: "weekly", priority: "0.8" },
     { url: "multi-device", changefreq: "weekly", priority: "0.8" },
@@ -15,20 +14,9 @@ export async function GET() {
     { url: "refund-policy", changefreq: "monthly", priority: "0.5" },
   ];
 
-  // Get all published blogs for sitemap
-  const blogPosts = await BlogService.getBlogsForSitemap();
-  blogPosts.data.forEach(post => {
-    staticPages.push({
-      url: post.slug,
-      changefreq: "weekly",
-      priority: "0.7"
-    });
-  });
-
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   ${staticPages
     .map(
       (page) => `
@@ -52,6 +40,7 @@ export async function GET() {
   return new NextResponse(sitemap, {
     headers: {
       "Content-Type": "application/xml",
+      "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400",
     },
   });
 }

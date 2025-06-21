@@ -197,7 +197,7 @@ const BlogContent = ({ blogs = [] }) => {
               {/* Content */}
               <div className="p-6">
                 <Link
-                  href={`/${post.slug}`}
+                  href={`/blog/${post.slug}`}
                   className="block group-hover:text-primary transition-colors"
                 >
                   <h2 className="text-xl font-bold text-foreground dark:text-foreground-dark mb-2">
