@@ -49,7 +49,20 @@ axiosInstance.interceptors.response.use(response => {
 async function makeApiRequest(url, options = {}) {
   try {
     console.log("Making API request to:", url);
-    const response = await axiosInstance(url, options);
+    
+    // Add headers for better compatibility
+    const requestOptions = {
+      ...options,
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+        'User-Agent': 'Necro-IPTV-Frontend/1.0',
+        ...options.headers
+      },
+      timeout: 10000 // 10 second timeout
+    };
+    
+    const response = await axiosInstance(url, requestOptions);
     return response;
   } catch (error) {
     if (error.response && error.response.data) {
@@ -155,55 +168,20 @@ export const BlogService = {
   // Get all blogs with pagination and filters
   getAllBlogs: async (params = {}) => {
     try {
-      const { status, category, tag, search } = params;
-      let allBlogs = [];
-      let page = 1;
-      const limit = 100; // Adjust as needed, WordPress might have a max limit
-
-      // Build the base WordPress API query URL
-      let baseEndpoint = `${WORDPRESS_API_URL}/posts?_embed=true&per_page=${limit}`;
-
-      // Add additional query parameters if provided
-      if (category) {
-        baseEndpoint += `&categories=${category}`;
+      console.log("Fetching blogs via Next.js API route...");
+      
+      // Use the Next.js API route instead of direct WordPress call
+      const response = await axiosInstance('/api/blog');
+      
+      if (response.data.success) {
+        console.log("✅ Successfully fetched", response.data.data.length, "blogs via API route");
+        return response.data;
+      } else {
+        throw new Error("API route returned error");
       }
-
-      if (tag) {
-        baseEndpoint += `&tags=${tag}`;
-      }
-
-      if (search) {
-        baseEndpoint += `&search=${encodeURIComponent(search)}`;
-      }
-
-      let totalPages = 1; // Initialize totalPages to 1
-
-      // Fetch all pages
-      while (page <= totalPages) {
-        const endpoint = `${baseEndpoint}&page=${page}`;
-        const response = await makeApiRequest(endpoint);
-
-        // Transform WordPress API response to match your expected format
-        const blogs = response.data.map(post => transformWordPressPost(post));
-        allBlogs = allBlogs.concat(blogs);
-
-        // Update totalPages from the response headers
-        totalPages = parseInt(response.headers['x-wp-totalpages'] || totalPages);
-        page++;
-      }
-
-      return {
-        success: true,
-        data: allBlogs,
-        pagination: {
-          total: allBlogs.length,
-          totalPages: 1, // Since we fetched all pages, totalPages is 1
-          currentPage: 1,
-          limit: allBlogs.length
-        }
-      };
     } catch (error) {
-      console.error("Error fetching blogs:", error);
+      console.error("Error fetching blogs via API route:", error);
+      console.log("⚠️ Falling back to default blogs");
       // Fallback to default blogs in case of error
       return BlogService.getDefaultBlogs(params);
     }
