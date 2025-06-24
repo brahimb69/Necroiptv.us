@@ -1,0 +1,28 @@
+# WordPress REST API .htaccess rules
+# Add these rules to your WordPress .htaccess file if the API is being blocked
+
+# Allow REST API access
+<Files "wp-json">
+    Order allow,deny
+    Allow from all
+</Files>
+
+# Alternative rule for REST API
+RewriteRule ^wp-json/(.*) /index.php?rest_route=/$1 [QSA,L]
+
+# Ensure index.php is accessible
+<Files "index.php">
+    Order allow,deny
+    Allow from all
+</Files>
+
+# Standard WordPress rules (should already exist)
+# BEGIN WordPress
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+# END WordPress
