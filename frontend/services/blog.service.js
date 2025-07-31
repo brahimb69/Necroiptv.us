@@ -79,61 +79,16 @@ async function makeApiRequest(url, options = {}) {
   }
 }
 
-// Helper function to get featured image URL from WordPress post
-function getFeaturedImageUrl(post) {
-  // Method 1: Try to get from _embedded['wp:featuredmedia']
-  if (post._embedded && 
-      post._embedded['wp:featuredmedia'] && 
-      post._embedded['wp:featuredmedia'][0]) {
-    
-    // Try source_url first
-    if (post._embedded['wp:featuredmedia'][0].source_url) {
-      return post._embedded['wp:featuredmedia'][0].source_url;
-    }
-    
-    // If that's not available, try media_details
-    if (post._embedded['wp:featuredmedia'][0].media_details && 
-        post._embedded['wp:featuredmedia'][0].media_details.sizes) {
-      
-      // Try to get full size
-      if (post._embedded['wp:featuredmedia'][0].media_details.sizes.full) {
-        return post._embedded['wp:featuredmedia'][0].media_details.sizes.full.source_url;
-      }
-      
-      // Or large size
-      if (post._embedded['wp:featuredmedia'][0].media_details.sizes.large) {
-        return post._embedded['wp:featuredmedia'][0].media_details.sizes.large.source_url;
-      }
-      
-      // Or medium size
-      if (post._embedded['wp:featuredmedia'][0].media_details.sizes.medium) {
-        return post._embedded['wp:featuredmedia'][0].media_details.sizes.medium.source_url;
-      }
-    }
-  }
-  
-  // Method 2: Try to handle featured_media ID directly
-  if (post.featured_media && post.featured_media !== 0) {
-    console.log('Post has featured_media ID:', post.featured_media);
-    // We would need to make another API call to get the image URL
-    // But instead, we'll return a placeholder for now
-  }
-  
-  // Default fallback
-  return "/images/blog-placeholder.jpg";
-}
 
-// Helper function to transform WordPress post to your blog format
-function transformWordPressPost(post) {
-  // Debug log removed
-  
+// Helper function to transform WordPress post with provided featured image
+function transformWordPressPostWithImage(post, featuredImage = "/images/blog-placeholder.jpg") {
   return {
     _id: post.id.toString(),
     title: post.title.rendered,
     slug: post.slug,
     excerpt: post.excerpt.rendered,
     content: post.content.rendered,
-    featuredImage: getFeaturedImageUrl(post),
+    featuredImage: featuredImage,
     categories: post._embedded && 
                 post._embedded['wp:term'] && 
                 post._embedded['wp:term'][0] ? 
@@ -162,6 +117,11 @@ function transformWordPressPost(post) {
     updatedAt: post.modified,
     status: post.status
   };
+}
+
+// Helper function to transform WordPress post to your blog format (legacy)
+function transformWordPressPost(post) {
+  return transformWordPressPostWithImage(post, "/images/blog-placeholder.jpg");
 }
 
 export const BlogService = {
@@ -214,10 +174,23 @@ export const BlogService = {
       clearTimeout(timeoutId);
       
       if (response.data && response.data.length > 0) {
-        // If we got a post without _embed, try to fetch additional data separately
         let post = response.data[0];
         
-        // Try to get embedded data if not already present
+        // Fetch featured image separately if needed
+        let featuredImage = "/images/blog-placeholder.jpg";
+        if (post.featured_media && post.featured_media !== 0) {
+          try {
+            const mediaResponse = await makeApiRequest(`${WORDPRESS_API_URL}/media/${post.featured_media}`, {
+              signal: controller.signal
+            });
+            featuredImage = mediaResponse.data?.source_url || "/images/blog-placeholder.jpg";
+            console.log(`✅ Fetched featured image for ${slug}:`, featuredImage);
+          } catch (mediaError) {
+            console.log(`Could not fetch featured image for ${slug}:`, mediaError.message);
+          }
+        }
+        
+        // Try to get embedded data if not already present (for categories, tags, author)
         if (!post._embedded) {
           try {
             const embedResponse = await makeApiRequest(`${WORDPRESS_API_URL}/posts?_embed=true&slug=${slug}`, {
@@ -231,7 +204,8 @@ export const BlogService = {
           }
         }
         
-        const blog = transformWordPressPost(post);
+        // Transform post with the fetched featured image
+        const blog = transformWordPressPostWithImage(post, featuredImage);
         return { success: true, data: blog };
       } else {
         throw new Error("Blog post not found");
