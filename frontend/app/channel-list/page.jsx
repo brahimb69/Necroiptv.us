@@ -1,243 +1,221 @@
 "use client";
 
-import { useMemo, useState } from "react";
-import { FiSearch, FiTv } from "react-icons/fi";
-import channelData from "../data/channels.json";
-
-// Country flag mapping
-const countryFlags = {
-  US: "🇺🇸",
-  CA: "🇨🇦",
-  UK: "🇬🇧",
-  AU: "🇦🇺",
-  BR: "🇧🇷",
-  CO: "🇨🇴",
-  MX: "🇲🇽",
-  AR: "🇦🇷",
-  CL: "🇨🇱",
-  JM: "🇯🇲",
-  TT: "🇹🇹",
-  BB: "🇧🇧",
-  BS: "🇧🇸",
-  HT: "🇭🇹",
-  DO: "🇩🇴",
-  CU: "🇨🇺",
-  PR: "🇵🇷",
-  AW: "🇦🇼",
-  GD: "🇬🇩",
-  LC: "🇱🇨",
-  KN: "🇰🇳",
-  VC: "🇻🇨",
-  AG: "🇦🇬",
-  EC: "🇪🇨",
-  SV: "🇸🇻",
-  PA: "🇵🇦",
-  NO: "🇳🇴",
-  DK: "🇩🇰",
-  SE: "🇸🇪",
-  FI: "🇫🇮",
-  IS: "🇮🇸",
-  NL: "🇳🇱",
-  CH: "🇨🇭",
-  ES: "🇪🇸",
-  FR: "🇫🇷",
-  BE: "🇧🇪",
-  IT: "🇮🇹",
-  HR: "🇭🇷",
-  UA: "🇺🇦",
-  PL: "🇵🇱",
-  EE: "🇪🇪",
-  TR: "🇹🇷",
-  DE: "🇩🇪",
-};
-
-// Get flag for a region
-const getRegionFlag = (region) => {
-  // If the region has channels, use the first channel's country code
-  if (region.channels && region.channels.length > 0) {
-    const countryCode = region.channels[0].country;
-    return countryFlags[countryCode] || "🌎";
-  }
-  return "🌎"; // Default global flag
-};
+import { FiTv, FiPlayCircle, FiStar, FiUsers, FiMonitor, FiWifi } from "react-icons/fi";
+import { motion } from "framer-motion";
 
 export default function ChannelList() {
-  const [searchQuery, setSearchQuery] = useState("");
-  const [selectedRegion, setSelectedRegion] = useState("all");
-  const [expandedRegions, setExpandedRegions] = useState(new Set());
-
-  // Get only regions with channels
-  const availableRegions = useMemo(() => {
-    return channelData.regions.filter((region) => region.channels.length > 0);
-  }, []);
-
-  // Filter channels based on search query and selected region
-  const filteredData = useMemo(() => {
-    return channelData.regions.filter((region) => {
-      if (selectedRegion !== "all" && region.name !== selectedRegion) {
-        return false;
-      }
-
-      if (!searchQuery) return region.channels.length > 0;
-
-      const query = searchQuery.toLowerCase();
-      return (
-        region.name.toLowerCase().includes(query) ||
-        region.channels.some(
-          (channel) =>
-            channel.name.toLowerCase().includes(query) ||
-            channel.country.toLowerCase().includes(query)
-        )
-      );
-    });
-  }, [searchQuery, selectedRegion]);
-
-  // Toggle region expansion
-  const toggleRegion = (regionName) => {
-    console.log("Toggling region:", regionName);
-    setExpandedRegions((prev) => {
-      const newSet = new Set(prev);
-      if (newSet.has(regionName)) {
-        console.log("Closing region:", regionName);
-        newSet.delete(regionName);
-      } else {
-        console.log("Opening region:", regionName);
-        newSet.add(regionName);
-      }
-      return newSet;
-    });
+  const handleOrderTrial = () => {
+    window.open('https://ramaca.shop/step/demo/', '_blank', 'noopener,noreferrer');
   };
+
+  const features = [
+    {
+      icon: FiTv,
+      title: "25,000+ Live Channels",
+      description: "Access to premium channels from around the world"
+    },
+    {
+      icon: FiPlayCircle,
+      title: "HD & 4K Quality",
+      description: "Crystal clear streaming in high definition"
+    },
+    {
+      icon: FiStar,
+      title: "Premium Content",
+      description: "Movies, sports, news, and entertainment"
+    },
+    {
+      icon: FiUsers,
+      title: "Multiple Devices",
+      description: "Watch on TV, phone, tablet, or computer"
+    },
+    {
+      icon: FiMonitor,
+      title: "Easy Setup",
+      description: "Quick installation and user-friendly interface"
+    },
+    {
+      icon: FiWifi,
+      title: "Stable Streaming",
+      description: "Reliable connection with minimal buffering"
+    }
+  ];
 
   return (
     <div className="min-h-screen bg-background dark:bg-background-dark">
-      {/* Header Section */}
-      <div className="relative bg-gradient-to-b from-muted to-background dark:from-secondary dark:to-background-dark border-b border-border/50 dark:border-border-dark/50 overflow-hidden">
+      {/* Hero Section */}
+      <div className="relative bg-gradient-to-br from-primary/10 via-blue-500/10 to-purple-500/10 dark:from-primary/20 dark:via-blue-500/20 dark:to-purple-500/20 border-b border-border/50 dark:border-border-dark/50 overflow-hidden">
         {/* Background Pattern */}
         <div className="absolute inset-0 bg-grid-slate-100/50 dark:bg-grid-slate-700/25 bg-[size:20px_20px] opacity-20" />
+        
+        {/* Animated Background Gradient */}
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 bg-gradient-to-r from-primary/5 via-transparent to-blue-500/5 animate-gradient-x" />
+        </div>
 
-        <div className="relative container py-16">
-          <h1 className="text-4xl font-bold text-foreground dark:text-foreground-dark mb-4">
-            Necro IPTV Channel List - 25,000+ Live TV Channels
-          </h1>
-          <p className="text-lg text-muted-foreground dark:text-foreground-dark/70">
-            Explore our comprehensive selection of 25,000+ live TV channels available on Necro IPTV. 
-            Our premium IPTV service features channels from around the world covering entertainment, 
-            sports, news, movies, documentaries, and international programming in HD & 4K quality. 
-            This sample showcases our extensive lineup—contact our 24/7 Necro IPTV support team for 
-            specific channel availability and recommendations!
-          </p>
+        <div className="relative container py-20 text-center">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+            className="max-w-4xl mx-auto"
+          >
+            <div className="inline-flex items-center gap-2 bg-primary/10 dark:bg-primary/20 text-primary dark:text-primary-foreground px-4 py-2 rounded-full text-sm font-medium mb-6">
+              <FiTv className="w-4 h-4" />
+              25,000+ Premium Channels Available
+            </div>
+            
+            <h1 className="text-4xl md:text-6xl font-bold text-foreground dark:text-foreground-dark mb-6">
+              Complete Channel List
+              <span className="bg-gradient-to-r from-primary to-blue-500 bg-clip-text text-transparent block">
+                Available with Free Trial
+              </span>
+            </h1>
+            
+            <p className="text-lg md:text-xl text-muted-foreground dark:text-foreground-dark/70 mb-8 leading-relaxed">
+              Experience our full channel lineup with a free trial. Get instant access to premium entertainment, 
+              sports, news, and international content from around the world.
+            </p>
+
+            <motion.button
+              onClick={handleOrderTrial}
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="group relative inline-flex items-center gap-3 bg-gradient-to-r from-primary to-blue-500 hover:from-primary/90 hover:to-blue-500/90 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-300 shadow-lg hover:shadow-xl"
+            >
+              <FiPlayCircle className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300" />
+              Order Your Free Trial Now
+              <div className="absolute inset-0 bg-white/20 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+            </motion.button>
+          </motion.div>
         </div>
       </div>
 
-      {/* Search and Filter Section */}
-      <div className="container py-8">
-        <div className="flex flex-col md:flex-row gap-4 mb-8">
-          {/* Search Input */}
-          <div className="relative flex-1">
-            <FiSearch className="absolute left-4 top-1/2 -translate-y-1/2 text-muted-foreground dark:text-foreground-dark/50" />
-            <input
-              type="text"
-              placeholder="Search channels..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-12 pr-4 py-3 rounded-xl bg-muted/50 dark:bg-secondary/50 border border-border/50 dark:border-border-dark/50 text-foreground dark:text-foreground-dark placeholder:text-muted-foreground/50 dark:placeholder:text-foreground-dark/30 focus:outline-none focus:ring-2 focus:ring-primary/50"
-            />
-          </div>
+      {/* Features Section */}
+      <div className="container py-20">
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="text-center mb-16"
+        >
+          <h2 className="text-3xl md:text-4xl font-bold text-foreground dark:text-foreground-dark mb-4">
+            What You'll Get with Your Free Trial
+          </h2>
+          <p className="text-lg text-muted-foreground dark:text-foreground-dark/70 max-w-2xl mx-auto">
+            Try our premium IPTV service risk-free and discover why thousands of customers choose Necro IPTV
+          </p>
+        </motion.div>
 
-          {/* Region Select */}
-          <div className="relative min-w-[200px]">
-            <button
-              onClick={() => setSelectedRegion("all")}
-              className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl bg-muted/50 dark:bg-secondary/50 border border-border/50 dark:border-border-dark/50 text-foreground dark:text-foreground-dark hover:bg-muted dark:hover:bg-secondary transition-colors"
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {features.map((feature, index) => (
+            <motion.div
+              key={index}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6, delay: index * 0.1 }}
+              className="group relative p-6 rounded-xl bg-background/50 dark:bg-background-dark/50 border border-border/50 dark:border-border-dark/50 hover:border-primary/50 dark:hover:border-primary/50 transition-all duration-300 hover:shadow-lg"
             >
-              <span className="text-xl">🌎</span>
-              <span>All Regions</span>
-            </button>
+              <div className="flex items-center gap-4 mb-4">
+                <div className="p-3 rounded-lg bg-primary/10 dark:bg-primary/20 group-hover:bg-primary/20 dark:group-hover:bg-primary/30 transition-colors duration-300">
+                  <feature.icon className="w-6 h-6 text-primary" />
+                </div>
+                <h3 className="text-xl font-semibold text-foreground dark:text-foreground-dark">
+                  {feature.title}
+                </h3>
+              </div>
+              <p className="text-muted-foreground dark:text-foreground-dark/70">
+                {feature.description}
+              </p>
+            </motion.div>
+          ))}
+        </div>
+      </div>
+
+      {/* Channel Categories Section */}
+      <div className="bg-muted/30 dark:bg-secondary/30 py-20">
+        <div className="container">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="text-center mb-16"
+          >
+            <h2 className="text-3xl md:text-4xl font-bold text-foreground dark:text-foreground-dark mb-4">
+              Channel Categories Available
+            </h2>
+            <p className="text-lg text-muted-foreground dark:text-foreground-dark/70">
+              Explore our diverse content library across all genres
+            </p>
+          </motion.div>
+
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            {[
+              { name: "Entertainment", icon: "🎬", count: "5,000+" },
+              { name: "Sports", icon: "⚽", count: "1,500+" },
+              { name: "News", icon: "📺", count: "800+" },
+              { name: "Movies", icon: "🍿", count: "3,000+" },
+              { name: "Kids & Family", icon: "👨‍👩‍👧‍👦", count: "1,200+" },
+              { name: "Documentaries", icon: "🌍", count: "900+" },
+              { name: "Music", icon: "🎵", count: "600+" },
+              { name: "International", icon: "🌎", count: "12,000+" }
+            ].map((category, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, scale: 0.9 }}
+                whileInView={{ opacity: 1, scale: 1 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.6, delay: index * 0.1 }}
+                className="text-center p-6 rounded-xl bg-background/80 dark:bg-background-dark/80 border border-border/50 dark:border-border-dark/50 hover:border-primary/50 dark:hover:border-primary/50 transition-all duration-300 hover:shadow-lg"
+              >
+                <div className="text-4xl mb-3">{category.icon}</div>
+                <h3 className="font-semibold text-foreground dark:text-foreground-dark mb-2">
+                  {category.name}
+                </h3>
+                <p className="text-sm text-primary font-medium">{category.count} channels</p>
+              </motion.div>
+            ))}
           </div>
         </div>
+      </div>
 
-        {/* Channel List Section */}
-        <div className="space-y-4">
-          {filteredData.map(
-            (region) =>
-              region.channels.length > 0 && (
-                <div
-                  key={region.name}
-                  className="rounded-xl overflow-hidden bg-background/50 dark:bg-background-dark/50 border border-border/50 dark:border-border-dark/50"
-                >
-                  {/* Region Header - Clickable */}
-                  <button
-                    onClick={() => toggleRegion(region.name)}
-                    className="w-full flex items-center justify-between p-4 hover:bg-muted/50 dark:hover:bg-secondary/50 transition-colors"
-                  >
-                    <div className="flex items-center gap-4">
-                      <span className="text-2xl">{getRegionFlag(region)}</span>
-                      <h2 className="text-xl font-bold text-foreground dark:text-foreground-dark">
-                        {region.name}
-                      </h2>
-                    </div>
-                    <div className="flex items-center justify-center w-10 h-10">
-                      <FiTv className="w-5 h-5 text-muted-foreground dark:text-foreground-dark/50" />
-                    </div>
-                  </button>
-
-                  {/* Channels - Collapsible */}
-                  {expandedRegions.has(region.name) && (
-                    <div className="p-4 border-t border-border/50 dark:border-border-dark/50">
-                      {/* Channel packages or groups */}
-                      {region.name === "SWITZERLAND" && (
-                        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-                          <div className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted/50 dark:bg-secondary/50 border border-border/50 dark:border-border-dark/50">
-                            <span className="text-2xl mb-2">🇨🇭</span>
-                            <span className="font-bold">3+</span>
-                          </div>
-                          <div className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted/50 dark:bg-secondary/50 border border-border/50 dark:border-border-dark/50">
-                            <span className="text-2xl mb-2">🇨🇭</span>
-                            <span className="font-bold">4+</span>
-                          </div>
-                        </div>
-                      )}
-
-                      {/* Regular channel list */}
-                      {region.name !== "SWITZERLAND" && (
-                        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-                          {region.channels.slice(0, 24).map((channel, index) => (
-                            <div
-                              key={`${region.name}-${channel.name}-${index}`}
-                              className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted/50 dark:bg-secondary/50 border border-border/50 dark:border-border-dark/50 hover:border-primary/50 dark:hover:border-primary/50 transition-colors"
-                            >
-                              <div className="p-2 rounded-lg bg-primary/10 dark:bg-primary/20 mb-2">
-                                <FiTv className="w-5 h-5 text-primary" />
-                              </div>
-                              <span className="text-center text-sm font-medium text-foreground dark:text-foreground-dark">
-                                {channel.name}
-                              </span>
-                            </div>
-                          ))}
-                          {region.channels.length > 24 && (
-                            <div className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted/50 dark:bg-secondary/50 border border-border/50 dark:border-border-dark/50">
-                              <span className="text-center text-sm font-medium text-foreground dark:text-foreground-dark">
-                                +{region.channels.length - 24} more channels
-                              </span>
-                            </div>
-                          )}
-                        </div>
-                      )}
-                    </div>
-                  )}
-                </div>
-              )
-          )}
-
-          {/* No Results */}
-          {filteredData.every((region) => region.channels.length === 0) && (
-            <div className="text-center py-12">
-              <p className="text-lg text-muted-foreground dark:text-foreground-dark/70">
-                No channels found matching your search criteria
-              </p>
+      {/* CTA Section */}
+      <div className="container py-20">
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="text-center bg-gradient-to-r from-primary/10 to-blue-500/10 dark:from-primary/20 dark:to-blue-500/20 rounded-2xl p-12"
+        >
+          <h2 className="text-3xl md:text-4xl font-bold text-foreground dark:text-foreground-dark mb-4">
+            Ready to Explore Our Full Channel List?
+          </h2>
+          <p className="text-lg text-muted-foreground dark:text-foreground-dark/70 mb-8 max-w-2xl mx-auto">
+            Start your free trial today and get instant access to our complete channel lineup. 
+            No commitments, no hidden fees - just premium entertainment at your fingertips.
+          </p>
+          
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <motion.button
+              onClick={handleOrderTrial}
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="group relative inline-flex items-center gap-3 bg-gradient-to-r from-primary to-blue-500 hover:from-primary/90 hover:to-blue-500/90 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-300 shadow-lg hover:shadow-xl"
+            >
+              <FiPlayCircle className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300" />
+              Get Free Trial Access
+              <div className="absolute inset-0 bg-white/20 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+            </motion.button>
+            
+            <div className="text-sm text-muted-foreground dark:text-foreground-dark/70">
+              🔒 Secure checkout • ⚡ Instant activation • 🌟 24/7 support
             </div>
-          )}
-        </div>
+          </div>
+        </motion.div>
       </div>
     </div>
   );

@@ -5,19 +5,19 @@
       "channels": [
         {
           "country": "US",
-          "name": "ABC"
+          "name": "Network A"
         },
         {
           "country": "US",
-          "name": "NBC"
+          "name": "Network B"
         },
         {
           "country": "US",
-          "name": "CBS"
+          "name": "Network C"
         },
         {
           "country": "US",
-          "name": "FOX"
+          "name": "Network D"
         },
         {
           "country": "US",
@@ -41,19 +41,19 @@
         },
         {
           "country": "US",
-          "name": "A&E"
+          "name": "Arts & Entertainment Network"
         },
         {
           "country": "US",
-          "name": "AMC"
+          "name": "Movie Classics Network"
         },
         {
           "country": "US",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "US",
-          "name": "BBC America"
+          "name": "British Network America"
         },
         {
           "country": "US",
@@ -61,19 +61,19 @@
         },
         {
           "country": "US",
-          "name": "Bloomberg"
+          "name": "Financial News"
         },
         {
           "country": "US",
-          "name": "Bravo"
+          "name": "Lifestyle Network A"
         },
         {
           "country": "US",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "US",
-          "name": "CBS Sports Network"
+          "name": "Sports Network C"
         },
         {
           "country": "US",
@@ -81,15 +81,15 @@
         },
         {
           "country": "US",
-          "name": "CMT"
+          "name": "Country Music Television"
         },
         {
           "country": "US",
-          "name": "CNBC"
+          "name": "Business Network C"
         },
         {
           "country": "US",
-          "name": "CNN"
+          "name": "News Network A"
         },
         {
           "country": "US",
@@ -97,27 +97,27 @@
         },
         {
           "country": "US",
-          "name": "Cooking Channel"
+          "name": "Culinary Network"
         },
         {
           "country": "US",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "US",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "US",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "US",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "US",
-          "name": "DIY Network"
+          "name": "Do It Yourself Network"
         },
         {
           "country": "US",
@@ -125,39 +125,39 @@
         },
         {
           "country": "US",
-          "name": "ESPN"
+          "name": "Sports Network A"
         },
         {
           "country": "US",
-          "name": "ESPN2"
+          "name": "Sports Network A2"
         },
         {
           "country": "US",
-          "name": "ESPNU"
+          "name": "University Sports"
         },
         {
           "country": "US",
-          "name": "ESPNews"
+          "name": "Sports News Network"
         },
         {
           "country": "US",
-          "name": "Food Network"
+          "name": "Cooking Network"
         },
         {
           "country": "US",
-          "name": "Fox Business"
+          "name": "Business Network D"
         },
         {
           "country": "US",
-          "name": "Fox News"
+          "name": "News Network D"
         },
         {
           "country": "US",
-          "name": "Fox Sports 1"
+          "name": "Sports Network D1"
         },
         {
           "country": "US",
-          "name": "Fox Sports 2"
+          "name": "Sports Network D2"
         },
         {
           "country": "US",
@@ -165,11 +165,11 @@
         },
         {
           "country": "US",
-          "name": "FX"
+          "name": "Premium Cable Network"
         },
         {
           "country": "US",
-          "name": "FXX"
+          "name": "Comedy Cable Network"
         },
         {
           "country": "US",
@@ -177,99 +177,99 @@
         },
         {
           "country": "US",
-          "name": "Golf Channel"
+          "name": "Golf Network"
         },
         {
           "country": "US",
-          "name": "Hallmark Channel"
+          "name": "Family Movies Network"
         },
         {
           "country": "US",
-          "name": "HBO"
+          "name": "Premium Movie Channel"
         },
         {
           "country": "US",
-          "name": "HBO 2"
+          "name": "Premium Movie Channel 2"
         },
         {
           "country": "US",
-          "name": "HBO Comedy"
+          "name": "Premium Comedy Channel"
         },
         {
           "country": "US",
-          "name": "HBO Family"
+          "name": "Premium Family Channel"
         },
         {
           "country": "US",
-          "name": "HBO Latino"
+          "name": "Premium Latino Channel"
         },
         {
           "country": "US",
-          "name": "HBO Signature"
+          "name": "Premium Signature Channel"
         },
         {
           "country": "US",
-          "name": "HBO Zone"
+          "name": "Premium Zone Channel"
         },
         {
           "country": "US",
-          "name": "HGTV"
+          "name": "Home & Garden Network"
         },
         {
           "country": "US",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "US",
-          "name": "HLN"
+          "name": "Headline News"
         },
         {
           "country": "US",
-          "name": "IFC"
+          "name": "Independent Film Channel"
         },
         {
           "country": "US",
-          "name": "Lifetime"
+          "name": "Women's Network"
         },
         {
           "country": "US",
-          "name": "MLB Network"
+          "name": "Professional Baseball Network"
         },
         {
           "country": "US",
-          "name": "MSNBC"
+          "name": "News Network B"
         },
         {
           "country": "US",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "US",
-          "name": "MTV2"
+          "name": "Music Television 2"
         },
         {
           "country": "US",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "US",
-          "name": "Nat Geo Wild"
+          "name": "Wildlife Geographic"
         },
         {
           "country": "US",
-          "name": "NBC Sports Network"
+          "name": "Sports Network B"
         },
         {
           "country": "US",
-          "name": "NFL Network"
+          "name": "Professional Football Network"
         },
         {
           "country": "US",
-          "name": "NHL Network"
+          "name": "Professional Hockey Network"
         },
         {
           "country": "US",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "US",
@@ -277,119 +277,119 @@
         },
         {
           "country": "US",
-          "name": "Nicktoons"
+          "name": "Animation Network A"
         },
         {
           "country": "US",
-          "name": "OWN"
+          "name": "Oprah's Network"
         },
         {
           "country": "US",
-          "name": "Oxygen"
+          "name": "Crime & Investigation A"
         },
         {
           "country": "US",
-          "name": "Paramount Network"
+          "name": "Entertainment Network P"
         },
         {
           "country": "US",
-          "name": "PBS Kids"
+          "name": "Educational Kids"
         },
         {
           "country": "US",
-          "name": "Pop"
+          "name": "Pop Culture Network"
         },
         {
           "country": "US",
-          "name": "QVC"
+          "name": "Shopping Network A"
         },
         {
           "country": "US",
-          "name": "Reelz"
+          "name": "Entertainment News & Movies"
         },
         {
           "country": "US",
-          "name": "Science Channel"
+          "name": "Science Learning Network"
         },
         {
           "country": "US",
-          "name": "Showtime"
+          "name": "Premium Entertainment"
         },
         {
           "country": "US",
-          "name": "Showtime 2"
+          "name": "Premium Entertainment 2"
         },
         {
           "country": "US",
-          "name": "Showtime Extreme"
+          "name": "Premium Entertainment Extreme"
         },
         {
           "country": "US",
-          "name": "Showtime Showcase"
+          "name": "Premium Entertainment Canadian Drama Network"
         },
         {
           "country": "US",
-          "name": "Smithsonian Channel"
+          "name": "Educational Historical Network"
         },
         {
           "country": "US",
-          "name": "Spike"
+          "name": "Men's Network"
         },
         {
           "country": "US",
-          "name": "Starz"
+          "name": "Premium Movies"
         },
         {
           "country": "US",
-          "name": "Starz Cinema"
+          "name": "Premium Movies Cinema"
         },
         {
           "country": "US",
-          "name": "Starz Comedy"
+          "name": "Premium Movies Comedy"
         },
         {
           "country": "US",
-          "name": "Starz Edge"
+          "name": "Premium Movies Edge"
         },
         {
           "country": "US",
-          "name": "Starz Encore"
+          "name": "Premium Movies Encore"
         },
         {
           "country": "US",
-          "name": "Starz Encore Action"
+          "name": "Premium Movies Action"
         },
         {
           "country": "US",
-          "name": "Starz Encore Black"
+          "name": "Premium Movies Black"
         },
         {
           "country": "US",
-          "name": "Starz Encore Classic"
+          "name": "Premium Movies Classic"
         },
         {
           "country": "US",
-          "name": "Starz Encore Family"
+          "name": "Premium Movies Family"
         },
         {
           "country": "US",
-          "name": "Starz Encore Suspense"
+          "name": "Premium Movies Suspense"
         },
         {
           "country": "US",
-          "name": "Starz Encore Westerns"
+          "name": "Premium Movies Westerns"
         },
         {
           "country": "US",
-          "name": "Starz in Black"
+          "name": "Premium Movies in Black"
         },
         {
           "country": "US",
-          "name": "Starz Kids & Family"
+          "name": "Premium Kids & Family"
         },
         {
           "country": "US",
-          "name": "Sundance TV"
+          "name": "Independent Film Network"
         },
         {
           "country": "US",
@@ -397,11 +397,11 @@
         },
         {
           "country": "US",
-          "name": "TBS"
+          "name": "Comedy Network B"
         },
         {
           "country": "US",
-          "name": "TCM"
+          "name": "Classic Movies Network"
         },
         {
           "country": "US",
@@ -409,27 +409,27 @@
         },
         {
           "country": "US",
-          "name": "Tennis Channel"
+          "name": "Tennis Network"
         },
         {
           "country": "US",
-          "name": "The Weather Channel"
+          "name": "Canadian Weather Channel"
         },
         {
           "country": "US",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "US",
-          "name": "TNT"
+          "name": "Drama Network"
         },
         {
           "country": "US",
-          "name": "Travel Channel"
+          "name": "Travel & Adventure"
         },
         {
           "country": "US",
-          "name": "truTV"
+          "name": "Reality Comedy Network"
         },
         {
           "country": "US",
@@ -441,15 +441,15 @@
         },
         {
           "country": "US",
-          "name": "USA Network"
+          "name": "General Entertainment Network"
         },
         {
           "country": "US",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "US",
-          "name": "Viceland"
+          "name": "Youth Culture Network"
         }
       ]
     },
@@ -458,155 +458,155 @@
       "channels": [
         {
           "country": "CA",
-          "name": "CBC"
+          "name": "Canadian Public Broadcaster"
         },
         {
           "country": "CA",
-          "name": "CBC News Network"
+          "name": "Canadian Public News"
         },
         {
           "country": "CA",
-          "name": "CTV"
+          "name": "Canadian Television Network"
         },
         {
           "country": "CA",
-          "name": "CTV 2"
+          "name": "Canadian Television Network 2"
         },
         {
           "country": "CA",
-          "name": "CTV News Channel"
+          "name": "Canadian Television News"
         },
         {
           "country": "CA",
-          "name": "Global"
+          "name": "Canadian Global Network"
         },
         {
           "country": "CA",
-          "name": "Global News"
+          "name": "Canadian Canadian Global Network News"
         },
         {
           "country": "CA",
-          "name": "Citytv"
+          "name": "Canadian City Network"
         },
         {
           "country": "CA",
-          "name": "TVA"
+          "name": "Quebec Television Network"
         },
         {
           "country": "CA",
-          "name": "TVA Sports"
+          "name": "Quebec Sports Network"
         },
         {
           "country": "CA",
-          "name": "V"
+          "name": "Quebec Entertainment Network"
         },
         {
           "country": "CA",
-          "name": "Télé-Québec"
+          "name": "Quebec Public Network"
         },
         {
           "country": "CA",
-          "name": "CBC Gem"
+          "name": "Canadian Public Streaming"
         },
         {
           "country": "CA",
-          "name": "Radio-Canada"
+          "name": "French Canadian Public"
         },
         {
           "country": "CA",
-          "name": "Noovo"
+          "name": "Canadian Lifestyle Network"
         },
         {
           "country": "CA",
-          "name": "Knowledge Network"
+          "name": "Educational Network BC"
         },
         {
           "country": "CA",
-          "name": "CP24"
+          "name": "Toronto News Network"
         },
         {
           "country": "CA",
-          "name": "RDS"
+          "name": "French Sports Network"
         },
         {
           "country": "CA",
-          "name": "RDS2"
+          "name": "French Sports Network 2"
         },
         {
           "country": "CA",
-          "name": "TSN"
+          "name": "Sports Network CA"
         },
         {
           "country": "CA",
-          "name": "TSN2"
+          "name": "Sports Network CA2"
         },
         {
           "country": "CA",
-          "name": "Sportsnet"
+          "name": "Canadian Sports Network"
         },
         {
           "country": "CA",
-          "name": "Sportsnet One"
+          "name": "Canadian Sports Network One"
         },
         {
           "country": "CA",
-          "name": "Sportsnet 360"
+          "name": "Canadian Sports Network 360"
         },
         {
           "country": "CA",
-          "name": "Sportsnet World"
+          "name": "Canadian Sports Network World"
         },
         {
           "country": "CA",
-          "name": "The Sports Network (TSN)"
+          "name": "The Sports Network (Sports Network CA)"
         },
         {
           "country": "CA",
-          "name": "Sportsnet Now"
+          "name": "Canadian Sports Network Now"
         },
         {
           "country": "CA",
-          "name": "Super Channel"
+          "name": "Canadian Premium Movies"
         },
         {
           "country": "CA",
-          "name": "Super Écran"
+          "name": "French Premium Movies"
         },
         {
           "country": "CA",
-          "name": "Movie Network"
+          "name": "Canadian Movie Network"
         },
         {
           "country": "CA",
-          "name": "HBO Canada"
+          "name": "Premium Movies Canada"
         },
         {
           "country": "CA",
-          "name": "Crave"
+          "name": "Canadian Streaming Service"
         },
         {
           "country": "CA",
-          "name": "Crave 1"
+          "name": "Canadian Streaming Service 1"
         },
         {
           "country": "CA",
-          "name": "Crave 2"
+          "name": "Canadian Streaming Service 2"
         },
         {
           "country": "CA",
-          "name": "Crave 3"
+          "name": "Canadian Streaming Service 3"
         },
         {
           "country": "CA",
-          "name": "Crave 4"
+          "name": "Canadian Streaming Service 4"
         },
         {
           "country": "CA",
-          "name": "Starz Canada"
+          "name": "Premium Movies Canada"
         },
         {
           "country": "CA",
-          "name": "Family Channel"
+          "name": "Family Network Canada"
         },
         {
           "country": "CA",
@@ -614,95 +614,95 @@
         },
         {
           "country": "CA",
-          "name": "Family CHRGD"
+          "name": "Family Action Canada"
         },
         {
           "country": "CA",
-          "name": "YTV"
+          "name": "Youth Network"
         },
         {
           "country": "CA",
-          "name": "Treehouse TV"
+          "name": "Preschool Canada"
         },
         {
           "country": "CA",
-          "name": "Teletoon"
+          "name": "Animation Canada"
         },
         {
           "country": "CA",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "CA",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "CA",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "CA",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "CA",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "CA",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "CA",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "CA",
-          "name": "Discovery Science"
+          "name": "Science Network"
         },
         {
           "country": "CA",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "CA",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "CA",
-          "name": "Nat Geo Wild"
+          "name": "Wildlife Geographic"
         },
         {
           "country": "CA",
-          "name": "HGTV Canada"
+          "name": "Home & Garden Canada"
         },
         {
           "country": "CA",
-          "name": "Food Network Canada"
+          "name": "Cooking Network Canada"
         },
         {
           "country": "CA",
-          "name": "Cooking Channel"
+          "name": "Culinary Network"
         },
         {
           "country": "CA",
-          "name": "Slice"
+          "name": "Canadian Lifestyle Network"
         },
         {
           "country": "CA",
-          "name": "W Network"
+          "name": "Canadian Women's Network"
         },
         {
           "country": "CA",
-          "name": "Lifetime Canada"
+          "name": "Women's Network Canada"
         },
         {
           "country": "CA",
-          "name": "Showcase"
+          "name": "Canadian Drama Network"
         },
         {
           "country": "CA",
-          "name": "History"
+          "name": "Historical Network"
         },
         {
           "country": "CA",
@@ -714,55 +714,55 @@
         },
         {
           "country": "CA",
-          "name": "A&E"
+          "name": "Arts & Entertainment Network"
         },
         {
           "country": "CA",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "CA",
-          "name": "BBC Canada"
+          "name": "British Network Canada"
         },
         {
           "country": "CA",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "CA",
-          "name": "CNN"
+          "name": "News Network A"
         },
         {
           "country": "CA",
-          "name": "CNBC"
+          "name": "Business Network C"
         },
         {
           "country": "CA",
-          "name": "Fox News"
+          "name": "News Network D"
         },
         {
           "country": "CA",
-          "name": "MSNBC"
+          "name": "News Network B"
         },
         {
           "country": "CA",
-          "name": "Bloomberg"
+          "name": "Financial News"
         },
         {
           "country": "CA",
-          "name": "BNN Bloomberg"
+          "name": "Financial News Canada"
         },
         {
           "country": "CA",
-          "name": "CPAC"
+          "name": "Canadian Parliament Channel"
         },
         {
           "country": "CA",
-          "name": "AMC"
+          "name": "Movie Classics Network"
         },
         {
           "country": "CA",
-          "name": "Bravo Canada"
+          "name": "Lifestyle Network Canada"
         },
         {
           "country": "CA",
@@ -770,79 +770,79 @@
         },
         {
           "country": "CA",
-          "name": "CMT Canada"
+          "name": "Country Music Canada"
         },
         {
           "country": "CA",
-          "name": "E! Canada"
+          "name": "Entertainment News Canada"
         },
         {
           "country": "CA",
-          "name": "Much"
+          "name": "Music Network Canada"
         },
         {
           "country": "CA",
-          "name": "MTV Canada"
+          "name": "Music Television Canada"
         },
         {
           "country": "CA",
-          "name": "MTV2 Canada"
+          "name": "Music Television 2 Canada"
         },
         {
           "country": "CA",
-          "name": "OLN"
+          "name": "Outdoor Life Network"
         },
         {
           "country": "CA",
-          "name": "Paramount Network Canada"
+          "name": "Entertainment Network P Canada"
         },
         {
           "country": "CA",
-          "name": "Peachtree TV"
+          "name": "Southern Entertainment"
         },
         {
           "country": "CA",
-          "name": "Silver Screen Classics"
+          "name": "Classic Film Network"
         },
         {
           "country": "CA",
-          "name": "TBS"
+          "name": "Comedy Network B"
         },
         {
           "country": "CA",
-          "name": "Turner Classic Movies (TCM)"
+          "name": "Turner Classic Movies (Classic Movies Network)"
         },
         {
           "country": "CA",
-          "name": "VisionTV"
+          "name": "Multi-faith Network"
         },
         {
           "country": "CA",
-          "name": "Zoomer TV"
+          "name": "Mature Audience Network"
         },
         {
           "country": "CA",
-          "name": "IFC Canada"
+          "name": "Independent Film Canada"
         },
         {
           "country": "CA",
-          "name": "DIY Network Canada"
+          "name": "Do It Yourself Canada"
         },
         {
           "country": "CA",
-          "name": "Telelatino"
+          "name": "Latin Canadian Network"
         },
         {
           "country": "CA",
-          "name": "BBC Kids"
+          "name": "Educational Kids UK"
         },
         {
           "country": "CA",
-          "name": "Hollywood Suite"
+          "name": "Movie Collection Network"
         },
         {
           "country": "CA",
-          "name": "Cottage Life"
+          "name": "Rural Lifestyle Network"
         }
       ]
     },
@@ -851,195 +851,195 @@
       "channels": [
         {
           "country": "UK",
-          "name": "BBC One"
+          "name": "Public Broadcaster One"
         },
         {
           "country": "UK",
-          "name": "BBC Two"
+          "name": "Public Broadcaster Two"
         },
         {
           "country": "UK",
-          "name": "BBC Three"
+          "name": "Public Broadcaster Three"
         },
         {
           "country": "UK",
-          "name": "BBC Four"
+          "name": "Public Broadcaster Four"
         },
         {
           "country": "UK",
-          "name": "BBC News"
+          "name": "Public News Network"
         },
         {
           "country": "UK",
-          "name": "BBC Parliament"
+          "name": "Public Parliament Channel"
         },
         {
           "country": "UK",
-          "name": "BBC Alba"
+          "name": "Public Scottish Channel"
         },
         {
           "country": "UK",
-          "name": "CBBC"
+          "name": "Kids Channel UK"
         },
         {
           "country": "UK",
-          "name": "CBeebies"
+          "name": "Preschool UK"
         },
         {
           "country": "UK",
-          "name": "ITV"
+          "name": "Commercial Network UK"
         },
         {
           "country": "UK",
-          "name": "ITV2"
+          "name": "Commercial Network UK 2"
         },
         {
           "country": "UK",
-          "name": "ITV3"
+          "name": "Commercial Network UK 3"
         },
         {
           "country": "UK",
-          "name": "ITV4"
+          "name": "Commercial Network UK 4"
         },
         {
           "country": "UK",
-          "name": "ITVBe"
+          "name": "Lifestyle Network UK"
         },
         {
           "country": "UK",
-          "name": "ITV Encore"
+          "name": "Drama Network UK"
         },
         {
           "country": "UK",
-          "name": "Channel 4"
+          "name": "Alternative Network UK"
         },
         {
           "country": "UK",
-          "name": "E4"
+          "name": "Entertainment Network UK"
         },
         {
           "country": "UK",
-          "name": "More4"
+          "name": "Documentary Network UK"
         },
         {
           "country": "UK",
-          "name": "Film4"
+          "name": "Movie Network UK"
         },
         {
           "country": "UK",
-          "name": "4seven"
+          "name": "Catch-up Network UK"
         },
         {
           "country": "UK",
-          "name": "Channel 5"
+          "name": "Commercial Five UK"
         },
         {
           "country": "UK",
-          "name": "5USA"
+          "name": "US Entertainment UK"
         },
         {
           "country": "UK",
-          "name": "5Star"
+          "name": "Reality Network UK"
         },
         {
           "country": "UK",
-          "name": "5Select"
+          "name": "Factual Network UK"
         },
         {
           "country": "UK",
-          "name": "My5"
+          "name": "On-demand Five UK"
         },
         {
           "country": "UK",
-          "name": "Sky One"
+          "name": "Satellite Entertainment"
         },
         {
           "country": "UK",
-          "name": "Sky Two"
+          "name": "Satellite Entertainment 2"
         },
         {
           "country": "UK",
-          "name": "Sky Arts"
+          "name": "Arts & Culture Channel"
         },
         {
           "country": "UK",
-          "name": "Sky Atlantic"
+          "name": "Premium Drama Channel"
         },
         {
           "country": "UK",
-          "name": "Sky Witness"
+          "name": "Crime & Drama Channel"
         },
         {
           "country": "UK",
-          "name": "Sky Crime"
+          "name": "True Crime Channel"
         },
         {
           "country": "UK",
-          "name": "Sky Comedy"
+          "name": "Comedy Network"
         },
         {
           "country": "UK",
-          "name": "Sky Documentaries"
+          "name": "Documentary Channel"
         },
         {
           "country": "UK",
-          "name": "Sky Nature"
+          "name": "Nature Channel"
         },
         {
           "country": "UK",
-          "name": "Sky History"
+          "name": "Historical Network Channel"
         },
         {
           "country": "UK",
-          "name": "Sky History 2"
+          "name": "Historical Network Channel 2"
         },
         {
           "country": "UK",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Main Event"
+          "name": "Premium Sports Network Main Event"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Premier League"
+          "name": "Premium Sports Network Premier League"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Football"
+          "name": "Premium Sports Network Football"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Cricket"
+          "name": "Premium Sports Network Cricket"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Golf"
+          "name": "Premium Sports Network Golf"
         },
         {
           "country": "UK",
-          "name": "Sky Sports F1"
+          "name": "Premium Sports Network F1"
         },
         {
           "country": "UK",
-          "name": "Sky Sports NFL"
+          "name": "Premium Sports Network NFL"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Arena"
+          "name": "Premium Sports Network Arena"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Mix"
+          "name": "Premium Sports Network Mix"
         },
         {
           "country": "UK",
-          "name": "Sky Sports Racing"
+          "name": "Premium Sports Network Racing"
         },
         {
           "country": "UK",
-          "name": "Sky Sports News"
+          "name": "Premium Sports Network News"
         },
         {
           "country": "UK",
@@ -1111,7 +1111,7 @@
         },
         {
           "country": "UK",
-          "name": "BT Sport ESPN"
+          "name": "BT Sport Sports Network A"
         },
         {
           "country": "UK",
@@ -1151,27 +1151,27 @@
         },
         {
           "country": "UK",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "UK",
-          "name": "Discovery Science"
+          "name": "Science Network"
         },
         {
           "country": "UK",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "UK",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "UK",
-          "name": "Nat Geo Wild"
+          "name": "Wildlife Geographic"
         },
         {
           "country": "UK",
-          "name": "History"
+          "name": "Historical Network"
         },
         {
           "country": "UK",
@@ -1179,11 +1179,11 @@
         },
         {
           "country": "UK",
-          "name": "A&E"
+          "name": "Arts & Entertainment Network"
         },
         {
           "country": "UK",
-          "name": "Lifetime"
+          "name": "Women's Network"
         },
         {
           "country": "UK",
@@ -1195,19 +1195,19 @@
         },
         {
           "country": "UK",
-          "name": "HGTV"
+          "name": "Home & Garden Network"
         },
         {
           "country": "UK",
-          "name": "Food Network UK"
+          "name": "Cooking Network UK"
         },
         {
           "country": "UK",
-          "name": "Travel Channel UK"
+          "name": "Travel & Adventure UK"
         },
         {
           "country": "UK",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "UK",
@@ -1255,35 +1255,35 @@
         },
         {
           "country": "UK",
-          "name": "MTV UK"
+          "name": "Music Television UK"
         },
         {
           "country": "UK",
-          "name": "MTV Music"
+          "name": "Music Television Music"
         },
         {
           "country": "UK",
-          "name": "MTV Hits"
+          "name": "Music Television Hits"
         },
         {
           "country": "UK",
-          "name": "MTV Base"
+          "name": "Music Television Base"
         },
         {
           "country": "UK",
-          "name": "MTV Dance"
+          "name": "Music Television Dance"
         },
         {
           "country": "UK",
-          "name": "MTV Rocks"
+          "name": "Music Television Rocks"
         },
         {
           "country": "UK",
-          "name": "MTV Classic"
+          "name": "Music Television Classic"
         },
         {
           "country": "UK",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "UK",
@@ -1319,7 +1319,7 @@
         },
         {
           "country": "UK",
-          "name": "Film4"
+          "name": "Movie Network UK"
         },
         {
           "country": "UK",
@@ -1371,11 +1371,11 @@
         },
         {
           "country": "UK",
-          "name": "TCM Movies"
+          "name": "Classic Movies Network Movies"
         },
         {
           "country": "UK",
-          "name": "TCM Movies +1"
+          "name": "Classic Movies Network Movies +1"
         },
         {
           "country": "UK",
@@ -1383,11 +1383,11 @@
         },
         {
           "country": "UK",
-          "name": "Film4"
+          "name": "Movie Network UK"
         },
         {
           "country": "UK",
-          "name": "More4"
+          "name": "Documentary Network UK"
         },
         {
           "country": "UK",
@@ -1395,7 +1395,7 @@
         },
         {
           "country": "UK",
-          "name": "4seven"
+          "name": "Catch-up Network UK"
         },
         {
           "country": "UK",
@@ -1411,19 +1411,19 @@
         },
         {
           "country": "UK",
-          "name": "CBS Drama"
+          "name": "Network C Drama"
         },
         {
           "country": "UK",
-          "name": "CBS Justice"
+          "name": "Network C Justice"
         },
         {
           "country": "UK",
-          "name": "CBS Reality"
+          "name": "Network C Reality"
         },
         {
           "country": "UK",
-          "name": "CBS Action"
+          "name": "Network C Action"
         },
         {
           "country": "UK",
@@ -1567,15 +1567,15 @@
         },
         {
           "country": "UK",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "UK",
-          "name": "Bloomberg Television"
+          "name": "Financial News Television"
         },
         {
           "country": "UK",
-          "name": "CNBC Europe"
+          "name": "Business Network C Europe"
         },
         {
           "country": "UK",
@@ -1587,11 +1587,11 @@
         },
         {
           "country": "UK",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "UK",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "UK",
@@ -1599,11 +1599,11 @@
         },
         {
           "country": "UK",
-          "name": "ITV News"
+          "name": "Commercial Network UK News"
         },
         {
           "country": "UK",
-          "name": "Channel 4 News"
+          "name": "Alternative Network UK News"
         },
         {
           "country": "UK",
@@ -1628,19 +1628,19 @@
       "channels": [
         {
           "country": "AU",
-          "name": "ABC"
+          "name": "Network A"
         },
         {
           "country": "AU",
-          "name": "ABC TV Plus"
+          "name": "Network A TV Plus"
         },
         {
           "country": "AU",
-          "name": "ABC Me"
+          "name": "Network A Me"
         },
         {
           "country": "AU",
-          "name": "ABC News"
+          "name": "Network A News"
         },
         {
           "country": "AU",
@@ -1648,7 +1648,7 @@
         },
         {
           "country": "AU",
-          "name": "SBS Viceland"
+          "name": "SBS Youth Culture Network"
         },
         {
           "country": "AU",
@@ -1720,83 +1720,83 @@
         },
         {
           "country": "AU",
-          "name": "Sky News Australia"
+          "name": "Satellite News Australia"
         },
         {
           "country": "AU",
-          "name": "Sky News Weather"
+          "name": "Satellite News Weather"
         },
         {
           "country": "AU",
-          "name": "Sky News Extra"
+          "name": "Satellite News Extra"
         },
         {
           "country": "AU",
-          "name": "Sky News UK"
+          "name": "Satellite News UK"
         },
         {
           "country": "AU",
-          "name": "Fox Sports News"
+          "name": "Network D Sports News"
         },
         {
           "country": "AU",
-          "name": "Fox Sports 1"
+          "name": "Sports Network D1"
         },
         {
           "country": "AU",
-          "name": "Fox Sports 2"
+          "name": "Sports Network D2"
         },
         {
           "country": "AU",
-          "name": "Fox Sports 3"
+          "name": "Network D Sports 3"
         },
         {
           "country": "AU",
-          "name": "Fox Sports 4"
+          "name": "Network D Sports 4"
         },
         {
           "country": "AU",
-          "name": "Fox Sports 5"
+          "name": "Network D Sports 5"
         },
         {
           "country": "AU",
-          "name": "Fox Sports 6"
+          "name": "Network D Sports 6"
         },
         {
           "country": "AU",
-          "name": "Fox Cricket"
+          "name": "Network D Cricket"
         },
         {
           "country": "AU",
-          "name": "Fox League"
+          "name": "Network D League"
         },
         {
           "country": "AU",
-          "name": "Fox Footy"
+          "name": "Network D Footy"
         },
         {
           "country": "AU",
-          "name": "Fox Sports Ultra HD"
+          "name": "Network D Sports Ultra HD"
         },
         {
           "country": "AU",
-          "name": "ESPN"
+          "name": "Sports Network A"
         },
         {
           "country": "AU",
-          "name": "ESPN2"
+          "name": "Sports Network A2"
         },
         {
           "country": "AU",
-          "name": "beIN Sports 1"
+          "name": "International Sports Network 1"
         },
         {
           "country": "AU",
-          "name": "beIN Sports 2"
+          "name": "International Sports Network 2"
         },
         {
           "country": "AU",
-          "name": "beIN Sports 3"
+          "name": "International Sports Network 3"
         },
         {
           "country": "AU",
@@ -1836,7 +1836,7 @@
         },
         {
           "country": "AU",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "AU",
@@ -1844,19 +1844,19 @@
         },
         {
           "country": "AU",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "AU",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "AU",
-          "name": "CNBC"
+          "name": "Business Network C"
         },
         {
           "country": "AU",
-          "name": "Bloomberg Television"
+          "name": "Financial News Television"
         },
         {
           "country": "AU",
@@ -1880,15 +1880,15 @@
         },
         {
           "country": "AU",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "AU",
-          "name": "Sky News Business"
+          "name": "Satellite News Business"
         },
         {
           "country": "AU",
-          "name": "Sky News Weather"
+          "name": "Satellite News Weather"
         },
         {
           "country": "AU",
@@ -1944,7 +1944,7 @@
         },
         {
           "country": "AU",
-          "name": "Showcase"
+          "name": "Canadian Drama Network"
         },
         {
           "country": "AU",
@@ -1960,7 +1960,7 @@
         },
         {
           "country": "AU",
-          "name": "FOX Classics"
+          "name": "Network D Classics"
         },
         {
           "country": "AU",
@@ -1988,11 +1988,11 @@
         },
         {
           "country": "AU",
-          "name": "A&E"
+          "name": "Arts & Entertainment Network"
         },
         {
           "country": "AU",
-          "name": "History"
+          "name": "Historical Network"
         },
         {
           "country": "AU",
@@ -2000,55 +2000,55 @@
         },
         {
           "country": "AU",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "AU",
-          "name": "Nat Geo Wild"
+          "name": "Wildlife Geographic"
         },
         {
           "country": "AU",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "AU",
-          "name": "Discovery Science"
+          "name": "Science Network"
         },
         {
           "country": "AU",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "AU",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "AU",
-          "name": "Investigation Discovery"
+          "name": "True Crime Investigation"
         },
         {
           "country": "AU",
-          "name": "Travel Channel"
+          "name": "Travel & Adventure"
         },
         {
           "country": "AU",
-          "name": "HGTV"
+          "name": "Home & Garden Network"
         },
         {
           "country": "AU",
-          "name": "Food Network"
+          "name": "Cooking Network"
         },
         {
           "country": "AU",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "AU",
-          "name": "MTV Classic"
+          "name": "Music Television Classic"
         },
         {
           "country": "AU",
-          "name": "MTV Music"
+          "name": "Music Television Music"
         },
         {
           "country": "AU",
@@ -2056,15 +2056,15 @@
         },
         {
           "country": "AU",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "AU",
-          "name": "CMT"
+          "name": "Country Music Television"
         },
         {
           "country": "AU",
-          "name": "V"
+          "name": "Quebec Entertainment Network"
         },
         {
           "country": "AU",
@@ -2072,7 +2072,7 @@
         },
         {
           "country": "AU",
-          "name": "[V] Hits"
+          "name": "[Quebec Entertainment Network] Hits"
         },
         {
           "country": "AU",
@@ -2080,31 +2080,31 @@
         },
         {
           "country": "AU",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "AU",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "AU",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "AU",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "AU",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "AU",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "AU",
-          "name": "CBeebies"
+          "name": "Preschool UK"
         },
         {
           "country": "AU",
@@ -2116,19 +2116,19 @@
         },
         {
           "country": "AU",
-          "name": "NBC Universal News"
+          "name": "Network B Universal News"
         },
         {
           "country": "AU",
-          "name": "Fox News"
+          "name": "News Network D"
         },
         {
           "country": "AU",
-          "name": "MSNBC"
+          "name": "News Network B"
         },
         {
           "country": "AU",
-          "name": "Sky News UK"
+          "name": "Satellite News UK"
         }
       ]
     },
@@ -2197,11 +2197,11 @@
         },
         {
           "country": "BR",
-          "name": "ESPN Brasil"
+          "name": "Sports Network A Brasil"
         },
         {
           "country": "BR",
-          "name": "Fox Sports Brasil"
+          "name": "Network D Sports Brasil"
         },
         {
           "country": "BR",
@@ -2217,7 +2217,7 @@
         },
         {
           "country": "BR",
-          "name": "Discovery Channel Brasil"
+          "name": "Science & Nature Network Brasil"
         },
         {
           "country": "BR",
@@ -2225,11 +2225,11 @@
         },
         {
           "country": "BR",
-          "name": "Animal Planet Brasil"
+          "name": "Wildlife Network Brasil"
         },
         {
           "country": "BR",
-          "name": "TLC Brasil"
+          "name": "Learning Channel Brasil"
         },
         {
           "country": "BR",
@@ -2237,15 +2237,15 @@
         },
         {
           "country": "BR",
-          "name": "Cartoon Network Brasil"
+          "name": "Animation Network B Brasil"
         },
         {
           "country": "BR",
-          "name": "Nickelodeon Brasil"
+          "name": "Kids Network A Brasil"
         },
         {
           "country": "BR",
-          "name": "Disney Channel Brasil"
+          "name": "Kids Entertainment Channel Brasil"
         },
         {
           "country": "BR",
@@ -2265,7 +2265,7 @@
         },
         {
           "country": "BR",
-          "name": "HBO Brasil"
+          "name": "Premium Movie Channel Brasil"
         },
         {
           "country": "BR",
@@ -2273,7 +2273,7 @@
         },
         {
           "country": "BR",
-          "name": "TNT Brasil"
+          "name": "Drama Network Brasil"
         },
         {
           "country": "BR",
@@ -2285,7 +2285,7 @@
         },
         {
           "country": "BR",
-          "name": "FX Brasil"
+          "name": "Premium Cable Network Brasil"
         },
         {
           "country": "BR",
@@ -2362,7 +2362,7 @@
         },
         {
           "country": "CO",
-          "name": "Citytv"
+          "name": "Canadian City Network"
         },
         {
           "country": "CO",
@@ -2374,11 +2374,11 @@
         },
         {
           "country": "CO",
-          "name": "ESPN Colombia"
+          "name": "Sports Network A Colombia"
         },
         {
           "country": "CO",
-          "name": "Fox Sports Colombia"
+          "name": "Network D Sports Colombia"
         },
         {
           "country": "CO",
@@ -2402,23 +2402,23 @@
         },
         {
           "country": "CO",
-          "name": "Discovery Channel Colombia"
+          "name": "Science & Nature Network Colombia"
         },
         {
           "country": "CO",
-          "name": "National Geographic Colombia"
+          "name": "Geographic Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "History Channel Colombia"
+          "name": "Historical Network Colombia"
         },
         {
           "country": "CO",
-          "name": "A&E Colombia"
+          "name": "Arts & Entertainment Network Colombia"
         },
         {
           "country": "CO",
-          "name": "TLC Colombia"
+          "name": "Learning Channel Colombia"
         },
         {
           "country": "CO",
@@ -2426,27 +2426,27 @@
         },
         {
           "country": "CO",
-          "name": "Cartoon Network Colombia"
+          "name": "Animation Network B Colombia"
         },
         {
           "country": "CO",
-          "name": "Nickelodeon Colombia"
+          "name": "Kids Network A Colombia"
         },
         {
           "country": "CO",
-          "name": "Disney Channel Colombia"
+          "name": "Kids Entertainment Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "Disney Junior Colombia"
+          "name": "Preschool Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "Disney XD Colombia"
+          "name": "Kids Action Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "Boomerang Colombia"
+          "name": "Classic Animation Colombia"
         },
         {
           "country": "CO",
@@ -2466,7 +2466,7 @@
         },
         {
           "country": "CO",
-          "name": "TNT Colombia"
+          "name": "Drama Network Colombia"
         },
         {
           "country": "CO",
@@ -2478,11 +2478,11 @@
         },
         {
           "country": "CO",
-          "name": "Fox Channel Colombia"
+          "name": "Network D Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "FX Colombia"
+          "name": "Premium Cable Network Colombia"
         },
         {
           "country": "CO",
@@ -2498,31 +2498,31 @@
         },
         {
           "country": "CO",
-          "name": "HBO Colombia"
+          "name": "Premium Movie Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "HBO 2 Colombia"
+          "name": "Premium Movie Channel 2 Colombia"
         },
         {
           "country": "CO",
-          "name": "HBO Plus Colombia"
+          "name": "Premium Movie Channel Plus Colombia"
         },
         {
           "country": "CO",
-          "name": "HBO Family Colombia"
+          "name": "Premium Family Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "HBO Signature Colombia"
+          "name": "Premium Signature Channel Colombia"
         },
         {
           "country": "CO",
-          "name": "HBO Mundi Colombia"
+          "name": "Premium Movie Channel Mundi Colombia"
         },
         {
           "country": "CO",
-          "name": "HBO Pop Colombia"
+          "name": "Premium Movie Channel Pop Culture Network Colombia"
         },
         {
           "country": "CO",
@@ -2815,31 +2815,31 @@
         },
         {
           "country": "MX",
-          "name": "FOX"
+          "name": "Network D"
         },
         {
           "country": "MX",
-          "name": "FX"
+          "name": "Premium Cable Network"
         },
         {
           "country": "MX",
-          "name": "HBO"
+          "name": "Premium Movie Channel"
         },
         {
           "country": "MX",
-          "name": "HBO 2"
+          "name": "Premium Movie Channel 2"
         },
         {
           "country": "MX",
-          "name": "HBO Plus"
+          "name": "Premium Movie Channel Plus"
         },
         {
           "country": "MX",
-          "name": "HBO Family"
+          "name": "Premium Family Channel"
         },
         {
           "country": "MX",
-          "name": "HBO Signature"
+          "name": "Premium Signature Channel"
         },
         {
           "country": "MX",
@@ -2859,7 +2859,7 @@
         },
         {
           "country": "MX",
-          "name": "TNT"
+          "name": "Drama Network"
         },
         {
           "country": "MX",
@@ -2867,27 +2867,27 @@
         },
         {
           "country": "MX",
-          "name": "A&E"
+          "name": "Arts & Entertainment Network"
         },
         {
           "country": "MX",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "MX",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "MX",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "MX",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "MX",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "MX",
@@ -2895,7 +2895,7 @@
         },
         {
           "country": "MX",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "MX",
@@ -2903,23 +2903,23 @@
         },
         {
           "country": "MX",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "MX",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "MX",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "MX",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "MX",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "MX",
@@ -2931,27 +2931,27 @@
         },
         {
           "country": "MX",
-          "name": "Fox Sports"
+          "name": "Network D Sports"
         },
         {
           "country": "MX",
-          "name": "Fox Sports 2"
+          "name": "Sports Network D2"
         },
         {
           "country": "MX",
-          "name": "Fox Sports 3"
+          "name": "Network D Sports 3"
         },
         {
           "country": "MX",
-          "name": "ESPN"
+          "name": "Sports Network A"
         },
         {
           "country": "MX",
-          "name": "ESPN 2"
+          "name": "Sports Network A 2"
         },
         {
           "country": "MX",
-          "name": "ESPN 3"
+          "name": "Sports Network A 3"
         },
         {
           "country": "MX",
@@ -2967,7 +2967,7 @@
         },
         {
           "country": "MX",
-          "name": "beIN Sports"
+          "name": "International Sports Network"
         },
         {
           "country": "MX",
@@ -3084,35 +3084,35 @@
         },
         {
           "country": "AR",
-          "name": "MTV Latin America"
+          "name": "Music Television Latin America"
         },
         {
           "country": "AR",
-          "name": "Nickelodeon Latin America"
+          "name": "Kids Network A Latin America"
         },
         {
           "country": "AR",
-          "name": "Disney Channel Latin America"
+          "name": "Kids Entertainment Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "Disney Junior Latin America"
+          "name": "Preschool Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "Disney XD Latin America"
+          "name": "Kids Action Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "Cartoon Network Latin America"
+          "name": "Animation Network B Latin America"
         },
         {
           "country": "AR",
-          "name": "Boomerang Latin America"
+          "name": "Classic Animation Latin America"
         },
         {
           "country": "AR",
-          "name": "Discovery Channel Latin America"
+          "name": "Science & Nature Network Latin America"
         },
         {
           "country": "AR",
@@ -3124,55 +3124,55 @@
         },
         {
           "country": "AR",
-          "name": "Animal Planet Latin America"
+          "name": "Wildlife Network Latin America"
         },
         {
           "country": "AR",
-          "name": "National Geographic Latin America"
+          "name": "Geographic Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "History Channel Latin America"
+          "name": "Historical Network Latin America"
         },
         {
           "country": "AR",
-          "name": "A&E Latin America"
+          "name": "Arts & Entertainment Network Latin America"
         },
         {
           "country": "AR",
-          "name": "TLC Latin America"
+          "name": "Learning Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "Fox Channel Latin America"
+          "name": "Network D Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "FX Latin America"
+          "name": "Premium Cable Network Latin America"
         },
         {
           "country": "AR",
-          "name": "Fox Sports Latin America"
+          "name": "Network D Sports Latin America"
         },
         {
           "country": "AR",
-          "name": "ESPN Latin America"
+          "name": "Sports Network A Latin America"
         },
         {
           "country": "AR",
-          "name": "ESPN 2 Latin America"
+          "name": "Sports Network A 2 Latin America"
         },
         {
           "country": "AR",
-          "name": "ESPN 3 Latin America"
+          "name": "Sports Network A 3 Latin America"
         },
         {
           "country": "AR",
-          "name": "Fox Sports 2"
+          "name": "Sports Network D2"
         },
         {
           "country": "AR",
-          "name": "Fox Sports 3"
+          "name": "Network D Sports 3"
         },
         {
           "country": "AR",
@@ -3200,7 +3200,7 @@
         },
         {
           "country": "AR",
-          "name": "H2 (History 2)"
+          "name": "H2 (Historical Network 2)"
         },
         {
           "country": "AR",
@@ -3228,7 +3228,7 @@
         },
         {
           "country": "AR",
-          "name": "AMC Latin America"
+          "name": "Movie Classics Network Latin America"
         },
         {
           "country": "AR",
@@ -3236,7 +3236,7 @@
         },
         {
           "country": "AR",
-          "name": "TNT Latin America"
+          "name": "Drama Network Latin America"
         },
         {
           "country": "AR",
@@ -3248,23 +3248,23 @@
         },
         {
           "country": "AR",
-          "name": "HBO Latin America"
+          "name": "Premium Movie Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "HBO 2 Latin America"
+          "name": "Premium Movie Channel 2 Latin America"
         },
         {
           "country": "AR",
-          "name": "HBO Plus Latin America"
+          "name": "Premium Movie Channel Plus Latin America"
         },
         {
           "country": "AR",
-          "name": "HBO Family Latin America"
+          "name": "Premium Family Channel Latin America"
         },
         {
           "country": "AR",
-          "name": "HBO Signature Latin America"
+          "name": "Premium Signature Channel Latin America"
         },
         {
           "country": "AR",
@@ -3284,7 +3284,7 @@
         },
         {
           "country": "AR",
-          "name": "Fox Premium"
+          "name": "Network D Premium"
         }
       ]
     },
@@ -3325,7 +3325,7 @@
         },
         {
           "country": "CL",
-          "name": "CNN Chile"
+          "name": "News Network A Chile"
         },
         {
           "country": "CL",
@@ -3345,7 +3345,7 @@
         },
         {
           "country": "CL",
-          "name": "Vía X"
+          "name": "Quebec Entertainment Networkía X"
         },
         {
           "country": "CL",
@@ -3385,27 +3385,27 @@
         },
         {
           "country": "CL",
-          "name": "TNT Sports Chile"
+          "name": "Drama Network Sports Chile"
         },
         {
           "country": "CL",
-          "name": "ESPN Chile"
+          "name": "Sports Network A Chile"
         },
         {
           "country": "CL",
-          "name": "Fox Sports Chile"
+          "name": "Network D Sports Chile"
         },
         {
           "country": "CL",
-          "name": "Fox Sports 1"
+          "name": "Sports Network D1"
         },
         {
           "country": "CL",
-          "name": "Fox Sports 2"
+          "name": "Sports Network D2"
         },
         {
           "country": "CL",
-          "name": "Fox Sports 3"
+          "name": "Network D Sports 3"
         },
         {
           "country": "CL",
@@ -3510,7 +3510,7 @@
         },
         {
           "country": "BB",
-          "name": "CBC TV 8"
+          "name": "Canadian Public Broadcaster TV 8"
         },
         {
           "country": "BB",
@@ -3518,7 +3518,7 @@
         },
         {
           "country": "BB",
-          "name": "CBC Sports"
+          "name": "Canadian Public Broadcaster Sports"
         },
         {
           "country": "BB",
@@ -3807,15 +3807,15 @@
         },
         {
           "country": "EC",
-          "name": "ESPN Ecuador"
+          "name": "Sports Network A Ecuador"
         },
         {
           "country": "EC",
-          "name": "Fox Sports Ecuador"
+          "name": "Network D Sports Ecuador"
         },
         {
           "country": "EC",
-          "name": "Fox Sports 2 Ecuador"
+          "name": "Sports Network D2 Ecuador"
         }
       ]
     },
@@ -3961,15 +3961,15 @@
         },
         {
           "country": "PA",
-          "name": "Fox Sports Panama"
+          "name": "Network D Sports Panama"
         },
         {
           "country": "PA",
-          "name": "ESPN Panama"
+          "name": "Sports Network A Panama"
         },
         {
           "country": "PA",
-          "name": "Discovery Channel Panama"
+          "name": "Science & Nature Network Panama"
         },
         {
           "country": "PA",
@@ -3977,11 +3977,11 @@
         },
         {
           "country": "PA",
-          "name": "Animal Planet Panama"
+          "name": "Wildlife Network Panama"
         },
         {
           "country": "PA",
-          "name": "TLC Panama"
+          "name": "Learning Channel Panama"
         },
         {
           "country": "PA",
@@ -3989,23 +3989,23 @@
         },
         {
           "country": "PA",
-          "name": "Cartoon Network Panama"
+          "name": "Animation Network B Panama"
         },
         {
           "country": "PA",
-          "name": "Nickelodeon Panama"
+          "name": "Kids Network A Panama"
         },
         {
           "country": "PA",
-          "name": "Disney Channel Panama"
+          "name": "Kids Entertainment Channel Panama"
         },
         {
           "country": "PA",
-          "name": "HBO Panama"
+          "name": "Premium Movie Channel Panama"
         },
         {
           "country": "PA",
-          "name": "Fox Panama"
+          "name": "Network D Panama"
         },
         {
           "country": "PA",
@@ -4013,7 +4013,7 @@
         },
         {
           "country": "PA",
-          "name": "TNT Panama"
+          "name": "Drama Network Panama"
         },
         {
           "country": "PA",
@@ -4025,7 +4025,7 @@
         },
         {
           "country": "PA",
-          "name": "FX Panama"
+          "name": "Premium Cable Network Panama"
         },
         {
           "country": "PA",
@@ -4033,7 +4033,7 @@
         },
         {
           "country": "PA",
-          "name": "AMC Panama"
+          "name": "Movie Classics Network Panama"
         },
         {
           "country": "PA",
@@ -4046,19 +4046,19 @@
       "channels": [
         {
           "country": "US",
-          "name": "ABC"
+          "name": "Network A"
         },
         {
           "country": "US",
-          "name": "NBC"
+          "name": "Network B"
         },
         {
           "country": "US",
-          "name": "CBS"
+          "name": "Network C"
         },
         {
           "country": "US",
-          "name": "FOX"
+          "name": "Network D"
         },
         {
           "country": "US",
@@ -4082,19 +4082,19 @@
         },
         {
           "country": "US",
-          "name": "A&E"
+          "name": "Arts & Entertainment Network"
         },
         {
           "country": "US",
-          "name": "AMC"
+          "name": "Movie Classics Network"
         },
         {
           "country": "US",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "US",
-          "name": "BBC America"
+          "name": "British Network America"
         },
         {
           "country": "US",
@@ -4102,19 +4102,19 @@
         },
         {
           "country": "US",
-          "name": "Bloomberg"
+          "name": "Financial News"
         },
         {
           "country": "US",
-          "name": "Bravo"
+          "name": "Lifestyle Network A"
         },
         {
           "country": "US",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "US",
-          "name": "CBS Sports Network"
+          "name": "Sports Network C"
         },
         {
           "country": "US",
@@ -4122,15 +4122,15 @@
         },
         {
           "country": "US",
-          "name": "CMT"
+          "name": "Country Music Television"
         },
         {
           "country": "US",
-          "name": "CNBC"
+          "name": "Business Network C"
         },
         {
           "country": "US",
-          "name": "CNN"
+          "name": "News Network A"
         },
         {
           "country": "US",
@@ -4138,27 +4138,27 @@
         },
         {
           "country": "US",
-          "name": "Cooking Channel"
+          "name": "Culinary Network"
         },
         {
           "country": "US",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "US",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "US",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "US",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "US",
-          "name": "DIY Network"
+          "name": "Do It Yourself Network"
         },
         {
           "country": "US",
@@ -4166,39 +4166,39 @@
         },
         {
           "country": "US",
-          "name": "ESPN"
+          "name": "Sports Network A"
         },
         {
           "country": "US",
-          "name": "ESPN2"
+          "name": "Sports Network A2"
         },
         {
           "country": "US",
-          "name": "ESPNU"
+          "name": "University Sports"
         },
         {
           "country": "US",
-          "name": "ESPNews"
+          "name": "Sports News Network"
         },
         {
           "country": "US",
-          "name": "Food Network"
+          "name": "Cooking Network"
         },
         {
           "country": "US",
-          "name": "Fox Business"
+          "name": "Business Network D"
         },
         {
           "country": "US",
-          "name": "Fox News"
+          "name": "News Network D"
         },
         {
           "country": "US",
-          "name": "Fox Sports 1"
+          "name": "Sports Network D1"
         },
         {
           "country": "US",
-          "name": "Fox Sports 2"
+          "name": "Sports Network D2"
         },
         {
           "country": "US",
@@ -4206,11 +4206,11 @@
         },
         {
           "country": "US",
-          "name": "FX"
+          "name": "Premium Cable Network"
         },
         {
           "country": "US",
-          "name": "FXX"
+          "name": "Comedy Cable Network"
         },
         {
           "country": "US",
@@ -4218,99 +4218,99 @@
         },
         {
           "country": "US",
-          "name": "Golf Channel"
+          "name": "Golf Network"
         },
         {
           "country": "US",
-          "name": "Hallmark Channel"
+          "name": "Family Movies Network"
         },
         {
           "country": "US",
-          "name": "HBO"
+          "name": "Premium Movie Channel"
         },
         {
           "country": "US",
-          "name": "HBO 2"
+          "name": "Premium Movie Channel 2"
         },
         {
           "country": "US",
-          "name": "HBO Comedy"
+          "name": "Premium Comedy Channel"
         },
         {
           "country": "US",
-          "name": "HBO Family"
+          "name": "Premium Family Channel"
         },
         {
           "country": "US",
-          "name": "HBO Latino"
+          "name": "Premium Latino Channel"
         },
         {
           "country": "US",
-          "name": "HBO Signature"
+          "name": "Premium Signature Channel"
         },
         {
           "country": "US",
-          "name": "HBO Zone"
+          "name": "Premium Zone Channel"
         },
         {
           "country": "US",
-          "name": "HGTV"
+          "name": "Home & Garden Network"
         },
         {
           "country": "US",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "US",
-          "name": "HLN"
+          "name": "Headline News"
         },
         {
           "country": "US",
-          "name": "IFC"
+          "name": "Independent Film Channel"
         },
         {
           "country": "US",
-          "name": "Lifetime"
+          "name": "Women's Network"
         },
         {
           "country": "US",
-          "name": "MLB Network"
+          "name": "Professional Baseball Network"
         },
         {
           "country": "US",
-          "name": "MSNBC"
+          "name": "News Network B"
         },
         {
           "country": "US",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "US",
-          "name": "MTV2"
+          "name": "Music Television 2"
         },
         {
           "country": "US",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "US",
-          "name": "Nat Geo Wild"
+          "name": "Wildlife Geographic"
         },
         {
           "country": "US",
-          "name": "NBC Sports Network"
+          "name": "Sports Network B"
         },
         {
           "country": "US",
-          "name": "NFL Network"
+          "name": "Professional Football Network"
         },
         {
           "country": "US",
-          "name": "NHL Network"
+          "name": "Professional Hockey Network"
         },
         {
           "country": "US",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "US",
@@ -4318,119 +4318,119 @@
         },
         {
           "country": "US",
-          "name": "Nicktoons"
+          "name": "Animation Network A"
         },
         {
           "country": "US",
-          "name": "OWN"
+          "name": "Oprah's Network"
         },
         {
           "country": "US",
-          "name": "Oxygen"
+          "name": "Crime & Investigation A"
         },
         {
           "country": "US",
-          "name": "Paramount Network"
+          "name": "Entertainment Network P"
         },
         {
           "country": "US",
-          "name": "PBS Kids"
+          "name": "Educational Kids"
         },
         {
           "country": "US",
-          "name": "Pop"
+          "name": "Pop Culture Network"
         },
         {
           "country": "US",
-          "name": "QVC"
+          "name": "Shopping Network A"
         },
         {
           "country": "US",
-          "name": "Reelz"
+          "name": "Entertainment News & Movies"
         },
         {
           "country": "US",
-          "name": "Science Channel"
+          "name": "Science Learning Network"
         },
         {
           "country": "US",
-          "name": "Showtime"
+          "name": "Premium Entertainment"
         },
         {
           "country": "US",
-          "name": "Showtime 2"
+          "name": "Premium Entertainment 2"
         },
         {
           "country": "US",
-          "name": "Showtime Extreme"
+          "name": "Premium Entertainment Extreme"
         },
         {
           "country": "US",
-          "name": "Showtime Showcase"
+          "name": "Premium Entertainment Canadian Drama Network"
         },
         {
           "country": "US",
-          "name": "Smithsonian Channel"
+          "name": "Educational Historical Network"
         },
         {
           "country": "US",
-          "name": "Spike"
+          "name": "Men's Network"
         },
         {
           "country": "US",
-          "name": "Starz"
+          "name": "Premium Movies"
         },
         {
           "country": "US",
-          "name": "Starz Cinema"
+          "name": "Premium Movies Cinema"
         },
         {
           "country": "US",
-          "name": "Starz Comedy"
+          "name": "Premium Movies Comedy"
         },
         {
           "country": "US",
-          "name": "Starz Edge"
+          "name": "Premium Movies Edge"
         },
         {
           "country": "US",
-          "name": "Starz Encore"
+          "name": "Premium Movies Encore"
         },
         {
           "country": "US",
-          "name": "Starz Encore Action"
+          "name": "Premium Movies Action"
         },
         {
           "country": "US",
-          "name": "Starz Encore Black"
+          "name": "Premium Movies Black"
         },
         {
           "country": "US",
-          "name": "Starz Encore Classic"
+          "name": "Premium Movies Classic"
         },
         {
           "country": "US",
-          "name": "Starz Encore Family"
+          "name": "Premium Movies Family"
         },
         {
           "country": "US",
-          "name": "Starz Encore Suspense"
+          "name": "Premium Movies Suspense"
         },
         {
           "country": "US",
-          "name": "Starz Encore Westerns"
+          "name": "Premium Movies Westerns"
         },
         {
           "country": "US",
-          "name": "Starz in Black"
+          "name": "Premium Movies in Black"
         },
         {
           "country": "US",
-          "name": "Starz Kids & Family"
+          "name": "Premium Kids & Family"
         },
         {
           "country": "US",
-          "name": "Sundance TV"
+          "name": "Independent Film Network"
         },
         {
           "country": "US",
@@ -4438,11 +4438,11 @@
         },
         {
           "country": "US",
-          "name": "TBS"
+          "name": "Comedy Network B"
         },
         {
           "country": "US",
-          "name": "TCM"
+          "name": "Classic Movies Network"
         },
         {
           "country": "US",
@@ -4450,27 +4450,27 @@
         },
         {
           "country": "US",
-          "name": "Tennis Channel"
+          "name": "Tennis Network"
         },
         {
           "country": "US",
-          "name": "The Weather Channel"
+          "name": "Canadian Weather Channel"
         },
         {
           "country": "US",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "US",
-          "name": "TNT"
+          "name": "Drama Network"
         },
         {
           "country": "US",
-          "name": "Travel Channel"
+          "name": "Travel & Adventure"
         },
         {
           "country": "US",
-          "name": "truTV"
+          "name": "Reality Comedy Network"
         },
         {
           "country": "US",
@@ -4482,15 +4482,15 @@
         },
         {
           "country": "US",
-          "name": "USA Network"
+          "name": "General Entertainment Network"
         },
         {
           "country": "US",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "US",
-          "name": "Viceland"
+          "name": "Youth Culture Network"
         }
       ]
     },
@@ -4575,27 +4575,27 @@
         },
         {
           "country": "DK",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "DK",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "DK",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "DK",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "DK",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "DK",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "DK",
@@ -4623,7 +4623,7 @@
         },
         {
           "country": "DK",
-          "name": "Viasat History"
+          "name": "Viasat Historical Network"
         },
         {
           "country": "DK",
@@ -4647,7 +4647,7 @@
         },
         {
           "country": "DK",
-          "name": "HBO Nordic"
+          "name": "Premium Movie Channel Nordic"
         },
         {
           "country": "DK",
@@ -4655,31 +4655,31 @@
         },
         {
           "country": "DK",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "DK",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "DK",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "DK",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "DK",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "DK",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "DK",
-          "name": "TLC"
+          "name": "Learning Channel"
         }
       ]
     },
@@ -4744,31 +4744,31 @@
         },
         {
           "country": "SE",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "SE",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "SE",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "SE",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "SE",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "SE",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "SE",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "SE",
@@ -4796,7 +4796,7 @@
         },
         {
           "country": "SE",
-          "name": "Viasat History"
+          "name": "Viasat Historical Network"
         },
         {
           "country": "SE",
@@ -4820,7 +4820,7 @@
         },
         {
           "country": "SE",
-          "name": "HBO Nordic"
+          "name": "Premium Movie Channel Nordic"
         },
         {
           "country": "SE",
@@ -4836,27 +4836,27 @@
         },
         {
           "country": "SE",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "SE",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "SE",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "SE",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "SE",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "SE",
-          "name": "VH1"
+          "name": "Video Hits Network"
         }
       ]
     },
@@ -4921,31 +4921,31 @@
         },
         {
           "country": "FI",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "FI",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "FI",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "FI",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "FI",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "FI",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "FI",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "FI",
@@ -4973,7 +4973,7 @@
         },
         {
           "country": "FI",
-          "name": "Viasat History"
+          "name": "Viasat Historical Network"
         },
         {
           "country": "FI",
@@ -4997,7 +4997,7 @@
         },
         {
           "country": "FI",
-          "name": "HBO Nordic"
+          "name": "Premium Movie Channel Nordic"
         },
         {
           "country": "FI",
@@ -5013,27 +5013,27 @@
         },
         {
           "country": "FI",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "FI",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "FI",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "FI",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "FI",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "FI",
-          "name": "VH1"
+          "name": "Video Hits Network"
         }
       ]
     },
@@ -5042,11 +5042,11 @@
       "channels": [
         {
           "country": "IS",
-          "name": "RÚV"
+          "name": "RÚQuebec Entertainment Network"
         },
         {
           "country": "IS",
-          "name": "RÚV 2"
+          "name": "RÚQuebec Entertainment Network 2"
         },
         {
           "country": "IS",
@@ -5106,7 +5106,7 @@
         },
         {
           "country": "IS",
-          "name": "RÚV+ (RÚV Extra)"
+          "name": "RÚQuebec Entertainment Network+ (RÚQuebec Entertainment Network Extra)"
         },
         {
           "country": "IS",
@@ -5118,31 +5118,31 @@
         },
         {
           "country": "IS",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "IS",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "IS",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "IS",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "IS",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "IS",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "IS",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "IS",
@@ -5170,7 +5170,7 @@
         },
         {
           "country": "IS",
-          "name": "Viasat History"
+          "name": "Viasat Historical Network"
         },
         {
           "country": "IS",
@@ -5194,7 +5194,7 @@
         },
         {
           "country": "IS",
-          "name": "HBO Nordic"
+          "name": "Premium Movie Channel Nordic"
         },
         {
           "country": "IS",
@@ -5206,15 +5206,15 @@
         },
         {
           "country": "IS",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "IS",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "IS",
-          "name": "MTV"
+          "name": "Music Television"
         }
       ]
     },
@@ -5283,19 +5283,19 @@
         },
         {
           "country": "NL",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "NL",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "NL",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "NL",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "NL",
@@ -5307,7 +5307,7 @@
         },
         {
           "country": "NL",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "NL",
@@ -5319,27 +5319,27 @@
         },
         {
           "country": "NL",
-          "name": "ESPN"
+          "name": "Sports Network A"
         },
         {
           "country": "NL",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "NL",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "NL",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "NL",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "NL",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "NL",
@@ -5347,19 +5347,19 @@
         },
         {
           "country": "NL",
-          "name": "Spike"
+          "name": "Men's Network"
         },
         {
           "country": "NL",
-          "name": "Fox Sports Eredivisie"
+          "name": "Network D Sports Eredivisie"
         },
         {
           "country": "NL",
-          "name": "Fox Sports International"
+          "name": "Network D Sports International"
         },
         {
           "country": "NL",
-          "name": "HBO Nederland"
+          "name": "Premium Movie Channel Nederland"
         },
         {
           "country": "NL",
@@ -5391,7 +5391,7 @@
         },
         {
           "country": "NL",
-          "name": "BBC World News"
+          "name": "International News Network"
         }
       ]
     },
@@ -5556,7 +5556,7 @@
         },
         {
           "country": "CH",
-          "name": "Sky Sports"
+          "name": "Premium Sports Network"
         },
         {
           "country": "CH",
@@ -5564,7 +5564,7 @@
         },
         {
           "country": "CH",
-          "name": "Sky Atlantic"
+          "name": "Premium Drama Channel"
         }
       ]
     },
@@ -5717,15 +5717,15 @@
         },
         {
           "country": "FR",
-          "name": "beIN Sports 1"
+          "name": "International Sports Network 1"
         },
         {
           "country": "FR",
-          "name": "beIN Sports 2"
+          "name": "International Sports Network 2"
         },
         {
           "country": "FR",
-          "name": "beIN Sports 3"
+          "name": "International Sports Network 3"
         },
         {
           "country": "FR",
@@ -5749,27 +5749,27 @@
         },
         {
           "country": "FR",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "FR",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "FR",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "FR",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "FR",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "FR",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "FR",
@@ -5789,7 +5789,7 @@
         },
         {
           "country": "FR",
-          "name": "Planète+ A&E"
+          "name": "Planète+ Arts & Entertainment Network"
         },
         {
           "country": "FR",
@@ -5954,35 +5954,35 @@
         },
         {
           "country": "BE",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "BE",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "BE",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "BE",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "BE",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "BE",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "BE",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "BE",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "BE",
@@ -6030,7 +6030,7 @@
         },
         {
           "country": "BE",
-          "name": "HBO (France)"
+          "name": "Premium Movie Channel (France)"
         },
         {
           "country": "BE",
@@ -6042,15 +6042,15 @@
         },
         {
           "country": "BE",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "BE",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "BE",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "BE",
@@ -6179,7 +6179,7 @@
         },
         {
           "country": "IT",
-          "name": "Sky Atlantic"
+          "name": "Premium Drama Channel"
         },
         {
           "country": "IT",
@@ -6255,7 +6255,7 @@
         },
         {
           "country": "IT",
-          "name": "DAZN"
+          "name": "Sports Streaming Service"
         },
         {
           "country": "IT",
@@ -6311,15 +6311,15 @@
         },
         {
           "country": "IT",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "IT",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "IT",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "IT",
@@ -6327,35 +6327,35 @@
         },
         {
           "country": "IT",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "IT",
-          "name": "Fox Life"
+          "name": "Network D Life"
         },
         {
           "country": "IT",
-          "name": "Fox Crime"
+          "name": "Network D Crime"
         },
         {
           "country": "IT",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "IT",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "IT",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "IT",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "IT",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "IT",
@@ -6371,11 +6371,11 @@
         },
         {
           "country": "IT",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "IT",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "IT",
@@ -6391,15 +6391,15 @@
         },
         {
           "country": "IT",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "IT",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "IT",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "IT",
@@ -6556,15 +6556,15 @@
         },
         {
           "country": "HR",
-          "name": "HBO Adria"
+          "name": "Premium Movie Channel Adria"
         },
         {
           "country": "HR",
-          "name": "HBO 2 Adria"
+          "name": "Premium Movie Channel 2 Adria"
         },
         {
           "country": "HR",
-          "name": "HBO 3 Adria"
+          "name": "Premium Movie Channel 3 Adria"
         },
         {
           "country": "HR",
@@ -6576,39 +6576,39 @@
         },
         {
           "country": "HR",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "HR",
-          "name": "Fox Life"
+          "name": "Network D Life"
         },
         {
           "country": "HR",
-          "name": "Fox Crime"
+          "name": "Network D Crime"
         },
         {
           "country": "HR",
-          "name": "Fox Movies"
+          "name": "Network D Movies"
         },
         {
           "country": "HR",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "HR",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "HR",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "HR",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "HR",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "HR",
@@ -6616,31 +6616,31 @@
         },
         {
           "country": "HR",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "HR",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "HR",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "HR",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "HR",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "HR",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "HR",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "HR",
@@ -6648,19 +6648,19 @@
         },
         {
           "country": "HR",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "HR",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "HR",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "HR",
-          "name": "Bloomberg"
+          "name": "Financial News"
         }
       ]
     },
@@ -6809,47 +6809,47 @@
         },
         {
           "country": "UA",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "UA",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "UA",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "UA",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "UA",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "UA",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "UA",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "UA",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "UA",
-          "name": "Fox Life"
+          "name": "Network D Life"
         },
         {
           "country": "UA",
-          "name": "Fox Crime"
+          "name": "Network D Crime"
         },
         {
           "country": "UA",
-          "name": "HBO"
+          "name": "Premium Movie Channel"
         },
         {
           "country": "UA",
@@ -6857,19 +6857,19 @@
         },
         {
           "country": "UA",
-          "name": "AMC"
+          "name": "Movie Classics Network"
         },
         {
           "country": "UA",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "UA",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "UA",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "UA",
@@ -6877,11 +6877,11 @@
         },
         {
           "country": "UA",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "UA",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "UA",
@@ -6934,7 +6934,7 @@
         },
         {
           "country": "PL",
-          "name": "TVP ABC"
+          "name": "TVP Network A"
         },
         {
           "country": "PL",
@@ -7086,15 +7086,15 @@
         },
         {
           "country": "PL",
-          "name": "HBO"
+          "name": "Premium Movie Channel"
         },
         {
           "country": "PL",
-          "name": "HBO 2"
+          "name": "Premium Movie Channel 2"
         },
         {
           "country": "PL",
-          "name": "HBO 3"
+          "name": "Premium Movie Channel 3"
         },
         {
           "country": "PL",
@@ -7106,39 +7106,39 @@
         },
         {
           "country": "PL",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "PL",
-          "name": "Fox Comedy"
+          "name": "Network D Comedy"
         },
         {
           "country": "PL",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "PL",
-          "name": "Nat Geo Wild"
+          "name": "Wildlife Geographic"
         },
         {
           "country": "PL",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "PL",
-          "name": "Discovery Science"
+          "name": "Science Network"
         },
         {
           "country": "PL",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "PL",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "PL",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "PL",
@@ -7146,7 +7146,7 @@
         },
         {
           "country": "PL",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "PL",
@@ -7162,15 +7162,15 @@
         },
         {
           "country": "PL",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "PL",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "PL",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "PL",
@@ -7178,19 +7178,19 @@
         },
         {
           "country": "PL",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "PL",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "PL",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "PL",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "PL",
@@ -7238,11 +7238,11 @@
         },
         {
           "country": "PL",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "PL",
-          "name": "Sky News"
+          "name": "Satellite News"
         }
       ]
     },
@@ -7299,31 +7299,31 @@
         },
         {
           "country": "EE",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "EE",
-          "name": "Fox Life"
+          "name": "Network D Life"
         },
         {
           "country": "EE",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "EE",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "EE",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "EE",
-          "name": "TLC"
+          "name": "Learning Channel"
         },
         {
           "country": "EE",
-          "name": "History Channel"
+          "name": "Historical Network"
         },
         {
           "country": "EE",
@@ -7351,31 +7351,31 @@
         },
         {
           "country": "EE",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "EE",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "EE",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "EE",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "EE",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "EE",
-          "name": "MTV"
+          "name": "Music Television"
         },
         {
           "country": "EE",
-          "name": "VH1"
+          "name": "Video Hits Network"
         },
         {
           "country": "EE",
@@ -7383,7 +7383,7 @@
         },
         {
           "country": "EE",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "EE",
@@ -7399,11 +7399,11 @@
         },
         {
           "country": "EE",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "EE",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "EE",
@@ -7488,7 +7488,7 @@
         },
         {
           "country": "TR",
-          "name": "Fox"
+          "name": "Network D"
         },
         {
           "country": "TR",
@@ -7524,7 +7524,7 @@
         },
         {
           "country": "TR",
-          "name": "CNN Türk"
+          "name": "News Network A Türk"
         },
         {
           "country": "TR",
@@ -7540,11 +7540,11 @@
         },
         {
           "country": "TR",
-          "name": "Bloomberg HT"
+          "name": "Financial News HT"
         },
         {
           "country": "TR",
-          "name": "CNBC-e"
+          "name": "Business Network C-e"
         },
         {
           "country": "TR",
@@ -7556,19 +7556,19 @@
         },
         {
           "country": "TR",
-          "name": "beIN Sports 1"
+          "name": "International Sports Network 1"
         },
         {
           "country": "TR",
-          "name": "beIN Sports 2"
+          "name": "International Sports Network 2"
         },
         {
           "country": "TR",
-          "name": "beIN Sports 3"
+          "name": "International Sports Network 3"
         },
         {
           "country": "TR",
-          "name": "beIN Sports 4"
+          "name": "International Sports Network 4"
         },
         {
           "country": "TR",
@@ -7648,55 +7648,55 @@
         },
         {
           "country": "TR",
-          "name": "MTV Türkiye"
+          "name": "Music Television Türkiye"
         },
         {
           "country": "TR",
-          "name": "National Geographic"
+          "name": "Geographic Channel"
         },
         {
           "country": "TR",
-          "name": "National Geographic Wild"
+          "name": "Geographic Channel Wild"
         },
         {
           "country": "TR",
-          "name": "Discovery Channel"
+          "name": "Science & Nature Network"
         },
         {
           "country": "TR",
-          "name": "TLC Türkiye"
+          "name": "Learning Channel Türkiye"
         },
         {
           "country": "TR",
-          "name": "Animal Planet"
+          "name": "Wildlife Network"
         },
         {
           "country": "TR",
-          "name": "History Channel Türkiye"
+          "name": "Historical Network Türkiye"
         },
         {
           "country": "TR",
-          "name": "Fox Life"
+          "name": "Network D Life"
         },
         {
           "country": "TR",
-          "name": "Fox Crime"
+          "name": "Network D Crime"
         },
         {
           "country": "TR",
-          "name": "FX"
+          "name": "Premium Cable Network"
         },
         {
           "country": "TR",
-          "name": "Disney Channel"
+          "name": "Kids Entertainment Channel"
         },
         {
           "country": "TR",
-          "name": "Cartoon Network"
+          "name": "Animation Network B"
         },
         {
           "country": "TR",
-          "name": "Nickelodeon"
+          "name": "Kids Network A"
         },
         {
           "country": "TR",
@@ -7704,7 +7704,7 @@
         },
         {
           "country": "TR",
-          "name": "Boomerang"
+          "name": "Classic Animation"
         },
         {
           "country": "TR",
@@ -7720,19 +7720,19 @@
         },
         {
           "country": "TR",
-          "name": "Disney Junior"
+          "name": "Preschool Channel"
         },
         {
           "country": "TR",
-          "name": "Disney XD"
+          "name": "Kids Action Channel"
         },
         {
           "country": "TR",
-          "name": "CNBC-e"
+          "name": "Business Network C-e"
         },
         {
           "country": "TR",
-          "name": "BBC Earth"
+          "name": "Nature Documentary Channel"
         },
         {
           "country": "TR",
@@ -7740,15 +7740,15 @@
         },
         {
           "country": "TR",
-          "name": "BBC World News"
+          "name": "International News Network"
         },
         {
           "country": "TR",
-          "name": "CNN International"
+          "name": "News Network A International"
         },
         {
           "country": "TR",
-          "name": "Sky News"
+          "name": "Satellite News"
         },
         {
           "country": "TR",

@@ -1,15 +1,15 @@
 "use client";
 
-import logo1 from "@/public/images/logos/logo-1.png";
-import logo10 from "@/public/images/logos/logo-10.png";
-import logo2 from "@/public/images/logos/logo-2.png";
-import logo3 from "@/public/images/logos/logo-3.png";
-import logo4 from "@/public/images/logos/logo-4.png";
-import logo5 from "@/public/images/logos/logo-5.png";
-import logo6 from "@/public/images/logos/logo-6.png";
-import logo7 from "@/public/images/logos/logo-7.png";
-import logo8 from "@/public/images/logos/logo-8.png";
-import logo9 from "@/public/images/logos/logo-9.png";
+import logo1 from "@/public/images/logos/logo-1.svg";
+import logo10 from "@/public/images/logos/logo-10.svg";
+import logo2 from "@/public/images/logos/logo-2.svg";
+import logo3 from "@/public/images/logos/logo-3.svg";
+import logo4 from "@/public/images/logos/logo-4.svg";
+import logo5 from "@/public/images/logos/logo-5.svg";
+import logo6 from "@/public/images/logos/logo-6.svg";
+import logo7 from "@/public/images/logos/logo-7.svg";
+import logo8 from "@/public/images/logos/logo-8.svg";
+import logo9 from "@/public/images/logos/logo-9.svg";
 import { motion } from "framer-motion";
 import Image from "next/image";
 

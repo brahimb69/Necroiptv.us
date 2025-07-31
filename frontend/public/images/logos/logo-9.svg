@@ -1,0 +1,5 @@
+<svg width="160" height="80" viewBox="0 0 160 80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="160" height="80" fill="#f8f9fa" rx="8"/>
+    <ellipse cx="80" cy="40" rx="45" ry="25" fill="#14b8a6"/>
+    <text x="80" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">CH 9</text>
+  </svg>

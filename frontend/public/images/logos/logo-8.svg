@@ -1,0 +1,5 @@
+<svg width="160" height="80" viewBox="0 0 160 80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="160" height="80" fill="#f8f9fa" rx="8"/>
+    <polygon points="80,20 85,35 100,35 88,45 93,60 80,50 67,60 72,45 60,35 75,35" fill="#f59e0b"/>
+    <text x="80" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">8</text>
+  </svg>

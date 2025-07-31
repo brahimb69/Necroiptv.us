@@ -392,30 +392,30 @@ export function getDefaultBlogs() {
       slug: "top-10-sports-channels-on-necro-iptv",
       excerpt: "Explore the best sports channels available on Necro IPTV. From football to basketball, cricket to tennis, we've got all your favorite sports covered...",
       content: `<p>Sports fans rejoice! Necro IPTV offers an extensive collection of premium sports channels from around the world. Here are our top 10 picks that you shouldn't miss:</p>
-      <h2>1. ESPN</h2>
+      <h2>1. Sports Network A</h2>
       <p>The worldwide leader in sports, featuring comprehensive coverage of all major sporting events.</p>
-      <h2>2. Sky Sports</h2>
-      <p>Premier League football, Formula 1, golf, cricket, and more - Sky Sports has it all.</p>
-      <h2>3. beIN Sports</h2>
+      <h2>2. Premium Sports Network</h2>
+      <p>Premier League football, Formula 1, golf, cricket, and more - Premium Sports Network has it all.</p>
+      <h2>3. International Sports Network</h2>
       <p>Extensive coverage of European football leagues, tennis, and other international sports.</p>
-      <h2>4. DAZN</h2>
-      <p>The "Netflix of Sports" offering boxing, MMA, and various other sports content.</p>
-      <h2>5. NBC Sports</h2>
+      <h2>4. Sports Streaming Service</h2>
+      <p>The "Streaming Service A of Sports" offering boxing, MMA, and various other sports content.</p>
+      <h2>5. Network B Sports</h2>
       <p>Home to the Olympics, Premier League, NHL, NASCAR, and more.</p>
-      <h2>6. Fox Sports</h2>
+      <h2>6. Network D Sports</h2>
       <p>MLB, NFL, NASCAR, and college sports coverage.</p>
-      <h2>7. NBA TV</h2>
+      <h2>7. Professional Basketball TV</h2>
       <p>24/7 basketball coverage including live games, analysis, and documentaries.</p>
-      <h2>8. WWE Network</h2>
+      <h2>8. Wrestling Entertainment Network</h2>
       <p>All your favorite wrestling content including PPV events and original programming.</p>
-      <h2>9. Tennis Channel</h2>
+      <h2>9. Tennis Network</h2>
       <p>Comprehensive tennis coverage including Grand Slams and ATP/WTA tournaments.</p>
-      <h2>10. Golf Channel</h2>
+      <h2>10. Golf Network</h2>
       <p>PGA Tour events, instructional programs, and golf lifestyle content.</p>
       <p>With Necro IPTV, you'll never miss your favorite sporting events again!</p>`,
       featuredImage: "/images/blog-placeholder.jpg",
       categories: ["Sports", "IPTV"],
-      tags: ["Sports", "Channels", "ESPN", "Sky Sports"],
+      tags: ["Sports", "Channels", "Sports Network A", "Premium Sports Network"],
       author: {
         _id: "admin",
         name: "Admin",

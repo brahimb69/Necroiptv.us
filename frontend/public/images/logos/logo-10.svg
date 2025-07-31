@@ -1,0 +1,7 @@
+<svg width="160" height="80" viewBox="0 0 160 80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="160" height="80" fill="#f8f9fa" rx="8"/>
+    <circle cx="60" cy="40" r="15" fill="#6366f1"/>
+    <circle cx="80" cy="40" r="15" fill="#8b5cf6"/>
+    <circle cx="100" cy="40" r="15" fill="#ec4899"/>
+    <text x="80" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Platform 10</text>
+  </svg>
