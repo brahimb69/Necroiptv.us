@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["necroiptv.us", "blog.necroiptv.us"],
     remotePatterns: [
       {
         protocol: 'https',

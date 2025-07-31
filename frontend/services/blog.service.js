@@ -168,19 +168,22 @@ export const BlogService = {
   // Get all blogs with pagination and filters
   getAllBlogs: async (params = {}) => {
     try {
-      console.log("Fetching blogs via Next.js API route...");
+      console.log("🔄 Fetching latest blogs via Next.js API route...");
       
-      // Use the Next.js API route instead of direct WordPress call
-      const response = await axiosInstance('/api/blog');
+      // Add cache busting parameter to ensure fresh data
+      const cacheBuster = new Date().getTime();
+      const response = await axiosInstance(`/api/blog?t=${cacheBuster}`);
       
       if (response.data.success) {
         console.log("✅ Successfully fetched", response.data.data.length, "blogs via API route");
+        console.log("📅 Latest article:", response.data.meta?.latestArticle || 'N/A');
+        console.log("🗓️ Latest date:", response.data.meta?.latestDate || 'N/A');
         return response.data;
       } else {
         throw new Error("API route returned error");
       }
     } catch (error) {
-      console.error("Error fetching blogs via API route:", error);
+      console.error("❌ Error fetching blogs via API route:", error);
       console.log("⚠️ Falling back to default blogs");
       // Fallback to default blogs in case of error
       return BlogService.getDefaultBlogs(params);
@@ -194,15 +197,41 @@ export const BlogService = {
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), 5000); // 5 second timeout
       
-      // Ensure _embed=true is used for consistency
-      const response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?_embed=true&slug=${slug}`, {
-        signal: controller.signal
-      });
+      // First try without _embed to avoid issues with some WordPress installations
+      let response;
+      try {
+        response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?slug=${slug}`, {
+          signal: controller.signal
+        });
+      } catch (embedError) {
+        console.log("Retrying without _embed parameter...");
+        // If that fails, try with _embed=true as fallback
+        response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?_embed=true&slug=${slug}`, {
+          signal: controller.signal
+        });
+      }
       
       clearTimeout(timeoutId);
       
       if (response.data && response.data.length > 0) {
-        const blog = transformWordPressPost(response.data[0]);
+        // If we got a post without _embed, try to fetch additional data separately
+        let post = response.data[0];
+        
+        // Try to get embedded data if not already present
+        if (!post._embedded) {
+          try {
+            const embedResponse = await makeApiRequest(`${WORDPRESS_API_URL}/posts?_embed=true&slug=${slug}`, {
+              signal: controller.signal
+            });
+            if (embedResponse.data && embedResponse.data.length > 0 && embedResponse.data[0]._embedded) {
+              post._embedded = embedResponse.data[0]._embedded;
+            }
+          } catch (embedError) {
+            console.log("Could not fetch embedded data, proceeding without it");
+          }
+        }
+        
+        const blog = transformWordPressPost(post);
         return { success: true, data: blog };
       } else {
         throw new Error("Blog post not found");
