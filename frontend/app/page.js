@@ -4,7 +4,7 @@ import Features from "./components/sections/Features";
 import Hero from "./components/sections/Hero";
 import HowItWorks from "./components/sections/HowItWorks";
 import MultiDeviceSection from "./components/sections/MultiDeviceSection";
-import Platforms from "./components/sections/Platforms";
+
 import FAQ from "./components/sections/FAQ";
 import CustomerReviews from "./components/sections/CustomerReviews";
 import { motion } from "framer-motion";
@@ -27,7 +27,6 @@ export default function Home() {
     <>
       <Hero />
       <Features />
-      <Platforms />
       <MultiDevicePricing />
       {/* Lifetime Plan Special Card */}
       <motion.div

@@ -60,6 +60,39 @@ const lifetimeFeatures = [
   "24/7 Customer Support",
 ];
 
+const lifetimePlans = [
+  {
+    devices: "1 Device",
+    price: "289",
+    paymentLink: "https://t.growth4ch.shop/",
+    popular: true,
+  },
+  {
+    devices: "2 Devices",
+    price: "416",
+    paymentLink: "https://wa.link/tt8c55",
+    popular: false,
+  },
+  {
+    devices: "3 Devices",
+    price: "543",
+    paymentLink: "https://wa.link/tt8c55",
+    popular: false,
+  },
+  {
+    devices: "4 Devices",
+    price: "670",
+    paymentLink: "https://wa.link/tt8c55",
+    popular: false,
+  },
+  {
+    devices: "5 Devices",
+    price: "797",
+    paymentLink: "https://wa.link/tt8c55",
+    popular: false,
+  },
+];
+
 const Pricing = () => {
   const containerVariants = {
     hidden: { opacity: 0 },
@@ -204,7 +237,7 @@ const Pricing = () => {
           ))}
         </motion.div>
 
-        {/* Lifetime Plan Special Card */}
+        {/* Lifetime Plans Section */}
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -215,7 +248,7 @@ const Pricing = () => {
           {/* Special Badge */}
           <div className="absolute -top-5 left-1/2 -translate-x-1/2 bg-gradient-to-r from-primary to-blue-500 text-white px-6 py-2 rounded-full flex items-center gap-2 whitespace-nowrap shadow-lg z-20">
             <FaInfinity className="w-4 h-4" />
-            <span className="text-sm font-semibold">BEST VALUE</span>
+            <span className="text-sm font-semibold">LIFETIME PLANS</span>
           </div>
 
           <div className="relative">
@@ -223,45 +256,72 @@ const Pricing = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-primary/5 via-transparent to-blue-500/5 rounded-3xl" />
 
             <div className="relative rounded-3xl bg-background/50 dark:bg-gray-800/50 backdrop-blur-sm border border-primary/20 dark:border-primary-hover/20 p-8 md:p-12 overflow-hidden group hover:shadow-2xl hover:shadow-primary/5 transition-all duration-500">
-              <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
-                {/* Left Side - Title and Description */}
-                <div className="text-center lg:text-left">
-                  <h3 className="text-2xl md:text-3xl font-bold text-foreground dark:text-white mb-4 flex items-center gap-3 justify-center lg:justify-start">
-                    Lifetime Access
-                    <span className="inline-flex items-center justify-center bg-primary/10 dark:bg-primary-hover/10 text-primary dark:text-primary-hover p-1.5 rounded-lg group-hover:scale-110 transition-transform duration-300">
-                      <FaStar className="w-5 h-5" />
-                    </span>
-                  </h3>
-                  <p className="text-muted-foreground dark:text-gray-400 max-w-xl">
-                    Get amazing experience with our premium lifetime
-                    subscription. One-time payment for endless entertainment.
-                  </p>
-                </div>
+              {/* Section Header */}
+              <div className="text-center mb-12">
+                <h3 className="text-2xl md:text-3xl font-bold text-foreground dark:text-white mb-4 flex items-center gap-3 justify-center">
+                  Lifetime Access Plans
+                  <span className="inline-flex items-center justify-center bg-primary/10 dark:bg-primary-hover/10 text-primary dark:text-primary-hover p-1.5 rounded-lg group-hover:scale-110 transition-transform duration-300">
+                    <FaStar className="w-5 h-5" />
+                  </span>
+                </h3>
+                <p className="text-muted-foreground dark:text-gray-400 max-w-2xl mx-auto">
+                  Choose your perfect lifetime plan based on your device needs. One-time payment for endless entertainment.
+                </p>
+              </div>
 
-                {/* Right Side - Price and CTA */}
-                <div className="text-center lg:text-right">
-                  <div className="flex items-baseline justify-center lg:justify-end gap-2 mb-4">
-                    <span className="text-3xl font-bold text-primary dark:text-primary-hover">
-                      $
-                    </span>
-                    <span className="text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-blue-500 dark:from-primary-hover dark:to-blue-400">
-                      289
-                    </span>
-                    <span className="text-xl text-muted-foreground dark:text-gray-400">
-                      .00
-                    </span>
-                  </div>
-                  <Link href="http://t.growth4ch.shop/">
-                    <button className="inline-flex items-center gap-2 py-4 px-8 rounded-xl bg-gradient-to-r from-primary to-blue-500 hover:from-primary hover:to-primary dark:from-primary-hover dark:to-blue-400 dark:hover:from-primary dark:hover:to-primary text-white font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-lg group">
-                      GET LIFETIME ACCESS
-                      <FaCrown className="w-4 h-4 transform group-hover:rotate-12 transition-transform duration-300" />
-                    </button>
-                  </Link>
-                </div>
+              {/* Lifetime Plans Grid */}
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 mb-12">
+                {lifetimePlans.map((plan, index) => (
+                  <motion.div
+                    key={plan.devices}
+                    initial={{ opacity: 0, y: 20 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ delay: 0.1 * index }}
+                    className={`relative group rounded-2xl bg-background/50 dark:bg-gray-800/50 backdrop-blur-sm border border-border dark:border-gray-800/50 p-6 transition-all duration-300 hover:shadow-xl hover:scale-105 ${
+                      plan.popular
+                        ? "ring-2 ring-primary dark:ring-primary-hover scale-105"
+                        : ""
+                    }`}
+                  >
+                    {/* Popular Badge */}
+                    {plan.popular && (
+                      <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1 bg-primary dark:bg-primary-hover text-white text-sm rounded-full flex items-center gap-2 whitespace-nowrap">
+                        <FaCrown className="w-3 h-3" />
+                        <span>Best Value</span>
+                      </div>
+                    )}
+
+                    {/* Device Count */}
+                    <div className="text-lg font-semibold text-foreground dark:text-white mb-2 text-center">
+                      {plan.devices}
+                    </div>
+
+                    {/* Price */}
+                    <div className="flex items-baseline justify-center mb-6">
+                      <span className="text-2xl font-bold text-primary dark:text-primary-hover">
+                        $
+                      </span>
+                      <span className="text-4xl font-bold text-foreground dark:text-white mx-1">
+                        {plan.price}
+                      </span>
+                      <span className="text-muted-foreground dark:text-gray-400 text-sm">
+                        .00
+                      </span>
+                    </div>
+
+                    {/* CTA Button */}
+                    <Link href={plan.paymentLink}>
+                      <button className="w-full py-3 px-4 rounded-xl text-white dark:text-primary bg-[#004275] dark:bg-white hover:bg-[#004275] font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
+                        GET LIFETIME
+                      </button>
+                    </Link>
+                  </motion.div>
+                ))}
               </div>
 
               {/* Features Grid */}
-              <div className="mt-12 grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {lifetimeFeatures.map((feature, i) => (
                   <div
                     key={i}
