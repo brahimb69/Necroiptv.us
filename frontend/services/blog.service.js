@@ -228,17 +228,64 @@ export const BlogService = {
   // Get all published blogs for sitemap
   getBlogsForSitemap: async () => {
     try {
-      // Get maximum number of posts for sitemap (adjust per_page as needed)
-      const response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?per_page=100`);
+      let allPosts = [];
+      let currentPage = 1;
+      const perPage = 100; // WordPress maximum per page
+      let hasMorePages = true;
       
-      const sitemapData = response.data.map(post => ({
+      console.log("🔄 Starting sitemap generation - fetching all posts...");
+      
+      // Fetch all pages using pagination
+      while (hasMorePages) {
+        console.log(`📄 Fetching page ${currentPage}...`);
+        
+        const response = await makeApiRequest(`${WORDPRESS_API_URL}/posts?per_page=${perPage}&page=${currentPage}&orderby=date&order=desc&status=publish`);
+        
+        // Check if we got any posts
+        if (!response.data || response.data.length === 0) {
+          console.log(`❌ No posts found on page ${currentPage}, stopping pagination`);
+          break;
+        }
+        
+        console.log(`✅ Fetched page ${currentPage} with ${response.data.length} posts`);
+        allPosts = allPosts.concat(response.data);
+        
+        // Check pagination headers for total pages
+        const totalPages = parseInt(response.headers['x-wp-totalpages'] || '0');
+        const totalPosts = parseInt(response.headers['x-wp-total'] || '0');
+        
+        console.log(`📊 Page ${currentPage}/${totalPages}, Total posts so far: ${allPosts.length}/${totalPosts}`);
+        
+        // Check if we've reached the last page or if we got fewer posts than expected
+        if (currentPage >= totalPages || response.data.length < perPage) {
+          console.log(`🏁 Reached end of pagination at page ${currentPage}`);
+          hasMorePages = false;
+        } else {
+          currentPage++;
+        }
+        
+        // Safety check to prevent infinite loops (max 1000 pages)
+        if (currentPage > 1000) {
+          console.log("⚠️ Safety break: Reached maximum page limit (1000)");
+          break;
+        }
+      }
+      
+      console.log(`✅ Sitemap: Successfully fetched ${allPosts.length} total posts from ${currentPage} pages`);
+      
+      const sitemapData = allPosts.map(post => ({
         slug: post.slug,
-        updatedAt: post.modified
+        updatedAt: post.modified,
+        createdAt: post.date,
+        title: post.title.rendered,
+        excerpt: post.excerpt?.rendered || '',
+        featuredImage: post.featured_media && post.featured_media !== 0 ? `${WORDPRESS_API_URL.replace('/wp-json/wp/v2', '')}/wp-content/uploads/` : null
       }));
       
       return { success: true, data: sitemapData };
     } catch (error) {
-      console.error("Error fetching blogs for sitemap:", error);
+      console.error("❌ Error fetching blogs for sitemap:", error);
+      console.log("⚠️ Falling back to default blogs for sitemap");
       // Fallback to default blogs in case of error
       return BlogService.getDefaultBlogs({ mode: "sitemap" });
     }
