@@ -92,10 +92,10 @@ export default function Hero() {
               Experience the ultimate entertainment with Necro IPTV - the world's leading premium IPTV service. Stream 25,000+ live TV channels and 60,000+ movies & series in crystal-clear HD & 4K quality. Enjoy buffer-free streaming on Firestick, Android, iOS, Smart TVs, and more devices. 24/7 support included.
             </motion.p>
 
-            {/* Price and CTA */}
+            {/* CTA Buttons */}
             <motion.div
               variants={itemVariants}
-              className="flex flex-wrap items-center gap-6"
+              className="flex flex-wrap items-center gap-4"
             >
               <Link
                 href="/pricing"
@@ -103,14 +103,12 @@ export default function Hero() {
               >
                 BUY NOW
               </Link>
-              <div className="flex items-center gap-2">
-                <span className="text-2xl font-bold text-primary dark:text-primary-hover">
-                  $10.99
-                </span>
-                <span className="text-sm text-muted-foreground dark:text-foreground-dark/70">
-                  /month
-                </span>
-              </div>
+              <Link
+                href="https://ramaca.shop/step/demo/"
+                className="inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-primary dark:text-primary-hover bg-white hover:bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 border-2 border-primary dark:border-primary-hover transition-all duration-300 rounded-full shadow-lg hover:shadow-xl hover:shadow-primary/20 transform hover:-translate-y-0.5"
+              >
+                FREE TRIAL
+              </Link>
             </motion.div>
           </motion.div>
         </div>
